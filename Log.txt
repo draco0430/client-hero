@@ -1,0 +1,84 @@
+---------------------------------------------------------------------------
+// 로그 파일 기록 시작 [05월 27일 03시 29분]
+실행경로 : C:\Users\IanJayloG\Desktop\GolangFiles\Jaylo\HeroOnlineClassic\HeroOnlineClassic
+    [03시 29분 17초] =================================================
+    [03시 29분 17초] [시스템정보]
+    [03시 29분 17초] -운영 체제			: Windows 11 Pro for Workstations 64-bit (6.2, Build 9200) (22000.co_release.210604-1628)
+    [03시 29분 17초] -시스템 제조업체		: LENOVO
+    [03시 29분 17초] -시스템 모델		: 20TAS0AC00
+    [03시 29분 17초] -BIOS			: R1EET47W(1.47 )
+    [03시 29분 17초] -프로세서			: 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz (8 CPUs), ~2.8GHz
+    [03시 29분 17초] -메모리			: 16384MB RAM
+    [03시 29분 17초] =================================================
+    [03시 29분 19초] =================================================
+    [03시 29분 19초] [디스플레이 정보]
+    [03시 29분 19초] -이름	: Intel(R) Iris(R) Xe Graphics
+    [03시 29분 19초] -제조업체	: Intel Corporation
+    [03시 29분 19초] -칩종류	: Intel(R) Iris(R) Xe Graphics Family
+    [03시 29분 19초] -메모리	: 4095 MB
+    [03시 29분 19초] -드라이버	: C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_c782574e7f94da68\igdumdim64.dll,C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_c782574e7f94da68\igd10iumd64.dll,C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_c782574e7f94da68\igd10iumd64.dll,C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_c782574e7f94da68\igd12umd64.dll
+    [03시 29분 19초] -드라이버버전	: 31.00.0101.3413
+    [03시 29분 19초] -드라이버모델	: WDDM 3.0
+    [03시 29분 19초] -DDraw가속	: Enabled
+    [03시 29분 19초] -D3D가속	: Enabled
+    [03시 29분 19초] -AGP가속	: Enabled
+    [03시 29분 19초] =================================================
+    [03시 37분 16초]       pGameTime (0.0)
+    [03시 37분 16초]       g_PartResManager (0.0)
+    [03시 37분 16초]       g_PlugsResManager (0.0)
+    [03시 37분 16초]       g_UISEntityResManager (0.0)
+    [03시 37분 16초]       g_UISBoardResManager (0.0)
+    [03시 37분 16초]       g_ChrResManager (0.0)
+    [03시 37분 16초]       g_FXResManager (0.0)
+    [03시 37분 16초]       CDamageNumeral (0.0)
+    [03시 37분 16초]       AntiRelease (0.0)
+    [03시 37분 16초]  ##########  Release Start ########## 
+    [03시 37분 16초]       ToolTip (0.0)
+    [03시 37분 16초]       s_pProcCredits (0.0)
+    [03시 37분 16초]       Current Scene (0.0)
+    [03시 37분 16초]       ^^^^^^^^^  GameProcMain Release Start  ^^^^^^^^^^^ 
+    [03시 37분 16초] 			s_pFX (0.0)
+    [03시 37분 16초] 			m_pShapes (0.0)
+    [03시 37분 16초] 			m_pSky (0.0)
+    [03시 37분 16초] 			m_pGlobalEffectMgr (0.0)
+    [03시 37분 16초] 			m_pxTerrain (0.0)
+    [03시 37분 16초] 			m_pDecalMgr (0.0)
+    [03시 37분 16초] 			m_pBgmMgr (0.0)
+    [03시 37분 16초] 			m_pWaterFallMgr (0.0)
+    [03시 37분 16초] 			m_pMissileMgr (0.0)
+    [03시 37분 16초] 			m_pMapDynLightMgr (0.0)
+    [03시 37분 16초] 			m_pProjectShadow (0.0)
+    [03시 37분 16초] 			m_pGrassMng (0.0)
+    [03시 37분 16초] 			m_pDropedItemMgr (0.0)
+    [03시 37분 16초] 			m_pSKillEntityMgr (0.0)
+    [03시 37분 16초] 			m_pBoomObjectMgr (0.0)
+    [03시 37분 16초] 			m_pPacketHandler (0.0)
+    [03시 37분 16초] 			m_pUIHandler (0.0)
+    [03시 37분 16초] 			m_pRegionMgr (0.0)
+    [03시 37분 16초] 			m_pLifeEntityMgr (0.0)
+    [03시 37분 16초] 			m_pMyPlayer (0.0)
+    [03시 37분 16초] 			m_pMunpaDataMgr (0.0)
+    [03시 37분 16초] 			CGameProcMain End (0.0)
+    [03시 37분 16초]       s_pProcMain (0.0)
+    [03시 37분 16초]       s_pMsgBox (0.0)
+    [03시 37분 16초]       s_pTableMgr (0.0)
+    [03시 37분 16초]       s_pMsgMgr (0.0)
+    [03시 37분 16초]       s_pUIMgr (0.0)
+    [03시 37분 16초]       s_pFX (0.0)
+    [03시 37분 16초]       s_pProcOption (0.0)
+    [03시 37분 16초]       s_pLocalInput (0.0)
+    [03시 37분 16초]       s_pCursorMgr (0.0)
+    [03시 37분 16초]       s_pSocket (0.0)
+    [03시 37분 16초]       s_pIrc (0.0)
+    [03시 37분 16초]       s_pWCManager (0.0)
+    [03시 37분 16초]       s_pModelCharactor (0.0)
+    [03시 37분 16초]       s_pDissolve (0.0)
+    [03시 37분 16초]       m_pThread (0.0)
+    [03시 37분 16초]       m_pPacketThread (0.0)
+    [03시 37분 16초]       g_ThreadBuffer (0.0)
+    [03시 37분 16초]       g_PacketBuffer (0.0)
+    [03시 37분 16초]       g_ItmeBuffer (0.0)
+    [03시 37분 16초]       m_Cameras (0.0)
+    [03시 37분 16초]       itLgt (0.0)
+// 로그 파일 기록 끝 [05월 27일 03시 37분]
+---------------------------------------------------------------------------
