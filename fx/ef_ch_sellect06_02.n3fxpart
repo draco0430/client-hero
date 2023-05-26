@@ -1,0 +1,131 @@
+<N3FXPART>
+<type> mesh
+<shape_name> fx\shape\obj\cylinder01.n3shape
+<texture_move> DOWN 5.0000
+<scale_velocity> -1.0000 0.0000 -1.0000
+<scale> 1.0000 5.0000 1.0000
+<scale_accelerate> 0.0000 0.0000 0.0000
+<tex_fps> 0.0000
+<tex_loop> false
+<alpha> true
+<on_ground> false
+<doubleside> true
+<light> false
+<zbuffer> true
+<zwrite> false
+<mesh_fps> 0.0000
+<acceleration> 0.0000 0.0000 0.0000
+<position0> 0.0000 0.0000 0.0000
+<velocity> 0.0000 0.0000 0.0000
+<rot_velocity> 0.0000 0.0000 0.0000
+<life> 1.0000
+<fadeout> 0.0000
+<fadein> 0.0000
+<src_blend> SRCCOLOR
+<dest_blend> SRCALPHA
+<change_color> true
+<mesh_color> 0 -4456449
+<color_key> 0
+<mesh_color> 1 -4456449
+<mesh_color> 2 -4456449
+<mesh_color> 3 -4456449
+<mesh_color> 4 -4456449
+<mesh_color> 5 -4456449
+<mesh_color> 6 -4456449
+<mesh_color> 7 -4456449
+<mesh_color> 8 -4456449
+<mesh_color> 9 -4456449
+<mesh_color> 10 -4456449
+<mesh_color> 11 -4456449
+<mesh_color> 12 -4456449
+<mesh_color> 13 -4456449
+<mesh_color> 14 -4456449
+<mesh_color> 15 -4456449
+<mesh_color> 16 -4456449
+<mesh_color> 17 -4456449
+<mesh_color> 18 -4456449
+<mesh_color> 19 -4456449
+<mesh_color> 20 -4456449
+<mesh_color> 21 -4456449
+<mesh_color> 22 -4456449
+<mesh_color> 23 -4456449
+<mesh_color> 24 -4456449
+<mesh_color> 25 -4456449
+<mesh_color> 26 -4456449
+<mesh_color> 27 -4456449
+<mesh_color> 28 -4456449
+<mesh_color> 29 -4456449
+<mesh_color> 30 -4456449
+<mesh_color> 31 -4456449
+<mesh_color> 32 -4456449
+<mesh_color> 33 -4456449
+<mesh_color> 34 -4456449
+<mesh_color> 35 -4456449
+<mesh_color> 36 -4456449
+<mesh_color> 37 -4456449
+<mesh_color> 38 -4456449
+<mesh_color> 39 -4456449
+<mesh_color> 40 -4456449
+<mesh_color> 41 -4456449
+<mesh_color> 42 -4456449
+<mesh_color> 43 -4456449
+<mesh_color> 44 -4456449
+<mesh_color> 45 -4456449
+<mesh_color> 46 -4456449
+<mesh_color> 47 -4456449
+<mesh_color> 48 -4456449
+<mesh_color> 49 -4456449
+<mesh_color> 50 -4456449
+<mesh_color> 51 -4456449
+<mesh_color> 52 -4456449
+<mesh_color> 53 -4456449
+<mesh_color> 54 -4456449
+<mesh_color> 55 -4456449
+<mesh_color> 56 -4456449
+<mesh_color> 57 -4456449
+<mesh_color> 58 -4456449
+<mesh_color> 59 -4456449
+<mesh_color> 60 -4456449
+<mesh_color> 61 -4456449
+<mesh_color> 62 -4456449
+<mesh_color> 63 -4456449
+<mesh_color> 64 -4456449
+<mesh_color> 65 -4456449
+<mesh_color> 66 -4456449
+<mesh_color> 67 -4456449
+<mesh_color> 68 -4456449
+<mesh_color> 69 -4456449
+<mesh_color> 70 -4456449
+<mesh_color> 71 -4456449
+<mesh_color> 72 -4456449
+<mesh_color> 73 -4456449
+<mesh_color> 74 -4456449
+<mesh_color> 75 -4456449
+<mesh_color> 76 -4456449
+<mesh_color> 77 -4456449
+<mesh_color> 78 -4456449
+<mesh_color> 79 -4456449
+<mesh_color> 80 -4456449
+<mesh_color> 81 -4456449
+<mesh_color> 82 -4456449
+<mesh_color> 83 -4456449
+<mesh_color> 84 -4456449
+<mesh_color> 85 -4456449
+<mesh_color> 86 -4456449
+<mesh_color> 87 -4456449
+<mesh_color> 88 -4456449
+<mesh_color> 89 -4456449
+<mesh_color> 90 -4456449
+<mesh_color> 91 -4456449
+<mesh_color> 92 -4456449
+<mesh_color> 93 -4456449
+<mesh_color> 94 -4456449
+<mesh_color> 95 -4456449
+<mesh_color> 96 -4456449
+<mesh_color> 97 -4456449
+<mesh_color> 98 -4456449
+<mesh_color> 99 -4456449
+<color_key> 99
+<land> false
+<collsion> false
+<end>

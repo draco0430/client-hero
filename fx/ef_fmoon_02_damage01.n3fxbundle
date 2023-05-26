@@ -1,0 +1,11 @@
+<N3FXBUNDLE>
+<PART> fx/ef_ice_dem1.n3fxpart 0.50
+<PART> fx/ef_ice_dem2.n3fxpart 0.50
+<PART> fx/ef_ice_dem3.n3fxpart 0.20
+<PART> fx/ef_ice_dem4.n3fxpart 0.50
+<PART> fx/ef_ice_dem5.n3fxpart 0.00
+<PART> fx/ef_ice_dem6.n3fxpart 0.50
+<PART> fx/ef_ice_dem7.n3fxpart 0.00
+<Depend_Scale> false
+<Static_Pos> false
+<Velocity> 0.0000

@@ -1,0 +1,8 @@
+<N3FXBUNDLE>
+<PART> fx/gsoul_bh_part00.n3fxpart 0.00
+<PART> fx/gsoul_bh_part01.n3fxpart 0.00
+<PART> fx/gsoul_bh_mesh00.n3fxpart 0.00
+<PART> fx/gsoul_bh_mesh01.n3fxpart 0.20
+<Depend_Scale> false
+<Static_Pos> false
+<Velocity> 0.0000

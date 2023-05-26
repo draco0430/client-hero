@@ -1,0 +1,11 @@
+<N3FXBUNDLE>
+<PART> fx/mob_dm_gaze_mesh00.n3fxpart 0.00
+<PART> fx/mob_dm_gaze_mesh01.n3fxpart 0.00
+<PART> fx/mob_dm_gaze_mesh02.n3fxpart 0.00
+<PART> fx/mob_dm_gaze_part00.n3fxpart 0.00
+<PART> fx/mob_dm_gaze_mesh03.n3fxpart 0.00
+<PART> fx/mob_dm_gaze_mesh04.n3fxpart 0.00
+<PART> fx/mob_dm_gaze_bill00.n3fxpart 0.00
+<Depend_Scale> false
+<Static_Pos> false
+<Velocity> 0.0000

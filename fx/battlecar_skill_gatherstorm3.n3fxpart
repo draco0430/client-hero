@@ -1,0 +1,129 @@
+<N3FXPART>
+<type> vamesh
+<vamesh_name> fx\shape\obj\gathering_storm.vams
+<life> 1.0000
+<scale_velocity> -0.1000 -0.1000 3.0000
+<scale> 0.3000 0.3000 0.1000
+<scale_accelerate> 0.0000 0.0000 1.0000
+<loop> false
+<alpha> true
+<doubleside> false
+<light> true
+<zbuffer> false
+<zwrite> false
+<mesh_fps> 60.0000
+<acceleration> 0.0000 0.0000 0.0000
+<position0> 0.0000 1.3000 3.0000
+<velocity> 0.0000 0.0000 1.0000
+<rot_velocity> 0.0000 0.0000 0.0000
+<rotate> 0.0000 0.0000 0.0000
+<life> 1.0000
+<fadeout> 0.0000
+<fadein> 0.0000
+<src_blend> SRCALPHA
+<dest_blend> ONE
+<change_color> false
+<mesh_color> 0 -1
+<mesh_color> 1 -1
+<mesh_color> 2 -1
+<mesh_color> 3 -1
+<mesh_color> 4 -1
+<mesh_color> 5 -1
+<mesh_color> 6 -1
+<mesh_color> 7 -1
+<mesh_color> 8 -1
+<mesh_color> 9 -1
+<mesh_color> 10 -1
+<mesh_color> 11 -1
+<mesh_color> 12 -1
+<mesh_color> 13 -1
+<mesh_color> 14 -1
+<mesh_color> 15 -1
+<mesh_color> 16 -1
+<mesh_color> 17 -1
+<mesh_color> 18 -1
+<mesh_color> 19 -1
+<mesh_color> 20 -1
+<mesh_color> 21 -1
+<mesh_color> 22 -1
+<mesh_color> 23 -1
+<mesh_color> 24 -1
+<mesh_color> 25 -1
+<mesh_color> 26 -1
+<mesh_color> 27 -1
+<mesh_color> 28 -1
+<mesh_color> 29 -1
+<mesh_color> 30 -1
+<mesh_color> 31 -1
+<mesh_color> 32 -1
+<mesh_color> 33 -1
+<mesh_color> 34 -1
+<mesh_color> 35 -1
+<mesh_color> 36 -1
+<mesh_color> 37 -1
+<mesh_color> 38 -1
+<mesh_color> 39 -1
+<mesh_color> 40 -1
+<mesh_color> 41 -1
+<mesh_color> 42 -1
+<mesh_color> 43 -1
+<mesh_color> 44 -1
+<mesh_color> 45 -1
+<mesh_color> 46 -1
+<mesh_color> 47 -1
+<mesh_color> 48 -1
+<mesh_color> 49 -1
+<mesh_color> 50 -1
+<mesh_color> 51 -1
+<mesh_color> 52 -1
+<mesh_color> 53 -1
+<mesh_color> 54 -1
+<mesh_color> 55 -1
+<mesh_color> 56 -1
+<mesh_color> 57 -1
+<mesh_color> 58 -1
+<mesh_color> 59 -1
+<mesh_color> 60 -1
+<mesh_color> 61 -1
+<mesh_color> 62 -1
+<mesh_color> 63 -1
+<mesh_color> 64 -1
+<mesh_color> 65 -1
+<mesh_color> 66 -1
+<mesh_color> 67 -1
+<mesh_color> 68 -1
+<mesh_color> 69 -1
+<mesh_color> 70 -1
+<mesh_color> 71 -1
+<mesh_color> 72 -1
+<mesh_color> 73 -1
+<mesh_color> 74 -1
+<mesh_color> 75 -1
+<mesh_color> 76 -1
+<mesh_color> 77 -1
+<mesh_color> 78 -1
+<mesh_color> 79 -1
+<mesh_color> 80 -1
+<mesh_color> 81 -1
+<mesh_color> 82 -1
+<mesh_color> 83 -1
+<mesh_color> 84 -1
+<mesh_color> 85 -1
+<mesh_color> 86 -1
+<mesh_color> 87 -1
+<mesh_color> 88 -1
+<mesh_color> 89 -1
+<mesh_color> 90 -1
+<mesh_color> 91 -1
+<mesh_color> 92 -1
+<mesh_color> 93 -1
+<mesh_color> 94 -1
+<mesh_color> 95 -1
+<mesh_color> 96 -1
+<mesh_color> 97 -1
+<mesh_color> 98 -1
+<mesh_color> 99 -1
+<WholeFrm> 60
+<land> false
+<collsion> false
+<end>

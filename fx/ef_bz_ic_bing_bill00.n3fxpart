@@ -1,0 +1,134 @@
+<N3FXPART>
+<type> board
+<texture> fx\particle\sea_waves02_.dxt 1
+<life> 1.0000
+<texture_animation_speed> 0.0000
+<position0> 0.0000 -2.0000 0.0000
+<distance> 0.0000
+<velocity> 0.0000 0.0000 0.0000
+<rot_velocity> 0.0000 0 0
+<acceleration> 0.0000 0.0000 0.0000
+<on_ground> false
+<alpha> true
+<doubleside> false
+<light> false
+<zbuffer> false
+<zwrite> false
+<src_blend> SRCALPHA
+<dest_blend> ONE
+<fadeout> 0.0000
+<fadein> 0.0000
+<billboard_count> 1
+<billboard_size> 7.0000 30.0000
+<tex_loop> false
+<Rotate_only_y> false
+<billboard_scale_velocity> 2.0000 2.0000
+<billboard_scale_acceleration> 0.0000 0.0000
+<change_color> true
+<bill_color> 0 -1
+<bill_color> 1 -1
+<bill_color> 2 -1
+<bill_color> 3 -1
+<bill_color> 4 -1
+<bill_color> 5 -1
+<bill_color> 6 -1
+<bill_color> 7 -1
+<bill_color> 8 -1
+<color_key> 8
+<bill_color> 9 -16777216
+<color_key> 9
+<bill_color> 10 -16777216
+<bill_color> 11 -16777216
+<bill_color> 12 -16777216
+<bill_color> 13 -16777216
+<bill_color> 14 -16777216
+<bill_color> 15 -16777216
+<bill_color> 16 -16777216
+<bill_color> 17 -16777216
+<bill_color> 18 -16777216
+<bill_color> 19 -16777216
+<bill_color> 20 -16777216
+<bill_color> 21 -16777216
+<bill_color> 22 -16777216
+<bill_color> 23 -16777216
+<bill_color> 24 -16777216
+<bill_color> 25 -16777216
+<bill_color> 26 -16777216
+<bill_color> 27 -16777216
+<bill_color> 28 -16777216
+<bill_color> 29 -16777216
+<bill_color> 30 -16777216
+<bill_color> 31 -16777216
+<bill_color> 32 -16777216
+<bill_color> 33 -16777216
+<bill_color> 34 -16777216
+<color_key> 34
+<bill_color> 35 -16777216
+<bill_color> 36 -16777216
+<bill_color> 37 -16777216
+<bill_color> 38 -16777216
+<bill_color> 39 -16777216
+<bill_color> 40 -16777216
+<bill_color> 41 -16777216
+<bill_color> 42 -16777216
+<bill_color> 43 -16777216
+<bill_color> 44 -16777216
+<bill_color> 45 -16777216
+<bill_color> 46 -16777216
+<bill_color> 47 -16777216
+<bill_color> 48 -16777216
+<bill_color> 49 -16777216
+<bill_color> 50 -16777216
+<bill_color> 51 -16777216
+<bill_color> 52 -16777216
+<bill_color> 53 -16777216
+<bill_color> 54 -16777216
+<bill_color> 55 -16777216
+<bill_color> 56 -16777216
+<bill_color> 57 -16777216
+<bill_color> 58 -16777216
+<bill_color> 59 -16777216
+<bill_color> 60 -16777216
+<bill_color> 61 -16777216
+<bill_color> 62 -16777216
+<bill_color> 63 -16777216
+<bill_color> 64 -16777216
+<bill_color> 65 -16777216
+<bill_color> 66 -16777216
+<bill_color> 67 -16777216
+<bill_color> 68 -16777216
+<bill_color> 69 -16777216
+<bill_color> 70 -16777216
+<bill_color> 71 -16777216
+<bill_color> 72 -16777216
+<bill_color> 73 -16777216
+<bill_color> 74 -16777216
+<bill_color> 75 -16777216
+<bill_color> 76 -16777216
+<bill_color> 77 -16777216
+<bill_color> 78 -16777216
+<bill_color> 79 -16777216
+<bill_color> 80 -16777216
+<bill_color> 81 -16777216
+<bill_color> 82 -16777216
+<bill_color> 83 -16777216
+<bill_color> 84 -16777216
+<bill_color> 85 -16777216
+<bill_color> 86 -16777216
+<bill_color> 87 -16777216
+<bill_color> 88 -16777216
+<bill_color> 89 -16777216
+<bill_color> 90 -16777216
+<bill_color> 91 -16777216
+<bill_color> 92 -16777216
+<bill_color> 93 -16777216
+<bill_color> 94 -16777216
+<bill_color> 95 -16777216
+<bill_color> 96 -16777216
+<bill_color> 97 -16777216
+<bill_color> 98 -16777216
+<bill_color> 99 -16777216
+<color_key> 99
+<land> false
+<collsion> false
+<end>

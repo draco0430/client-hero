@@ -1,0 +1,131 @@
+<N3FXPART>
+<type> ground
+<texture> fx\particle\eleglow01_.dxt 1
+<life> 0.5000
+<texture_animation_speed> 0.0000
+<position0> 0.0000 0.0000 0.0000
+<velocity> 0.0000 0.0000 0.0000
+<acceleration> 0.0000 0.0000 0.0000
+<rot_velocity> 0.0000 0.0000 0.0000
+<alpha> true
+<doubleside> false
+<light> false
+<zbuffer> true
+<zwrite> false
+<src_blend> SRCALPHA
+<dest_blend> ONE
+<fadeout> 0.0000
+<fadein> 0.0000
+<ground_size> 3.0000 4.0000
+<tex_loop> false
+<ground_scale_velocity> 2.0000 2.0000
+<ground_scale_acceleration> 0.0000 0.0000
+<ground_gap> 0.0100
+<change_color> true
+<ground_color> 0 -16777216
+<color_key> 0
+<ground_color> 1 -16185079
+<ground_color> 2 -15527149
+<ground_color> 3 -14869219
+<ground_color> 4 -14211289
+<ground_color> 5 -13553359
+<ground_color> 6 -12961222
+<ground_color> 7 -12303292
+<ground_color> 8 -11645362
+<ground_color> 9 -10987432
+<ground_color> 10 -10329502
+<ground_color> 11 -9737365
+<ground_color> 12 -9079435
+<ground_color> 13 -8421505
+<ground_color> 14 -7763575
+<ground_color> 15 -7105645
+<ground_color> 16 -6513508
+<ground_color> 17 -5855578
+<ground_color> 18 -5197648
+<ground_color> 19 -4539718
+<ground_color> 20 -3881788
+<ground_color> 21 -3289651
+<ground_color> 22 -2631721
+<ground_color> 23 -1973791
+<ground_color> 24 -1315861
+<ground_color> 25 -657931
+<ground_color> 26 -1
+<color_key> 26
+<ground_color> 27 -1
+<ground_color> 28 -1
+<ground_color> 29 -1
+<ground_color> 30 -1
+<ground_color> 31 -1
+<ground_color> 32 -1
+<ground_color> 33 -1
+<ground_color> 34 -1
+<ground_color> 35 -1
+<ground_color> 36 -1
+<ground_color> 37 -1
+<ground_color> 38 -1
+<ground_color> 39 -1
+<ground_color> 40 -1
+<ground_color> 41 -1
+<ground_color> 42 -1
+<ground_color> 43 -1
+<ground_color> 44 -1
+<ground_color> 45 -1
+<ground_color> 46 -1
+<ground_color> 47 -1
+<ground_color> 48 -1
+<ground_color> 49 -1
+<ground_color> 50 -1
+<ground_color> 51 -1
+<ground_color> 52 -1
+<ground_color> 53 -1
+<ground_color> 54 -1
+<ground_color> 55 -1
+<ground_color> 56 -1
+<ground_color> 57 -1
+<ground_color> 58 -1
+<ground_color> 59 -1
+<ground_color> 60 -1
+<ground_color> 61 -1
+<ground_color> 62 -1
+<color_key> 62
+<ground_color> 63 -460552
+<ground_color> 64 -921103
+<ground_color> 65 -1381654
+<ground_color> 66 -1842205
+<ground_color> 67 -2302756
+<ground_color> 68 -2763307
+<ground_color> 69 -3223858
+<ground_color> 70 -3684409
+<ground_color> 71 -4144960
+<ground_color> 72 -4539718
+<ground_color> 73 -5000269
+<ground_color> 74 -5460820
+<ground_color> 75 -5921371
+<ground_color> 76 -6381922
+<ground_color> 77 -6842473
+<ground_color> 78 -7303024
+<ground_color> 79 -7763575
+<ground_color> 80 -8224126
+<ground_color> 81 -8618884
+<ground_color> 82 -9079435
+<ground_color> 83 -9539986
+<ground_color> 84 -10000537
+<ground_color> 85 -10461088
+<ground_color> 86 -10921639
+<ground_color> 87 -11382190
+<ground_color> 88 -11842741
+<ground_color> 89 -12303292
+<ground_color> 90 -12698050
+<ground_color> 91 -13158601
+<ground_color> 92 -13619152
+<ground_color> 93 -14079703
+<ground_color> 94 -14540254
+<ground_color> 95 -15000805
+<ground_color> 96 -15461356
+<ground_color> 97 -15921907
+<ground_color> 98 -16382458
+<ground_color> 99 -16777216
+<color_key> 99
+<land> false
+<collision> false
+<end>

@@ -1,0 +1,132 @@
+<N3FXPART>
+<type> ground
+<texture> fx\particle\redring_twirl01_.dxt 1
+<life> 0.0000
+<texture_animation_speed> 0.0000
+<position0> 0.0000 0.0000 0.0000
+<velocity> 0.0000 0.0000 0.0000
+<acceleration> 0.0000 0.0000 0.0000
+<rot_velocity> 0.0000 3.0000 0.0000
+<alpha> true
+<doubleside> false
+<light> false
+<zbuffer> false
+<zwrite> false
+<src_blend> ONE
+<dest_blend> ONE
+<fadeout> 0.0000
+<fadein> 0.0000
+<ground_size> 1.5000 1.5000
+<tex_loop> false
+<ground_scale_velocity> 0.0000 0.0000
+<ground_scale_acceleration> 0.0000 0.0000
+<ground_gap> 0.0500
+<change_color> true
+<ground_color> 0 -12582912
+<color_key> 0
+<ground_color> 1 -12189696
+<ground_color> 2 -11730944
+<ground_color> 3 -11272192
+<ground_color> 4 -10813440
+<ground_color> 5 -10354688
+<ground_color> 6 -9961472
+<ground_color> 7 -9502720
+<ground_color> 8 -9043968
+<ground_color> 9 -8585216
+<ground_color> 10 -8126464
+<ground_color> 11 -7667712
+<ground_color> 12 -7274496
+<ground_color> 13 -6815744
+<ground_color> 14 -6356992
+<ground_color> 15 -5898240
+<ground_color> 16 -5439488
+<ground_color> 17 -5046272
+<ground_color> 18 -4587520
+<ground_color> 19 -4128768
+<ground_color> 20 -3670016
+<ground_color> 21 -3211264
+<ground_color> 22 -2752512
+<ground_color> 23 -2359296
+<ground_color> 24 -1900544
+<ground_color> 25 -1441792
+<ground_color> 26 -983040
+<ground_color> 27 -524288
+<ground_color> 28 -65536
+<color_key> 28
+<ground_color> 29 -62715
+<ground_color> 30 -59637
+<ground_color> 31 -56815
+<ground_color> 32 -53737
+<ground_color> 33 -50659
+<ground_color> 34 -47838
+<ground_color> 35 -44760
+<ground_color> 36 -41682
+<ground_color> 37 -38860
+<ground_color> 38 -35782
+<ground_color> 39 -32704
+<color_key> 39
+<ground_color> 40 -34756
+<ground_color> 41 -36808
+<ground_color> 42 -38860
+<ground_color> 43 -40912
+<ground_color> 44 -42964
+<ground_color> 45 -45016
+<ground_color> 46 -47068
+<ground_color> 47 -49120
+<ground_color> 48 -51172
+<ground_color> 49 -53224
+<ground_color> 50 -55276
+<ground_color> 51 -57328
+<ground_color> 52 -59380
+<ground_color> 53 -61432
+<ground_color> 54 -63484
+<ground_color> 55 -65536
+<color_key> 55
+<ground_color> 56 -458752
+<ground_color> 57 -851968
+<ground_color> 58 -1245184
+<ground_color> 59 -1638400
+<ground_color> 60 -1966080
+<ground_color> 61 -2359296
+<ground_color> 62 -2752512
+<ground_color> 63 -3145728
+<ground_color> 64 -3538944
+<ground_color> 65 -3866624
+<ground_color> 66 -4259840
+<ground_color> 67 -4653056
+<ground_color> 68 -5046272
+<ground_color> 69 -5439488
+<ground_color> 70 -5767168
+<ground_color> 71 -6160384
+<ground_color> 72 -6553600
+<ground_color> 73 -6946816
+<ground_color> 74 -7340032
+<ground_color> 75 -7667712
+<ground_color> 76 -8060928
+<ground_color> 77 -8454144
+<ground_color> 78 -8847360
+<ground_color> 79 -9240576
+<ground_color> 80 -9568256
+<ground_color> 81 -9961472
+<ground_color> 82 -10354688
+<ground_color> 83 -10747904
+<ground_color> 84 -11141120
+<ground_color> 85 -11468800
+<ground_color> 86 -11862016
+<ground_color> 87 -12255232
+<ground_color> 88 -12648448
+<ground_color> 89 -13041664
+<ground_color> 90 -13369344
+<ground_color> 91 -13762560
+<ground_color> 92 -14155776
+<ground_color> 93 -14548992
+<ground_color> 94 -14942208
+<ground_color> 95 -15269888
+<ground_color> 96 -15663104
+<ground_color> 97 -16056320
+<ground_color> 98 -16449536
+<ground_color> 99 -16777216
+<color_key> 99
+<land> true
+<collision> false
+<end>

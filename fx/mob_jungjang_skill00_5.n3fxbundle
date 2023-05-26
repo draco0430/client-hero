@@ -1,0 +1,7 @@
+<N3FXBUNDLE>
+<PART> fx/mob_jungjang_skill00_4_mesh06.n3fxpart 0.00
+<PART> fx/mob_jungjang_skill00_4_mesh07.n3fxpart 0.05
+<PART> fx/mob_jungjang_skill00_5_part00.n3fxpart 0.00
+<Depend_Scale> false
+<Static_Pos> false
+<Velocity> 0.0000

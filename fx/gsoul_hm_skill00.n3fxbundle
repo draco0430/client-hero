@@ -1,0 +1,14 @@
+<N3FXBUNDLE>
+<PART> fx/bluemute_skill_pct_1.n3fxpart 0.00
+<PART> fx/gsoul_hm_skill00_line.n3fxpart 0.00
+<PART> fx/gsoul_hm_skill00_part02.n3fxpart 1.20
+<PART> fx/gsoul_hm_skill00_part04.n3fxpart 1.21
+<PART> fx/gsoul_hm_skill00_part01.n3fxpart 1.20
+<PART> fx/gsoul_hm_skill00_mesh00.n3fxpart 1.10
+<PART> fx/gsoul_hm_skill00_mesh01.n3fxpart 1.10
+<PART> fx/gsoul_hm_skill00_mesh02.n3fxpart 1.10
+<PART> fx/gsoul_hm_skill00_part00.n3fxpart 1.30
+<PART> fx/circle.n3fxpart 1.18
+<Depend_Scale> false
+<Static_Pos> false
+<Velocity> 0.0000

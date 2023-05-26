@@ -1,0 +1,13 @@
+<N3FXBUNDLE>
+<PART> fx/bldragon_particle.n3fxpart 0.00
+<PART> fx/bldragon_particle2.n3fxpart 0.00
+<PART> fx/bldragon_body.n3fxpart 0.00
+<PART> fx/bldragon_body2.n3fxpart 0.25
+<PART> fx/bldragon_body3.n3fxpart 0.50
+<PART> fx/bldragon_particle3.n3fxpart 0.00
+<PART> fx/bldragon_particle4.n3fxpart 0.00
+<PART> fx/bldragon_body.n3fxpart 0.25
+<PART> fx/bldragon_particle5.n3fxpart 0.00
+<Depend_Scale> false
+<Static_Pos> false
+<Velocity> 0.0000

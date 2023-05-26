@@ -1,0 +1,144 @@
+<N3FXPART>
+<type> particle
+<texture> fx\particle\bluspike_.dxt 1
+<life> 0.5000
+<texture_animation_speed> 0.0000
+<position0> 0.0000 0.0000 0.0000
+<velocity> 0.0000 1.0000 0.0000
+<acceleration> 0.0000 0.0000 0.0000
+<alpha> true
+<doubleside> false
+<light> false
+<zbuffer> false
+<zwrite> false
+<on_ground> false
+<src_blend> SRCALPHA
+<dest_blend> ONE
+<fadeout> 0.0000
+<fadein> 0.0000
+<particle_count> 20
+<particle_size_range> 0.1000 0.2000
+<particle_life> 1.0000 0.5000
+<start_range_min> 1.0000 2.0000 1.0000
+<start_range_max> -1.0000 0.0000 -1.0000
+<create_count> 20
+<create_delay> 0.0000
+<emit_type> spread 120.0000
+<particle_direction> 0.0000 1.0000 0.0000
+<particle_velocity> 1.0000
+<particle_acceleration> 6.0000
+<particle_rotation_velocity> 90.0000
+<particle_gravity> 0.0000
+<change_color> true
+<particle_color> 0 -16777216
+<color_key> 0
+<particle_color> 1 -16252924
+<particle_color> 2 -15728632
+<particle_color> 3 -15204340
+<particle_color> 4 -14680048
+<particle_color> 5 -14090220
+<particle_color> 6 -13565928
+<particle_color> 7 -13041636
+<particle_color> 8 -12517343
+<particle_color> 9 -11927515
+<particle_color> 10 -11403223
+<particle_color> 11 -10878931
+<particle_color> 12 -10354639
+<particle_color> 13 -9830347
+<particle_color> 14 -9240519
+<particle_color> 15 -8716227
+<particle_color> 16 -8191934
+<particle_color> 17 -7667642
+<particle_color> 18 -7077814
+<particle_color> 19 -6553522
+<particle_color> 20 -6029230
+<particle_color> 21 -5504938
+<particle_color> 22 -4980646
+<particle_color> 23 -4390818
+<particle_color> 24 -3866525
+<particle_color> 25 -3342233
+<particle_color> 26 -2817941
+<particle_color> 27 -2228113
+<particle_color> 28 -1703821
+<particle_color> 29 -1179529
+<particle_color> 30 -655237
+<particle_color> 31 -65408
+<color_key> 31
+<alpha_key> 31
+<particle_color> 32 -327554
+<particle_color> 33 -589700
+<particle_color> 34 -851846
+<particle_color> 35 -1048456
+<particle_color> 36 -1310602
+<particle_color> 37 -1572748
+<particle_color> 38 -1834894
+<particle_color> 39 -2031504
+<particle_color> 40 -2293649
+<particle_color> 41 -2555795
+<particle_color> 42 -2817941
+<particle_color> 43 -3014551
+<particle_color> 44 -3276697
+<particle_color> 45 -3538843
+<particle_color> 46 -3800989
+<particle_color> 47 -3997599
+<particle_color> 48 -4259744
+<particle_color> 49 -4521890
+<particle_color> 50 -4784036
+<particle_color> 51 -4980646
+<particle_color> 52 -5242792
+<particle_color> 53 -5504938
+<particle_color> 54 -5767084
+<particle_color> 55 -5963694
+<particle_color> 56 -6225840
+<particle_color> 57 -6487985
+<particle_color> 58 -6750131
+<particle_color> 59 -6946741
+<particle_color> 60 -7208887
+<particle_color> 61 -7471033
+<particle_color> 62 -7733179
+<particle_color> 63 -7929789
+<particle_color> 64 -8191935
+<particle_color> 65 -8454080
+<particle_color> 66 -8716226
+<particle_color> 67 -8912836
+<particle_color> 68 -9174982
+<particle_color> 69 -9437128
+<particle_color> 70 -9699274
+<particle_color> 71 -9895884
+<particle_color> 72 -10158030
+<particle_color> 73 -10420176
+<particle_color> 74 -10682321
+<particle_color> 75 -10878931
+<particle_color> 76 -11141077
+<particle_color> 77 -11403223
+<particle_color> 78 -11665369
+<particle_color> 79 -11861979
+<particle_color> 80 -12124125
+<particle_color> 81 -12386271
+<particle_color> 82 -12648416
+<particle_color> 83 -12845026
+<particle_color> 84 -13107172
+<particle_color> 85 -13369318
+<particle_color> 86 -13631464
+<particle_color> 87 -13828074
+<particle_color> 88 -14090220
+<particle_color> 89 -14352366
+<particle_color> 90 -14614512
+<particle_color> 91 -14811121
+<particle_color> 92 -15073267
+<particle_color> 93 -15335413
+<particle_color> 94 -15597559
+<particle_color> 95 -15794169
+<particle_color> 96 -16056315
+<particle_color> 97 -16318461
+<particle_color> 98 -16580607
+<particle_color> 99 -16777216
+<color_key> 99
+<alpha_key> 99
+<shape_name> fx\shape\obj\twist_line_02.n3shape
+<shape_fps> 30.0000
+<shape_apply> false
+<Directional> false
+<land> false
+<collsion> false
+<end>

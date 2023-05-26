@@ -1,0 +1,10 @@
+<N3FXBUNDLE>
+<PART> fx/bef_sea_waves01_01.n3fxpart 0.00
+<PART> fx/bef_sea_waves01_02.n3fxpart 0.20
+<PART> fx/bef_sea_waves01_03.n3fxpart 0.00
+<PART> fx/bef_sea_waves01_04.n3fxpart 0.30
+<PART> fx/bef_sea_waves01_05.n3fxpart 0.00
+<PART> fx/bef_sea_waves01_06.n3fxpart 0.10
+<Depend_Scale> false
+<Static_Pos> false
+<Velocity> 0.0000

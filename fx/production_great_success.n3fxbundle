@@ -1,0 +1,12 @@
+<N3FXBUNDLE>
+<PART> fx/production_great_success_a.n3fxpart 0.00
+<PART> fx/production_great_success_b.n3fxpart 0.02
+<PART> fx/production_great_success_c.n3fxpart 0.05
+<PART> fx/production_great_success_d.n3fxpart 0.05
+<PART> fx/production_great_success_e.n3fxpart 0.05
+<PART> fx/production_great_success_f.n3fxpart 0.02
+<PART> fx/production_great_success_g.n3fxpart 0.02
+<PART> fx/production_great_success_h.n3fxpart 0.00
+<Depend_Scale> false
+<Static_Pos> false
+<Velocity> 0.0000

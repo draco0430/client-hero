@@ -1,0 +1,9 @@
+<N3FXBUNDLE>
+<PART> fx/bluemute_meshtest.n3fxpart 0.00
+<PART> fx/bluemute_burst_mesh02.n3fxpart 0.00
+<PART> fx/bluemute_burst_part04.n3fxpart 0.00
+<PART> fx/bluemute_burst_mesh04.n3fxpart 0.00
+<PART> fx/bluemute_burst_mesh03.n3fxpart 0.00
+<Depend_Scale> false
+<Static_Pos> false
+<Velocity> 0.0000

@@ -1,0 +1,19 @@
+<N3FXBUNDLE>
+<PART> fx/ef_gagag_start_01.n3fxpart 0.40
+<PART> fx/ef_gagag_start_02.n3fxpart 0.25
+<PART> fx/ef_gagag_start_03.n3fxpart 0.25
+<PART> fx/ef_gagag_start_04.n3fxpart 0.40
+<PART> fx/ef_gagag_start_05.n3fxpart 0.00
+<PART> fx/ef_gagag_start_06.n3fxpart 0.25
+<PART> fx/ef_gagag_start_07.n3fxpart 0.25
+<PART> fx/ef_gagag_start_08.n3fxpart 0.25
+<PART> fx/ef_gagag_start_09.n3fxpart 0.25
+<PART> fx/ef_gagag_start_10.n3fxpart 0.00
+<PART> fx/ef_gagag_start_11.n3fxpart 0.50
+<PART> fx/ef_gagag_start_12.n3fxpart 0.50
+<PART> fx/ef_gagag_start_13.n3fxpart 0.50
+<PART> fx/ef_gagag_start_14.n3fxpart 0.50
+<PART> fx/ef_gagag_start_15.n3fxpart 0.50
+<Depend_Scale> false
+<Static_Pos> false
+<Velocity> 0.0000

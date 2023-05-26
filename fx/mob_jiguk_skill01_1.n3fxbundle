@@ -1,0 +1,20 @@
+<N3FXBUNDLE>
+<PART> fx/mob_jiguk_skill01_1_mesh00.n3fxpart 0.30
+<PART> fx/mob_jiguk_skill01_1_mesh01.n3fxpart 0.31
+<PART> fx/mob_jiguk_skill01_1_mesh02.n3fxpart 0.00
+<PART> fx/mob_jiguk_skill01_1_mesh03.n3fxpart 0.00
+<PART> fx/mob_jiguk_skill01_1_part01.n3fxpart 0.40
+<PART> fx/mob_jiguk_skill01_1_line00.n3fxpart 0.40
+<PART> fx/mob_jiguk_skill01_1_bill00.n3fxpart 0.50
+<PART> fx/mob_jiguk_skill01_1_mesh04.n3fxpart 0.40
+<PART> fx/mob_jiguk_skill01_1_mesh05.n3fxpart 0.00
+<PART> fx/mob_jiguk_skill01_1_mesh06.n3fxpart 0.40
+<PART> fx/mob_jiguk_skill01_1_mesh04.n3fxpart 0.50
+<PART> fx/mob_jiguk_skill01_1_bill01.n3fxpart 0.00
+<PART> fx/mob_jiguk_skill01_1_bill02.n3fxpart 0.00
+<PART> fx/mob_jiguk_skill01_1_bill03.n3fxpart 0.00
+<PART> fx/mob_jiguk_skill01_1_mesh07.n3fxpart 0.40
+<PART> fx/mob_jiguk_skill02_1_mesh08.n3fxpart 0.50
+<Depend_Scale> false
+<Static_Pos> false
+<Velocity> 0.0000

@@ -1,0 +1,12 @@
+<N3FXBUNDLE>
+<PART> fx/mob_jungjang_skill01_2_mesh04.n3fxpart 0.00
+<PART> fx/mob_jungjang_skill01_2_mesh05.n3fxpart 0.01
+<PART> fx/mob_jungjang_skill01_2_mesh06.n3fxpart 0.02
+<PART> fx/mob_jungjang_skill01_2_part00.n3fxpart 0.00
+<PART> fx/mob_jungjang_skill01_2_mesh00.n3fxpart 0.03
+<PART> fx/mob_jungjang_skill01_2_mesh01.n3fxpart 0.04
+<PART> fx/mob_jungjang_skill01_2_mesh02.n3fxpart 0.00
+<PART> fx/mob_jungjang_skill01_2_mesh03.n3fxpart 0.10
+<Depend_Scale> false
+<Static_Pos> false
+<Velocity> 0.0000

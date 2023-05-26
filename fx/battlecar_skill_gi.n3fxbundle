@@ -1,0 +1,20 @@
+<N3FXBUNDLE>
+<PART> fx/battlecar_skill_gi.n3fxpart 0.00
+<PART> fx/battlecar_skill_gi.n3fxpart 0.00
+<PART> fx/battlecar_skill_pct_1.n3fxpart 0.00
+<PART> fx/battlecar_skill_gi2.n3fxpart 0.10
+<PART> fx/battlecar_skill_gatherstorm.n3fxpart 0.00
+<PART> fx/battlecar_skill_gatherstorm2.n3fxpart 0.00
+<PART> fx/gather_line.n3fxpart 0.00
+<PART> fx/battlecar_skill_pct_2.n3fxpart 1.20
+<PART> fx/battlecar_skill_lgt00.n3fxpart 1.20
+<PART> fx/wing.n3fxpart 1.21
+<PART> fx/battlecar_skill_lastpct.n3fxpart 1.20
+<PART> fx/storm_circle.n3fxpart 1.10
+<PART> fx/storm_circle01.n3fxpart 1.10
+<PART> fx/storm_circle02.n3fxpart 1.10
+<PART> fx/battlecar_skill_def_pct.n3fxpart 1.30
+<PART> fx/circle.n3fxpart 1.18
+<Depend_Scale> false
+<Static_Pos> false
+<Velocity> 0.0000

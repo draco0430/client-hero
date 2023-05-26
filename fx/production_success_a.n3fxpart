@@ -1,0 +1,136 @@
+<N3FXPART>
+<type> board
+<texture> fx\particle\production_tex2a_.dxt 1
+<life> 0.5000
+<texture_animation_speed> 0.0000
+<position0> 0.0000 0.0000 0.0000
+<distance> 0.0000
+<velocity> 0.0000 0.0000 0.0000
+<rot_velocity> 0.0000 0 0
+<acceleration> 0.0000 0.0000 0.0000
+<on_ground> false
+<alpha> true
+<doubleside> false
+<light> false
+<zbuffer> false
+<zwrite> false
+<src_blend> SRCALPHA
+<dest_blend> INVSRCALPHA
+<fadeout> 0.0000
+<fadein> 0.0000
+<billboard_count> 1
+<billboard_size> 1.0000 0.5000
+<tex_loop> false
+<Rotate_only_y> false
+<billboard_scale_velocity> 0.0000 0.0000
+<billboard_scale_acceleration> 0.0000 0.0000
+<change_color> true
+<bill_color> 0 5884415
+<color_key> 0
+<alpha_key> 0
+<bill_color> 1 190433791
+<bill_color> 2 391760383
+<bill_color> 3 576309759
+<bill_color> 4 777636351
+<bill_color> 5 962185727
+<bill_color> 6 1163512319
+<bill_color> 7 1364838911
+<bill_color> 8 1549388287
+<bill_color> 9 1750714879
+<bill_color> 10 1935264255
+<bill_color> 11 2136590847
+<bill_color> 12 -1957049857
+<bill_color> 13 -1772500481
+<bill_color> 14 -1571173889
+<bill_color> 15 -1386624513
+<bill_color> 16 -1185297921
+<bill_color> 17 -983971329
+<bill_color> 18 -799421953
+<bill_color> 19 -598095361
+<bill_color> 20 -413545985
+<bill_color> 21 -212219393
+<bill_color> 22 -10892801
+<alpha_key> 22
+<bill_color> 23 -78001665
+<bill_color> 24 -128333313
+<bill_color> 25 -178664961
+<bill_color> 26 -245773825
+<bill_color> 27 -296105473
+<bill_color> 28 -346437121
+<bill_color> 29 -413545985
+<bill_color> 30 -463877633
+<bill_color> 31 -514209281
+<bill_color> 32 -581318145
+<bill_color> 33 -631649793
+<bill_color> 34 -681981441
+<bill_color> 35 -749090305
+<bill_color> 36 -799421953
+<bill_color> 37 -849753601
+<bill_color> 38 -900085249
+<bill_color> 39 -967194113
+<bill_color> 40 -1017525761
+<bill_color> 41 -1067857409
+<bill_color> 42 -1134966273
+<bill_color> 43 -1185297921
+<bill_color> 44 -1235629569
+<bill_color> 45 -1302738433
+<bill_color> 46 -1353070081
+<bill_color> 47 -1403401729
+<bill_color> 48 -1470510593
+<bill_color> 49 -1520842241
+<color_key> 49
+<bill_color> 50 -1571173633
+<bill_color> 51 -1638216705
+<bill_color> 52 -1688482561
+<bill_color> 53 -1738748417
+<bill_color> 54 -1789079809
+<bill_color> 55 -1856122881
+<bill_color> 56 -1906388737
+<bill_color> 57 -1956654593
+<bill_color> 58 -2023697665
+<bill_color> 59 -2074029057
+<bill_color> 60 -2124294913
+<bill_color> 61 2103629311
+<bill_color> 62 2053363711
+<bill_color> 63 2003032319
+<bill_color> 64 1935989247
+<bill_color> 65 1885723391
+<bill_color> 66 1835457535
+<bill_color> 67 1768414463
+<bill_color> 68 1718083071
+<bill_color> 69 1667817215
+<bill_color> 70 1617551359
+<bill_color> 71 1550508287
+<bill_color> 72 1500176895
+<bill_color> 73 1449911039
+<bill_color> 74 1382868223
+<bill_color> 75 1332602367
+<bill_color> 76 1282336511
+<bill_color> 77 1215227903
+<bill_color> 78 1164962047
+<bill_color> 79 1114696191
+<bill_color> 80 1047653119
+<bill_color> 81 997321727
+<bill_color> 82 947055871
+<bill_color> 83 880012799
+<bill_color> 84 829746943
+<bill_color> 85 779481087
+<bill_color> 86 729149695
+<bill_color> 87 662106879
+<bill_color> 88 611841023
+<bill_color> 89 561575167
+<bill_color> 90 494466559
+<bill_color> 91 444200703
+<bill_color> 92 393934847
+<bill_color> 93 326891775
+<bill_color> 94 276625919
+<bill_color> 95 226294527
+<bill_color> 96 159251455
+<bill_color> 97 108985599
+<bill_color> 98 58719743
+<bill_color> 99 8454143
+<color_key> 99
+<alpha_key> 99
+<land> false
+<collsion> false
+<end>

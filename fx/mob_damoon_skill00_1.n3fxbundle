@@ -1,0 +1,20 @@
+<N3FXBUNDLE>
+<PART> fx/redball_burst_grou00.n3fxpart 1.00
+<PART> fx/redball_burst_part00.n3fxpart 0.95
+<PART> fx/redball_burst_part01.n3fxpart 1.10
+<PART> fx/redball_burst_bill00.n3fxpart 1.10
+<PART> fx/redballer_burst_mesh00.n3fxpart 1.10
+<PART> fx/redballer_burst_mesh01.n3fxpart 1.10
+<PART> fx/edball_burst_part02.n3fxpart 1.00
+<PART> fx/redball_burst_bill01.n3fxpart 1.00
+<PART> fx/redball_burst_part03.n3fxpart 1.00
+<PART> fx/redball_burst_bill01.n3fxpart 1.20
+<PART> fx/redballer_meshtest.n3fxpart 0.00
+<PART> fx/redball_burst_mesh02.n3fxpart 0.00
+<PART> fx/redball_burst_part04.n3fxpart 0.00
+<PART> fx/redball_burst_part05.n3fxpart 1.00
+<PART> fx/redballer_burst_mesh04.n3fxpart 0.00
+<PART> fx/redball_burst_mesh03.n3fxpart 0.00
+<Depend_Scale> false
+<Static_Pos> false
+<Velocity> 0.0000

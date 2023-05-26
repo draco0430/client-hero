@@ -1,0 +1,13 @@
+<N3FXBUNDLE>
+<PART> fx/ef_waterrun_st1.n3fxpart 0.50
+<PART> fx/ef_waterrun_st2.n3fxpart 0.30
+<PART> fx/ef_waterrun_st3.n3fxpart 0.00
+<PART> fx/ef_waterrun_st5.n3fxpart 0.00
+<PART> fx/ef_waterrun_st6.n3fxpart 0.00
+<PART> fx/ef_ch_jump_water00_01.n3fxpart 0.20
+<PART> fx/ef_ch_jump_water00_02.n3fxpart 0.00
+<PART> fx/ef_ch_jump_water00_03.n3fxpart 0.00
+<PART> fx/ef_ch_jump_water00_04.n3fxpart 0.00
+<Depend_Scale> false
+<Static_Pos> false
+<Velocity> 0.0000

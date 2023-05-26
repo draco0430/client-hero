@@ -1,0 +1,7 @@
+<N3FXBUNDLE>
+<PART> fx/buzek_ms00.n3fxpart 0.00
+<PART> fx/buzek_ms01.n3fxpart 0.01
+<PART> fx/buzek_ms02.n3fxpart 0.02
+<Depend_Scale> false
+<Static_Pos> false
+<Velocity> 0.0000

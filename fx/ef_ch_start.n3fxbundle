@@ -1,0 +1,7 @@
+<N3FXBUNDLE>
+<PART> fx/ef_ch_start1.n3fxpart 0.20
+<PART> fx/ef_ch_start2.n3fxpart 0.00
+<PART> fx/ef_ch_start3.n3fxpart 0.00
+<Depend_Scale> true
+<Static_Pos> false
+<Velocity> 0.0000

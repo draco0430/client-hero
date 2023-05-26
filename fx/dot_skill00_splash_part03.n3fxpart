@@ -1,0 +1,144 @@
+<N3FXPART>
+<type> particle
+<texture> fx\particle\sea_waves02_.dxt 1
+<life> 0.8000
+<texture_animation_speed> 0.0000
+<position0> 0.0000 0.0000 0.0000
+<velocity> 0.0000 0.0000 0.0000
+<acceleration> 0.0000 0.0000 0.0000
+<alpha> true
+<doubleside> true
+<light> false
+<zbuffer> true
+<zwrite> true
+<on_ground> false
+<src_blend> SRCALPHA
+<dest_blend> ONE
+<fadeout> 0.0000
+<fadein> 0.0000
+<particle_count> 30
+<particle_size_range> 1.0000 4.0000
+<particle_life> 0.1000 0.1000
+<start_range_min> 0.5000 3.0000 0.5000
+<start_range_max> -0.5000 0.0000 -0.5000
+<create_count> 4
+<create_delay> 0.0000
+<emit_type> spread 0.0000
+<particle_direction> 0.0000 1.0000 0.0000
+<particle_velocity> 0.0000
+<particle_acceleration> 0.0000
+<particle_rotation_velocity> 12.0000
+<particle_gravity> 2.0000
+<change_color> true
+<particle_color> 0 864059520
+<color_key> 0
+<alpha_key> 0
+<particle_color> 1 914259582
+<particle_color> 2 964525437
+<particle_color> 3 1014791292
+<particle_color> 4 1064991354
+<particle_color> 5 1115257209
+<particle_color> 6 1165523064
+<particle_color> 7 1232500342
+<particle_color> 8 1282766197
+<particle_color> 9 1333032052
+<particle_color> 10 1383297907
+<particle_color> 11 1433497969
+<particle_color> 12 1483763824
+<particle_color> 13 1534029679
+<particle_color> 14 1601006957
+<particle_color> 15 1651272812
+<particle_color> 16 1701538667
+<particle_color> 17 1751804522
+<particle_color> 18 1802004584
+<particle_color> 19 1852270439
+<particle_color> 20 1919313510
+<particle_color> 21 1969513572
+<particle_color> 22 2019779427
+<particle_color> 23 2070045282
+<particle_color> 24 2120245344
+<particle_color> 25 -2124456097
+<particle_color> 26 -2074190242
+<particle_color> 27 -2007147171
+<particle_color> 28 -1956947109
+<particle_color> 29 -1906681254
+<particle_color> 30 -1856415399
+<particle_color> 31 -1806215337
+<particle_color> 32 -1755949482
+<particle_color> 33 -1688906411
+<alpha_key> 33
+<particle_color> 34 -1739303852
+<particle_color> 35 -1772989870
+<particle_color> 36 -1823387311
+<particle_color> 37 -1857007536
+<particle_color> 38 -1890693554
+<particle_color> 39 -1941090995
+<particle_color> 40 -1974711220
+<particle_color> 41 -2008397238
+<particle_color> 42 -2058794679
+<particle_color> 43 -2092414904
+<particle_color> 44 -2126035129
+<particle_color> 45 2118468933
+<particle_color> 46 2084848708
+<particle_color> 47 2051228483
+<particle_color> 48 2000765249
+<particle_color> 49 1967145024
+<particle_color> 50 1933524799
+<particle_color> 51 1883127358
+<particle_color> 52 1849441340
+<particle_color> 53 1815821115
+<particle_color> 54 1765423674
+<particle_color> 55 1731737656
+<particle_color> 56 1681340215
+<particle_color> 57 1647719990
+<particle_color> 58 1614099765
+<particle_color> 59 1563636531
+<particle_color> 60 1530016306
+<particle_color> 61 1496396081
+<particle_color> 62 1445932847
+<particle_color> 63 1412312622
+<particle_color> 64 1378692397
+<particle_color> 65 1328229163
+<particle_color> 66 1294608938
+<particle_color> 67 1260988713
+<particle_color> 68 1210591272
+<particle_color> 69 1176905254
+<particle_color> 70 1143285029
+<particle_color> 71 1092887588
+<particle_color> 72 1059201570
+<particle_color> 73 1025581345
+<particle_color> 74 975183904
+<particle_color> 75 941563679
+<particle_color> 76 907877661
+<particle_color> 77 857480220
+<particle_color> 78 823859995
+<particle_color> 79 773396761
+<particle_color> 80 739776536
+<particle_color> 81 706156311
+<particle_color> 82 655693077
+<particle_color> 83 622072852
+<particle_color> 84 588452627
+<particle_color> 85 538055186
+<particle_color> 86 504369168
+<particle_color> 87 470748943
+<particle_color> 88 420351502
+<particle_color> 89 386665484
+<particle_color> 90 353045259
+<particle_color> 91 302647818
+<particle_color> 92 269027593
+<particle_color> 93 235341575
+<particle_color> 94 184944134
+<particle_color> 95 151323909
+<particle_color> 96 117637891
+<particle_color> 97 67240450
+<particle_color> 98 33620225
+<particle_color> 99 0
+<color_key> 99
+<alpha_key> 99
+<shape_name> fx\shape\obj\unki_203_circle.n3shape
+<shape_fps> 15.0000
+<shape_apply> false
+<Directional> false
+<land> false
+<collsion> false
+<end>

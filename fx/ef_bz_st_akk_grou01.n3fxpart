@@ -1,0 +1,130 @@
+<N3FXPART>
+<type> ground
+<texture> fx\particle\fivestar_.dxt 1
+<life> 1.0000
+<texture_animation_speed> 0.0000
+<position0> 0.0000 0.0000 0.0000
+<velocity> 0.0000 0.0000 0.0000
+<acceleration> 0.0000 0.0000 0.0000
+<rot_velocity> 0.0000 -0.2000 0.0000
+<alpha> true
+<doubleside> true
+<light> false
+<zbuffer> true
+<zwrite> true
+<src_blend> ONE
+<dest_blend> ONE
+<fadeout> 0.0000
+<fadein> 0.0000
+<ground_size> 3.5000 3.5000
+<tex_loop> false
+<ground_scale_velocity> 0.0000 0.0000
+<ground_scale_acceleration> 0.0000 0.0000
+<ground_gap> 0.2000
+<change_color> true
+<ground_color> 0 -128
+<color_key> 0
+<ground_color> 1 -128
+<ground_color> 2 -128
+<ground_color> 3 -128
+<ground_color> 4 -128
+<ground_color> 5 -128
+<ground_color> 6 -128
+<ground_color> 7 -128
+<ground_color> 8 -128
+<ground_color> 9 -128
+<ground_color> 10 -128
+<ground_color> 11 -128
+<ground_color> 12 -128
+<ground_color> 13 -128
+<ground_color> 14 -128
+<ground_color> 15 -128
+<ground_color> 16 -128
+<ground_color> 17 -128
+<ground_color> 18 -128
+<ground_color> 19 -128
+<ground_color> 20 -128
+<ground_color> 21 -128
+<ground_color> 22 -128
+<ground_color> 23 -128
+<ground_color> 24 -128
+<ground_color> 25 -128
+<ground_color> 26 -128
+<ground_color> 27 -128
+<ground_color> 28 -128
+<ground_color> 29 -128
+<ground_color> 30 -128
+<ground_color> 31 -128
+<ground_color> 32 -128
+<ground_color> 33 -128
+<ground_color> 34 -128
+<ground_color> 35 -128
+<ground_color> 36 -128
+<ground_color> 37 -128
+<ground_color> 38 -128
+<ground_color> 39 -128
+<ground_color> 40 -128
+<ground_color> 41 -128
+<ground_color> 42 -128
+<ground_color> 43 -128
+<ground_color> 44 -128
+<ground_color> 45 -128
+<ground_color> 46 -128
+<ground_color> 47 -128
+<ground_color> 48 -128
+<ground_color> 49 -128
+<ground_color> 50 -128
+<ground_color> 51 -128
+<ground_color> 52 -128
+<ground_color> 53 -128
+<ground_color> 54 -128
+<ground_color> 55 -128
+<ground_color> 56 -128
+<ground_color> 57 -128
+<ground_color> 58 -128
+<ground_color> 59 -128
+<ground_color> 60 -128
+<ground_color> 61 -128
+<ground_color> 62 -128
+<ground_color> 63 -128
+<color_key> 63
+<ground_color> 64 -526468
+<ground_color> 65 -987016
+<ground_color> 66 -1447563
+<ground_color> 67 -1908111
+<ground_color> 68 -2368658
+<ground_color> 69 -2829206
+<ground_color> 70 -3289753
+<ground_color> 71 -3750301
+<ground_color> 72 -4210848
+<ground_color> 73 -4671396
+<ground_color> 74 -5131944
+<ground_color> 75 -5592491
+<ground_color> 76 -6118831
+<ground_color> 77 -6579378
+<ground_color> 78 -7039926
+<ground_color> 79 -7500473
+<ground_color> 80 -7961021
+<ground_color> 81 -8421568
+<ground_color> 82 -8882116
+<ground_color> 83 -9342664
+<ground_color> 84 -9803211
+<ground_color> 85 -10263759
+<ground_color> 86 -10724306
+<ground_color> 87 -11184854
+<ground_color> 88 -11711193
+<ground_color> 89 -12171741
+<ground_color> 90 -12632288
+<ground_color> 91 -13092836
+<ground_color> 92 -13553384
+<ground_color> 93 -14013931
+<ground_color> 94 -14474479
+<ground_color> 95 -14935026
+<ground_color> 96 -15395574
+<ground_color> 97 -15856121
+<ground_color> 98 -16316669
+<ground_color> 99 -16777216
+<color_key> 99
+<land> false
+<collision> false
+<end>

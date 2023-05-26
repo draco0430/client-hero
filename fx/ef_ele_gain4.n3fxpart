@@ -1,0 +1,127 @@
+<N3FXPART>
+<type> Line
+<texture> fx\particle\elec4_.dxt 1
+<life> 0.3000
+<texture_animation_speed> 0.0000
+<delay> 0.0400
+<vibrate_radius> 11.0000
+<reachtime> 0.2000
+<thick> 0.1000 0.3000
+<refrect> 3 1
+<src_min_pos> -1.0000 1.0000 -1.0000
+<src_max_pos> -1.0000 1.0000 -1.0000
+<dest_min_pos> 0.0000 1.0000 0.0000
+<dest_max_pos> 0.0000 1.0000 0.0000
+<ground> false
+<alpha> true
+<doubleside> true
+<light> false
+<zbuffer> true
+<zwrite> false
+<src_blend> SRCCOLOR
+<dest_blend> SRCALPHA
+<tex_loop> false
+<change_color> true
+<line_color> 0 -1
+<line_color> 1 -1
+<line_color> 2 -1
+<line_color> 3 -1
+<line_color> 4 -1
+<line_color> 5 -1
+<line_color> 6 -1
+<line_color> 7 -1
+<line_color> 8 -1
+<line_color> 9 -1
+<line_color> 10 -1
+<line_color> 11 -1
+<line_color> 12 -1
+<line_color> 13 -1
+<line_color> 14 -1
+<line_color> 15 -1
+<line_color> 16 -1
+<line_color> 17 -1
+<line_color> 18 -1
+<line_color> 19 -1
+<line_color> 20 -1
+<line_color> 21 -1
+<line_color> 22 -1
+<line_color> 23 -1
+<line_color> 24 -1
+<line_color> 25 -1
+<line_color> 26 -1
+<line_color> 27 -1
+<line_color> 28 -1
+<line_color> 29 -1
+<line_color> 30 -1
+<line_color> 31 -1
+<line_color> 32 -1
+<line_color> 33 -1
+<line_color> 34 -1
+<line_color> 35 -1
+<line_color> 36 -1
+<line_color> 37 -1
+<line_color> 38 -1
+<line_color> 39 -1
+<line_color> 40 -1
+<line_color> 41 -1
+<line_color> 42 -1
+<line_color> 43 -1
+<line_color> 44 -1
+<line_color> 45 -1
+<line_color> 46 -1
+<line_color> 47 -1
+<line_color> 48 -1
+<line_color> 49 -1
+<line_color> 50 -1
+<line_color> 51 -1
+<line_color> 52 -1
+<line_color> 53 -1
+<line_color> 54 -1
+<line_color> 55 -1
+<line_color> 56 -1
+<line_color> 57 -1
+<line_color> 58 -1
+<line_color> 59 -1
+<line_color> 60 -1
+<line_color> 61 -1
+<line_color> 62 -1
+<line_color> 63 -1
+<line_color> 64 -1
+<line_color> 65 -1
+<line_color> 66 -1
+<line_color> 67 -1
+<color_key> 67
+<line_color> 68 -526345
+<line_color> 69 -1052689
+<line_color> 70 -1579033
+<line_color> 71 -2105377
+<line_color> 72 -2631721
+<line_color> 73 -3158065
+<line_color> 74 -3684409
+<line_color> 75 -4210753
+<line_color> 76 -4737097
+<line_color> 77 -5263441
+<line_color> 78 -5789785
+<line_color> 79 -6316129
+<line_color> 80 -6842473
+<line_color> 81 -7368817
+<line_color> 82 -7895161
+<line_color> 83 -8421505
+<line_color> 84 -8947849
+<line_color> 85 -9474193
+<line_color> 86 -10000537
+<line_color> 87 -10526881
+<line_color> 88 -11053225
+<line_color> 89 -11579569
+<line_color> 90 -12105913
+<line_color> 91 -12632257
+<line_color> 92 -13158601
+<line_color> 93 -13684945
+<line_color> 94 -14211289
+<line_color> 95 -14737633
+<line_color> 96 -15263977
+<line_color> 97 -15790321
+<line_color> 98 -16316665
+<line_color> 99 -16777216
+<color_key> 99
+<end>

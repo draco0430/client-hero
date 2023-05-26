@@ -1,0 +1,18 @@
+<N3FXBUNDLE>
+<PART> fx/blportal_circle.n3fxpart 0.00
+<PART> fx/blportal_circle2.n3fxpart 0.00
+<PART> fx/blportal_circle3.n3fxpart 0.00
+<PART> fx/blportal_ground2.n3fxpart 0.00
+<PART> fx/blportal_ground.n3fxpart 0.00
+<PART> fx/blportal_part.n3fxpart 0.00
+<PART> fx/blportal_lgt.n3fxpart 0.00
+<PART> fx/blportal_ground3.n3fxpart 0.00
+<PART> fx/blportal_ground_smoke.n3fxpart 0.00
+<PART> fx/blportal_up.n3fxpart 0.00
+<PART> fx/blportal_up2.n3fxpart 0.35
+<PART> fx/blportal_smoka.n3fxpart 0.00
+<PART> fx/blportal_part2.n3fxpart 0.00
+<PART> fx/blportal_lamp.n3fxpart 0.00
+<Depend_Scale> false
+<Static_Pos> false
+<Velocity> 0.0000

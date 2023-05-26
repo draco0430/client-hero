@@ -1,0 +1,13 @@
+<N3FXBUNDLE>
+<PART> fx/con_blood_particle00.n3fxpart 0.01
+<PART> fx/con_blood_particle01.n3fxpart 0.02
+<PART> fx/con_blood_spon00.n3fxpart 0.03
+<PART> fx/con_blood_redbase00.n3fxpart 0.01
+<PART> fx/con_blood_blackbase00.n3fxpart 0.00
+<PART> fx/con_blood_redpo.n3fxpart 0.00
+<PART> fx/con_blood_particle00.n3fxpart 0.01
+<PART> fx/con_blood_blackbase00.n3fxpart 0.05
+<PART> fx/con_blood_particle02.n3fxpart 0.05
+<Depend_Scale> false
+<Static_Pos> false
+<Velocity> 0.0000

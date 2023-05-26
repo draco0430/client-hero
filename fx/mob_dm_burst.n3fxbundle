@@ -1,0 +1,14 @@
+<N3FXBUNDLE>
+<PART> fx/mob_dm_burst_bill00.n3fxpart 0.10
+<PART> fx/mob_dm_burst_bill01.n3fxpart 0.15
+<PART> fx/mob_dm_burst_bill02.n3fxpart 0.20
+<PART> fx/mob_dm_burst_bill03.n3fxpart 0.00
+<PART> fx/mob_dm_burst_bill04.n3fxpart 0.00
+<PART> fx/mob_dm_burst_part00.n3fxpart 0.00
+<PART> fx/mob_dm_burst_bill05.n3fxpart 0.00
+<PART> fx/mob_dm_burst_bill06.n3fxpart 0.10
+<PART> fx/mob_dm_burst_part01.n3fxpart 0.00
+<PART> fx/mob_dm_durst_bill07.n3fxpart 0.00
+<Depend_Scale> false
+<Static_Pos> false
+<Velocity> 0.0000

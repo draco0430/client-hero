@@ -1,0 +1,14 @@
+<N3FXBUNDLE>
+<PART> fx/mob_damoon_skill01_4_mesh00.n3fxpart 0.00
+<PART> fx/mob_damoon_skill01_4_mesh01.n3fxpart 0.10
+<PART> fx/mob_damoon_skill01_4_part00.n3fxpart 0.00
+<PART> fx/mob_damoon_skill01_4_part01.n3fxpart 0.00
+<PART> fx/mob_damoon_skill01_4_mesh02.n3fxpart 0.00
+<PART> fx/mob_damoon_skill01_4_mesh03.n3fxpart 0.00
+<PART> fx/mob_damoon_skill01_4_mesh04.n3fxpart 0.20
+<PART> fx/mob_damoon_skill01_4_part02.n3fxpart 0.10
+<PART> fx/mob_damoon_skill01_4_bill00.n3fxpart 0.00
+<PART> fx/mob_damoon_skill01_4_bill01.n3fxpart 0.00
+<Depend_Scale> false
+<Static_Pos> false
+<Velocity> 0.0000

@@ -1,0 +1,132 @@
+<N3FXPART>
+<type> vamesh
+<vamesh_name> fx\shape\obj\ef_bz_el3.vams
+<life> 1.0000
+<scale_velocity> 0.0000 0.0000 0.0000
+<scale> 1.0000 1.0000 1.0000
+<scale_accelerate> 0.0000 0.0000 0.0000
+<loop> false
+<alpha> true
+<doubleside> true
+<light> false
+<zbuffer> false
+<zwrite> false
+<mesh_fps> 30.0000
+<acceleration> 0.0000 0.0000 0.0000
+<position0> 0.0000 0.0000 0.0000
+<velocity> 0.0000 0.0000 0.0000
+<rot_velocity> 0.0000 0.0000 0.0000
+<rotate> 0.0000 0.0000 0.0000
+<life> 1.0000
+<fadeout> 0.0000
+<fadein> 0.0000
+<src_blend> ONE
+<dest_blend> ONE
+<change_color> true
+<mesh_color> 0 -1
+<mesh_color> 1 -1
+<mesh_color> 2 -1
+<mesh_color> 3 -1
+<mesh_color> 4 -1
+<mesh_color> 5 -1
+<mesh_color> 6 -1
+<color_key> 6
+<mesh_color> 7 -1250068
+<mesh_color> 8 -2434342
+<mesh_color> 9 -3618616
+<mesh_color> 10 -4802890
+<mesh_color> 11 -6052957
+<mesh_color> 12 -7237231
+<mesh_color> 13 -8421505
+<mesh_color> 14 -9605779
+<mesh_color> 15 -10855846
+<mesh_color> 16 -12040120
+<mesh_color> 17 -13224394
+<mesh_color> 18 -14408668
+<color_key> 18
+<mesh_color> 19 -14474461
+<mesh_color> 20 -14474461
+<mesh_color> 21 -14540254
+<mesh_color> 22 -14540254
+<mesh_color> 23 -14606047
+<mesh_color> 24 -14606047
+<mesh_color> 25 -14671840
+<mesh_color> 26 -14671840
+<mesh_color> 27 -14671840
+<mesh_color> 28 -14737633
+<mesh_color> 29 -14737633
+<mesh_color> 30 -14803426
+<mesh_color> 31 -14803426
+<mesh_color> 32 -14869219
+<mesh_color> 33 -14869219
+<mesh_color> 34 -14935012
+<mesh_color> 35 -14935012
+<mesh_color> 36 -14935012
+<mesh_color> 37 -15000805
+<mesh_color> 38 -15000805
+<mesh_color> 39 -15066598
+<mesh_color> 40 -15066598
+<mesh_color> 41 -15132391
+<mesh_color> 42 -15132391
+<mesh_color> 43 -15198184
+<mesh_color> 44 -15198184
+<mesh_color> 45 -15198184
+<mesh_color> 46 -15263977
+<mesh_color> 47 -15263977
+<mesh_color> 48 -15329770
+<mesh_color> 49 -15329770
+<mesh_color> 50 -15395563
+<mesh_color> 51 -15395563
+<mesh_color> 52 -15461356
+<mesh_color> 53 -15461356
+<mesh_color> 54 -15461356
+<mesh_color> 55 -15527149
+<mesh_color> 56 -15527149
+<mesh_color> 57 -15592942
+<mesh_color> 58 -15592942
+<mesh_color> 59 -15658735
+<mesh_color> 60 -15658735
+<mesh_color> 61 -15724528
+<mesh_color> 62 -15724528
+<mesh_color> 63 -15724528
+<mesh_color> 64 -15790321
+<mesh_color> 65 -15790321
+<mesh_color> 66 -15856114
+<mesh_color> 67 -15856114
+<mesh_color> 68 -15921907
+<mesh_color> 69 -15921907
+<mesh_color> 70 -15987700
+<mesh_color> 71 -15987700
+<mesh_color> 72 -15987700
+<mesh_color> 73 -16053493
+<mesh_color> 74 -16053493
+<mesh_color> 75 -16119286
+<mesh_color> 76 -16119286
+<mesh_color> 77 -16185079
+<mesh_color> 78 -16185079
+<mesh_color> 79 -16250872
+<mesh_color> 80 -16250872
+<mesh_color> 81 -16250872
+<mesh_color> 82 -16316665
+<mesh_color> 83 -16316665
+<mesh_color> 84 -16382458
+<mesh_color> 85 -16382458
+<mesh_color> 86 -16448251
+<mesh_color> 87 -16448251
+<mesh_color> 88 -16514044
+<mesh_color> 89 -16514044
+<mesh_color> 90 -16514044
+<mesh_color> 91 -16579837
+<mesh_color> 92 -16579837
+<mesh_color> 93 -16645630
+<mesh_color> 94 -16645630
+<mesh_color> 95 -16711423
+<mesh_color> 96 -16711423
+<mesh_color> 97 -16777216
+<mesh_color> 98 -16777216
+<mesh_color> 99 -16777216
+<color_key> 99
+<WholeFrm> 30
+<land> false
+<collsion> false
+<end>

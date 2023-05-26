@@ -1,0 +1,12 @@
+<N3FXBUNDLE>
+<PART> fx/ef_ch_sellect_on01.n3fxpart 0.70
+<PART> fx/ef_ch_sellect_on02.n3fxpart 0.00
+<PART> fx/ef_ch_sellect_on03.n3fxpart 0.00
+<PART> fx/ef_ch_sellect_on04.n3fxpart 0.00
+<PART> fx/ef_ch_sellect_on05.n3fxpart 0.50
+<PART> fx/ef_ch_sellect_on06.n3fxpart 0.50
+<PART> fx/ef_ch_sellect_on07.n3fxpart 0.50
+<PART> fx/ef_ch_sellect_on08.n3fxpart 1.00
+<Depend_Scale> false
+<Static_Pos> false
+<Velocity> 0.0000

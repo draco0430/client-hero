@@ -1,0 +1,130 @@
+<N3FXPART>
+<type> ground
+<texture> fx\particle\jj_cirwind.dxt 1
+<life> 0.5000
+<texture_animation_speed> 0.0000
+<position0> 0.0000 0.0000 0.0000
+<velocity> 0.0000 0.0000 0.0000
+<acceleration> 0.0000 0.0000 0.0000
+<rot_velocity> 0.0000 -0.1000 0.0000
+<alpha> true
+<doubleside> true
+<light> false
+<zbuffer> false
+<zwrite> false
+<src_blend> SRCALPHA
+<dest_blend> ONE
+<fadeout> 0.0000
+<fadein> 0.0000
+<ground_size> 130.0000 130.0000
+<tex_loop> false
+<ground_scale_velocity> 1.0000 1.0000
+<ground_scale_acceleration> 0.0000 0.0000
+<ground_gap> 0.5000
+<change_color> true
+<ground_color> 0 -128
+<color_key> 0
+<ground_color> 1 -1411
+<ground_color> 2 -2437
+<ground_color> 3 -3463
+<ground_color> 4 -4489
+<ground_color> 5 -5771
+<ground_color> 6 -6797
+<ground_color> 7 -7823
+<ground_color> 8 -8850
+<ground_color> 9 -10132
+<ground_color> 10 -11158
+<ground_color> 11 -12184
+<ground_color> 12 -13210
+<ground_color> 13 -14492
+<ground_color> 14 -15518
+<ground_color> 15 -16544
+<ground_color> 16 -17571
+<ground_color> 17 -18597
+<ground_color> 18 -19879
+<ground_color> 19 -20905
+<ground_color> 20 -21931
+<ground_color> 21 -22957
+<ground_color> 22 -24239
+<ground_color> 23 -25266
+<ground_color> 24 -26292
+<ground_color> 25 -27318
+<ground_color> 26 -28600
+<ground_color> 27 -29626
+<ground_color> 28 -30652
+<ground_color> 29 -31678
+<ground_color> 30 -32704
+<color_key> 30
+<ground_color> 31 -295361
+<ground_color> 32 -558018
+<ground_color> 33 -820675
+<ground_color> 34 -1017796
+<ground_color> 35 -1280453
+<ground_color> 36 -1543110
+<ground_color> 37 -1739975
+<ground_color> 38 -2002632
+<ground_color> 39 -2265289
+<ground_color> 40 -2462410
+<ground_color> 41 -2725067
+<ground_color> 42 -2987724
+<ground_color> 43 -3250381
+<ground_color> 44 -3447245
+<ground_color> 45 -3709902
+<ground_color> 46 -3972559
+<ground_color> 47 -4169680
+<ground_color> 48 -4432337
+<ground_color> 49 -4694994
+<ground_color> 50 -4892115
+<ground_color> 51 -5154516
+<ground_color> 52 -5417173
+<ground_color> 53 -5614294
+<ground_color> 54 -5876951
+<ground_color> 55 -6139608
+<ground_color> 56 -6402265
+<ground_color> 57 -6599386
+<ground_color> 58 -6861786
+<ground_color> 59 -7124443
+<ground_color> 60 -7321564
+<ground_color> 61 -7584221
+<ground_color> 62 -7846878
+<ground_color> 63 -8043999
+<ground_color> 64 -8306656
+<ground_color> 65 -8569057
+<ground_color> 66 -8831714
+<ground_color> 67 -9028835
+<ground_color> 68 -9291492
+<ground_color> 69 -9554149
+<ground_color> 70 -9751270
+<ground_color> 71 -10013927
+<ground_color> 72 -10276327
+<ground_color> 73 -10473448
+<ground_color> 74 -10736105
+<ground_color> 75 -10998762
+<ground_color> 76 -11195883
+<ground_color> 77 -11458540
+<ground_color> 78 -11721197
+<ground_color> 79 -11983598
+<ground_color> 80 -12180719
+<ground_color> 81 -12443376
+<ground_color> 82 -12706033
+<ground_color> 83 -12903154
+<ground_color> 84 -13165811
+<ground_color> 85 -13428468
+<ground_color> 86 -13625332
+<ground_color> 87 -13887989
+<ground_color> 88 -14150646
+<ground_color> 89 -14413303
+<ground_color> 90 -14610424
+<ground_color> 91 -14873081
+<ground_color> 92 -15135738
+<ground_color> 93 -15332603
+<ground_color> 94 -15595260
+<ground_color> 95 -15857917
+<ground_color> 96 -16055038
+<ground_color> 97 -16317695
+<ground_color> 98 -16580352
+<ground_color> 99 -16777216
+<color_key> 99
+<land> false
+<collision> false
+<end>

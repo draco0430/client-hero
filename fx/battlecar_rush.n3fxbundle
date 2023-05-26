@@ -1,0 +1,7 @@
+<N3FXBUNDLE>
+<PART> fx/battlecar_rush_smoke.n3fxpart 0.00
+<PART> fx/battlecar_rush_spark.n3fxpart 0.00
+<PART> fx/battlecar_move_smoke.n3fxpart 0.00
+<Depend_Scale> false
+<Static_Pos> false
+<Velocity> 0.0000

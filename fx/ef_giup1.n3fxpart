@@ -1,0 +1,26 @@
+<N3FXPART>
+<type> mesh
+<shape_name> fx\shape\obj\giup1.n3shape
+<texture_move> NONE 0.0000
+<scale_velocity> 0.0000 0.0000 0.0000
+<scale> 0.8000 2.0000 0.8000
+<scale_accelerate> 0.0000 0.0000 0.0000
+<tex_fps> 0.0000
+<tex_loop> false
+<alpha> true
+<on_ground> false
+<doubleside> false
+<light> false
+<zbuffer> true
+<zwrite> false
+<mesh_fps> 30.0000
+<acceleration> 0.0000 0.0000 0.0000
+<position0> 0.0000 -0.1000 0.0000
+<velocity> 0.0000 0.0000 0.0000
+<rot_velocity> 0.0000 3.0000 0.0000
+<life> 0.0000
+<fadeout> 0.0000
+<fadein> 0.0000
+<src_blend> ONE
+<dest_blend> ONE
+<end>

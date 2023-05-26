@@ -1,0 +1,12 @@
+<N3FXBUNDLE>
+<PART> fx/production_fail_a.n3fxpart 0.00
+<PART> fx/production_fail_b.n3fxpart 0.02
+<PART> fx/production_fail_c.n3fxpart 0.05
+<PART> fx/production_fail_d.n3fxpart 0.05
+<PART> fx/production_fail_e.n3fxpart 0.05
+<PART> fx/production_fail_f.n3fxpart 0.02
+<PART> fx/production_fail_g.n3fxpart 0.02
+<PART> fx/production_fail_h.n3fxpart 0.00
+<Depend_Scale> false
+<Static_Pos> false
+<Velocity> 0.0000

@@ -1,0 +1,10 @@
+<N3FXBUNDLE>
+<PART> fx/ef_deadposion_01_damage01.n3fxpart 0.10
+<PART> fx/ef_deadposion_01_damage02.n3fxpart 0.10
+<PART> fx/ef_deadposion_01_damage03.n3fxpart 0.00
+<PART> fx/ef_deadposion_01_damage04.n3fxpart 0.10
+<PART> fx/ef_deadposion_01_damage05.n3fxpart 0.20
+<PART> fx/ef_deadposion_01_damage06.n3fxpart 0.40
+<Depend_Scale> false
+<Static_Pos> false
+<Velocity> 0.0000

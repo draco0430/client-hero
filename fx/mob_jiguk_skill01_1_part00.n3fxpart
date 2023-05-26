@@ -1,0 +1,141 @@
+<N3FXPART>
+<type> particle
+<texture> fx\particle\bluemute_wavetype.dxt 1
+<life> 0.5000
+<texture_animation_speed> 0.0000
+<position0> 0.0000 0.0000 0.0000
+<velocity> 0.0000 0.0000 1.0000
+<acceleration> 0.0000 0.0000 0.0000
+<alpha> true
+<doubleside> true
+<light> false
+<zbuffer> false
+<zwrite> false
+<on_ground> false
+<src_blend> SRCALPHA
+<dest_blend> ONE
+<fadeout> 0.0000
+<fadein> 0.0000
+<particle_count> 5
+<particle_size_range> 2.0000 1.0000
+<particle_life> 2.0000 2.0000
+<start_range_min> 1.0000 1.0000 2.0000
+<start_range_max> -1.0000 -1.0000 0.0000
+<create_count> 1
+<create_delay> 0.0000
+<emit_type> spread 0.0000
+<particle_direction> 0.0000 0.0000 1.0000
+<particle_velocity> 0.5000
+<particle_acceleration> -0.5000
+<particle_rotation_velocity> 0.0000
+<particle_gravity> 0.0000
+<change_color> true
+<particle_color> 0 -1
+<particle_color> 1 -50529028
+<particle_color> 2 -101058055
+<particle_color> 3 -134744073
+<particle_color> 4 -185273100
+<particle_color> 5 -218959118
+<particle_color> 6 -269488145
+<particle_color> 7 -320017172
+<particle_color> 8 -353703190
+<particle_color> 9 -404232217
+<particle_color> 10 -437918235
+<particle_color> 11 -488447262
+<particle_color> 12 -522133280
+<particle_color> 13 -572662307
+<particle_color> 14 -623191334
+<particle_color> 15 -656877352
+<particle_color> 16 -707406379
+<particle_color> 17 -741092397
+<particle_color> 18 -791621424
+<particle_color> 19 -825307442
+<particle_color> 20 -875836469
+<particle_color> 21 -926365496
+<particle_color> 22 -960051514
+<particle_color> 23 -1010580541
+<particle_color> 24 -1044266559
+<particle_color> 25 -1094795586
+<particle_color> 26 -1128481604
+<particle_color> 27 -1179010631
+<particle_color> 28 -1229539658
+<particle_color> 29 -1263225676
+<particle_color> 30 -1313754703
+<particle_color> 31 -1347440721
+<particle_color> 32 -1397969748
+<particle_color> 33 -1431655766
+<particle_color> 34 -1482184793
+<particle_color> 35 -1532713820
+<particle_color> 36 -1566399838
+<particle_color> 37 -1616928865
+<particle_color> 38 -1650614883
+<particle_color> 39 -1701143910
+<particle_color> 40 -1751672937
+<particle_color> 41 -1785358955
+<particle_color> 42 -1835887982
+<particle_color> 43 -1869574000
+<particle_color> 44 -1920103027
+<particle_color> 45 -1953789045
+<particle_color> 46 -2004318072
+<particle_color> 47 -2054847099
+<particle_color> 48 -2088533117
+<particle_color> 49 -2139062144
+<particle_color> 50 2122219134
+<particle_color> 51 2071690107
+<particle_color> 52 2038004089
+<particle_color> 53 1987475062
+<particle_color> 54 1936946035
+<particle_color> 55 1903260017
+<particle_color> 56 1852730990
+<particle_color> 57 1819044972
+<particle_color> 58 1768515945
+<particle_color> 59 1734829927
+<particle_color> 60 1684300900
+<particle_color> 61 1633771873
+<particle_color> 62 1600085855
+<particle_color> 63 1549556828
+<particle_color> 64 1515870810
+<particle_color> 65 1465341783
+<particle_color> 66 1431655765
+<particle_color> 67 1381126738
+<particle_color> 68 1330597711
+<particle_color> 69 1296911693
+<particle_color> 70 1246382666
+<particle_color> 71 1212696648
+<particle_color> 72 1162167621
+<particle_color> 73 1111638594
+<particle_color> 74 1077952576
+<particle_color> 75 1027423549
+<particle_color> 76 993737531
+<particle_color> 77 943208504
+<particle_color> 78 909522486
+<particle_color> 79 858993459
+<particle_color> 80 808464432
+<particle_color> 81 774778414
+<particle_color> 82 724249387
+<particle_color> 83 690563369
+<particle_color> 84 640034342
+<particle_color> 85 606348324
+<particle_color> 86 555819297
+<particle_color> 87 505290270
+<particle_color> 88 471604252
+<particle_color> 89 421075225
+<particle_color> 90 387389207
+<particle_color> 91 336860180
+<particle_color> 92 303174162
+<particle_color> 93 252645135
+<particle_color> 94 202116108
+<particle_color> 95 168430090
+<particle_color> 96 117901063
+<particle_color> 97 84215045
+<particle_color> 98 33686018
+<particle_color> 99 0
+<color_key> 99
+<alpha_key> 99
+<shape_name> 
+<shape_fps> 0.0000
+<shape_apply> false
+<Directional> true
+<land> false
+<collsion> false
+<end>

@@ -1,0 +1,143 @@
+<N3FXPART>
+<type> particle
+<texture> fx\particle\thunderi.dxt 1
+<life> 0.2000
+<texture_animation_speed> 0.0000
+<position0> 0.0000 0.0000 0.0000
+<velocity> 0.0000 0.0000 0.0000
+<acceleration> 0.0000 0.0000 0.0000
+<alpha> true
+<doubleside> false
+<light> false
+<zbuffer> false
+<zwrite> false
+<on_ground> false
+<src_blend> SRCALPHA
+<dest_blend> ONE
+<fadeout> 0.0000
+<fadein> 0.0000
+<particle_count> 1
+<particle_size_range> 1.0000 1.5000
+<particle_life> 0.3000 0.8000
+<start_range_min> 0.0000 0.0000 0.0000
+<start_range_max> 0.0000 0.0000 0.0000
+<create_count> 1
+<create_delay> 0.0000
+<emit_type> spread 0.0000
+<particle_direction> 0.0000 1.0000 0.0000
+<particle_velocity> 0.0000
+<particle_acceleration> 0.0000
+<particle_rotation_velocity> 0.0000
+<particle_gravity> 0.0000
+<change_color> true
+<particle_color> 0 -16777216
+<color_key> 0
+<particle_color> 1 -16053493
+<particle_color> 2 -15263977
+<particle_color> 3 -14540254
+<particle_color> 4 -13750738
+<particle_color> 5 -12961222
+<particle_color> 6 -12237499
+<particle_color> 7 -11447983
+<particle_color> 8 -10658467
+<particle_color> 9 -9934744
+<particle_color> 10 -9145228
+<particle_color> 11 -8355712
+<color_key> 11
+<particle_color> 12 -8750470
+<particle_color> 13 -9145228
+<particle_color> 14 -9539986
+<particle_color> 15 -9868951
+<particle_color> 16 -10263709
+<particle_color> 17 -10658467
+<particle_color> 18 -11053225
+<particle_color> 19 -11382190
+<particle_color> 20 -11776948
+<particle_color> 21 -12171706
+<particle_color> 22 -12500671
+<particle_color> 23 -12895429
+<particle_color> 24 -13290187
+<particle_color> 25 -13684945
+<particle_color> 26 -14013910
+<particle_color> 27 -14408668
+<particle_color> 28 -14803426
+<particle_color> 29 -15132391
+<color_key> 29
+<particle_color> 30 -15198184
+<particle_color> 31 -15198184
+<particle_color> 32 -15263977
+<particle_color> 33 -15263977
+<particle_color> 34 -15263977
+<particle_color> 35 -15329770
+<particle_color> 36 -15329770
+<particle_color> 37 -15329770
+<particle_color> 38 -15395563
+<particle_color> 39 -15395563
+<particle_color> 40 -15395563
+<particle_color> 41 -15461356
+<particle_color> 42 -15461356
+<particle_color> 43 -15461356
+<particle_color> 44 -15527149
+<particle_color> 45 -15527149
+<particle_color> 46 -15592942
+<particle_color> 47 -15592942
+<particle_color> 48 -15592942
+<particle_color> 49 -15658735
+<particle_color> 50 -15658735
+<particle_color> 51 -15658735
+<particle_color> 52 -15724528
+<particle_color> 53 -15724528
+<particle_color> 54 -15724528
+<particle_color> 55 -15790321
+<particle_color> 56 -15790321
+<particle_color> 57 -15790321
+<particle_color> 58 -15856114
+<particle_color> 59 -15856114
+<particle_color> 60 -15921907
+<particle_color> 61 -15921907
+<particle_color> 62 -15921907
+<particle_color> 63 -15987700
+<particle_color> 64 -15987700
+<particle_color> 65 -15987700
+<particle_color> 66 -16053493
+<particle_color> 67 -16053493
+<particle_color> 68 -16053493
+<particle_color> 69 -16119286
+<particle_color> 70 -16119286
+<particle_color> 71 -16119286
+<particle_color> 72 -16185079
+<particle_color> 73 -16185079
+<particle_color> 74 -16250872
+<particle_color> 75 -16250872
+<particle_color> 76 -16250872
+<particle_color> 77 -16316665
+<particle_color> 78 -16316665
+<particle_color> 79 -16316665
+<particle_color> 80 -16382458
+<particle_color> 81 -16382458
+<particle_color> 82 -16382458
+<particle_color> 83 -16448251
+<particle_color> 84 -16448251
+<particle_color> 85 -16448251
+<particle_color> 86 -16514044
+<particle_color> 87 -16514044
+<particle_color> 88 -16579837
+<particle_color> 89 -16579837
+<particle_color> 90 -16579837
+<particle_color> 91 -16645630
+<particle_color> 92 -16645630
+<particle_color> 93 -16645630
+<particle_color> 94 -16711423
+<particle_color> 95 -16711423
+<particle_color> 96 -16711423
+<particle_color> 97 -16777216
+<particle_color> 98 -16777216
+<particle_color> 99 -16777216
+<color_key> 99
+<shape_name> 
+<shape_fps> 0.0000
+<shape_apply> false
+<Directional> false
+<land> false
+<collsion> false
+<end>

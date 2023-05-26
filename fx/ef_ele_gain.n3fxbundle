@@ -1,0 +1,11 @@
+<N3FXBUNDLE>
+<PART> fx/ef_ele_gain1.n3fxpart 0.00
+<PART> fx/ef_ele_gain2.n3fxpart 0.00
+<PART> fx/ef_ele_gain3.n3fxpart 0.00
+<PART> fx/ef_ele_gain4.n3fxpart 0.00
+<PART> fx/ef_ele_gain5.n3fxpart 0.00
+<PART> fx/ef_ele_gain6.n3fxpart 0.20
+<PART> fx/ef_ele_gain7.n3fxpart 0.25
+<Depend_Scale> false
+<Static_Pos> false
+<Velocity> 0.0000

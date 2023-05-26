@@ -1,0 +1,131 @@
+<N3FXPART>
+<type> mesh
+<shape_name> fx\shape\obj\jongnam_dg1_05_watermash.n3shape
+<texture_move> DOWN 0.5000
+<scale_velocity> 0.0000 0.0000 0.0000
+<scale> 1.0000 1.0000 1.0000
+<scale_accelerate> 0.0000 0.0000 0.0000
+<tex_fps> 0.0000
+<tex_loop> true
+<alpha> true
+<on_ground> false
+<doubleside> true
+<light> false
+<zbuffer> false
+<zwrite> false
+<mesh_fps> 0.0000
+<acceleration> 0.0000 0.0000 0.0000
+<position0> 0.0000 0.0000 0.0000
+<velocity> 0.0000 0.0000 0.0000
+<rot_velocity> 0.0000 0.0000 0.0000
+<life> 0.0000
+<fadeout> 0.0000
+<fadein> 0.0000
+<src_blend> SRCALPHA
+<dest_blend> ONE
+<change_color> true
+<mesh_color> 0 -3473409
+<color_key> 0
+<mesh_color> 1 -3473409
+<mesh_color> 2 -3473409
+<mesh_color> 3 -3473409
+<mesh_color> 4 -3473409
+<mesh_color> 5 -3473409
+<mesh_color> 6 -3473409
+<mesh_color> 7 -3473409
+<mesh_color> 8 -3473409
+<mesh_color> 9 -3473409
+<mesh_color> 10 -3473409
+<mesh_color> 11 -3473409
+<mesh_color> 12 -3473409
+<mesh_color> 13 -3473409
+<mesh_color> 14 -3473409
+<mesh_color> 15 -3473409
+<mesh_color> 16 -3473409
+<mesh_color> 17 -3473409
+<mesh_color> 18 -3473409
+<mesh_color> 19 -3473409
+<mesh_color> 20 -3473409
+<mesh_color> 21 -3473409
+<mesh_color> 22 -3473409
+<mesh_color> 23 -3473409
+<mesh_color> 24 -3473409
+<mesh_color> 25 -3473409
+<mesh_color> 26 -3473409
+<mesh_color> 27 -3473409
+<mesh_color> 28 -3473409
+<mesh_color> 29 -3473409
+<mesh_color> 30 -3473409
+<mesh_color> 31 -3473409
+<mesh_color> 32 -3473409
+<mesh_color> 33 -3473409
+<mesh_color> 34 -3473409
+<mesh_color> 35 -3473409
+<mesh_color> 36 -3473409
+<mesh_color> 37 -3473409
+<mesh_color> 38 -3473409
+<mesh_color> 39 -3473409
+<mesh_color> 40 -3473409
+<mesh_color> 41 -3473409
+<mesh_color> 42 -3473409
+<mesh_color> 43 -3473409
+<mesh_color> 44 -3473409
+<mesh_color> 45 -3473409
+<mesh_color> 46 -3473409
+<mesh_color> 47 -3473409
+<mesh_color> 48 -3473409
+<mesh_color> 49 -3473409
+<mesh_color> 50 -3473409
+<mesh_color> 51 -3473409
+<mesh_color> 52 -3473409
+<mesh_color> 53 -3473409
+<mesh_color> 54 -3473409
+<mesh_color> 55 -3473409
+<mesh_color> 56 -3473409
+<mesh_color> 57 -3473409
+<mesh_color> 58 -3473409
+<mesh_color> 59 -3473409
+<mesh_color> 60 -3473409
+<mesh_color> 61 -3473409
+<mesh_color> 62 -3473409
+<mesh_color> 63 -3473409
+<mesh_color> 64 -3473409
+<mesh_color> 65 -3473409
+<mesh_color> 66 -3473409
+<mesh_color> 67 -3473409
+<mesh_color> 68 -3473409
+<mesh_color> 69 -3473409
+<mesh_color> 70 -3473409
+<mesh_color> 71 -3473409
+<mesh_color> 72 -3473409
+<mesh_color> 73 -3473409
+<mesh_color> 74 -3473409
+<mesh_color> 75 -3473409
+<mesh_color> 76 -3473409
+<mesh_color> 77 -3473409
+<mesh_color> 78 -3473409
+<mesh_color> 79 -3473409
+<mesh_color> 80 -3473409
+<mesh_color> 81 -3473409
+<mesh_color> 82 -3473409
+<mesh_color> 83 -3473409
+<mesh_color> 84 -3473409
+<mesh_color> 85 -3473409
+<mesh_color> 86 -3473409
+<mesh_color> 87 -3473409
+<mesh_color> 88 -3473409
+<mesh_color> 89 -3473409
+<mesh_color> 90 -3473409
+<mesh_color> 91 -3473409
+<mesh_color> 92 -3473409
+<mesh_color> 93 -3473409
+<mesh_color> 94 -3473409
+<mesh_color> 95 -3473409
+<mesh_color> 96 -3473409
+<mesh_color> 97 -3473409
+<mesh_color> 98 -3473409
+<mesh_color> 99 -3473409
+<color_key> 99
+<land> false
+<collsion> false
+<end>

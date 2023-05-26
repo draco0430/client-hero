@@ -1,0 +1,131 @@
+<N3FXPART>
+<type> ground
+<texture> fx\particle\lightning08_w_.dxt 1
+<life> 2.0000
+<texture_animation_speed> 0.0000
+<position0> 0.0000 0.0000 0.0000
+<velocity> 0.0000 0.0000 0.0000
+<acceleration> 0.0000 0.0000 0.0000
+<rot_velocity> 0.0000 0.4000 0.0000
+<alpha> true
+<doubleside> false
+<light> false
+<zbuffer> true
+<zwrite> true
+<src_blend> SRCALPHA
+<dest_blend> ONE
+<fadeout> 0.0000
+<fadein> 0.0000
+<ground_size> 2.0000 2.0000
+<tex_loop> false
+<ground_scale_velocity> 0.5000 0.5000
+<ground_scale_acceleration> 0.0000 0.0000
+<ground_gap> 0.3000
+<change_color> true
+<ground_color> 0 16777215
+<alpha_key> 0
+<ground_color> 1 100466684
+<ground_color> 2 184156153
+<ground_color> 3 267911159
+<ground_color> 4 368377844
+<ground_color> 5 452067313
+<ground_color> 6 535822319
+<ground_color> 7 636289004
+<ground_color> 8 719978473
+<ground_color> 9 803733479
+<ground_color> 10 904200164
+<ground_color> 11 987889633
+<ground_color> 12 1071644639
+<ground_color> 13 1172111324
+<ground_color> 14 1255800793
+<ground_color> 15 1339555799
+<ground_color> 16 1440022484
+<ground_color> 17 1523777490
+<ground_color> 18 1607466959
+<ground_color> 19 1691156428
+<ground_color> 20 1791688650
+<ground_color> 21 1875378119
+<ground_color> 22 1959067588
+<ground_color> 23 2059599810
+<ground_color> 24 2143289279
+<ground_color> 25 -2067988548
+<ground_color> 26 -1967456326
+<ground_color> 27 -1883766857
+<ground_color> 28 -1800077388
+<ground_color> 29 -1699545166
+<ground_color> 30 -1615855697
+<ground_color> 31 -1532166228
+<ground_color> 32 -1431634006
+<ground_color> 33 -1347944537
+<ground_color> 34 -1264189531
+<ground_color> 35 -1180500062
+<ground_color> 36 -1080033377
+<ground_color> 37 -996278371
+<ground_color> 38 -912588902
+<ground_color> 39 -812122217
+<ground_color> 40 -728367211
+<ground_color> 41 -644677742
+<ground_color> 42 -544211057
+<ground_color> 43 -460456051
+<ground_color> 44 -376766582
+<ground_color> 45 -276299897
+<ground_color> 46 -192544891
+<ground_color> 47 -108855422
+<ground_color> 48 -8323200
+<color_key> 48
+<alpha_key> 48
+<ground_color> 49 -92078206
+<ground_color> 50 -175833212
+<ground_color> 51 -259522681
+<ground_color> 52 -343277687
+<ground_color> 53 -426967156
+<ground_color> 54 -510722162
+<ground_color> 55 -594411631
+<ground_color> 56 -678166637
+<ground_color> 57 -761856106
+<ground_color> 58 -845611112
+<ground_color> 59 -929300581
+<ground_color> 60 -1013055587
+<ground_color> 61 -1096745056
+<ground_color> 62 -1180500062
+<ground_color> 63 -1264189531
+<ground_color> 64 -1347944537
+<ground_color> 65 -1431634006
+<ground_color> 66 -1515389012
+<ground_color> 67 -1599078481
+<ground_color> 68 -1682833487
+<ground_color> 69 -1766522956
+<ground_color> 70 -1850277962
+<ground_color> 71 -1933967431
+<ground_color> 72 -2017722437
+<ground_color> 73 -2101411906
+<ground_color> 74 2109800384
+<ground_color> 75 2026110915
+<ground_color> 76 1942355909
+<ground_color> 77 1858666440
+<ground_color> 78 1774911434
+<ground_color> 79 1691221965
+<ground_color> 80 1607466959
+<ground_color> 81 1523777490
+<ground_color> 82 1440022484
+<ground_color> 83 1356333015
+<ground_color> 84 1272578009
+<ground_color> 85 1188888540
+<ground_color> 86 1105133534
+<ground_color> 87 1021444065
+<ground_color> 88 937689059
+<ground_color> 89 853999590
+<ground_color> 90 770244584
+<ground_color> 91 686555115
+<ground_color> 92 602800109
+<ground_color> 93 519110640
+<ground_color> 94 435355634
+<ground_color> 95 351666165
+<ground_color> 96 267911159
+<ground_color> 97 184221690
+<ground_color> 98 100466684
+<ground_color> 99 16777215
+<alpha_key> 99
+<land> false
+<collision> false
+<end>

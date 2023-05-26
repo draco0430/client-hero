@@ -1,0 +1,10 @@
+<N3FXBUNDLE>
+<PART> fx/ef_ele_fly1.n3fxpart 0.10
+<PART> fx/ef_ele_fly2.n3fxpart 0.00
+<PART> fx/ef_ele_fly3.n3fxpart 0.00
+<PART> fx/ef_ele_fly4.n3fxpart 0.10
+<PART> fx/ef_ele_fly5.n3fxpart 0.00
+<PART> fx/ef_ele_fly6.n3fxpart 0.50
+<Depend_Scale> false
+<Static_Pos> false
+<Velocity> 0.0000

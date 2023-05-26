@@ -1,0 +1,143 @@
+<N3FXPART>
+<type> particle
+<texture> fx\particle\smoke.dxt 1
+<life> 2.0000
+<texture_animation_speed> 0.0000
+<position0> 0.0000 -0.2000 0.0000
+<velocity> 0.0000 0.0000 0.0000
+<acceleration> 0.0000 0.0000 0.0000
+<alpha> true
+<doubleside> false
+<light> false
+<zbuffer> true
+<zwrite> false
+<on_ground> false
+<src_blend> ONE
+<dest_blend> ONE
+<fadeout> 0.0000
+<fadein> 0.0000
+<particle_count> 25
+<particle_size_range> 5.0000 4.0000
+<particle_life> 0.0000 1.2000
+<start_range_min> -2.0000 0.0000 -2.0000
+<start_range_max> 2.0000 1.0000 2.0000
+<create_count> 3
+<create_delay> 0.0000
+<emit_type> spread 360.0000
+<particle_direction> 0.0000 1.0000 0.0000
+<particle_velocity> 0.2000
+<particle_acceleration> 0.0000
+<particle_rotation_velocity> 0.0000
+<particle_gravity> 0.0000
+<change_color> true
+<particle_color> 0 -16777216
+<color_key> 0
+<particle_color> 1 -16775936
+<particle_color> 2 -16774656
+<particle_color> 3 -16773376
+<particle_color> 4 -16772096
+<particle_color> 5 -16770816
+<particle_color> 6 -16769536
+<particle_color> 7 -16768256
+<particle_color> 8 -16766976
+<particle_color> 9 -16765440
+<particle_color> 10 -16764160
+<particle_color> 11 -16762880
+<particle_color> 12 -16761600
+<particle_color> 13 -16760320
+<particle_color> 14 -16759040
+<particle_color> 15 -16757760
+<particle_color> 16 -16756480
+<particle_color> 17 -16754944
+<particle_color> 18 -16753664
+<particle_color> 19 -16752384
+<particle_color> 20 -16751104
+<particle_color> 21 -16749824
+<particle_color> 22 -16748544
+<particle_color> 23 -16747264
+<particle_color> 24 -16745984
+<particle_color> 25 -16744448
+<color_key> 25
+<particle_color> 26 -16679424
+<particle_color> 27 -16548608
+<particle_color> 28 -16417792
+<particle_color> 29 -16286976
+<particle_color> 30 -16156160
+<particle_color> 31 -16025344
+<particle_color> 32 -15894528
+<particle_color> 33 -15763712
+<particle_color> 34 -15632896
+<particle_color> 35 -15502080
+<particle_color> 36 -15371264
+<particle_color> 37 -15240448
+<particle_color> 38 -15109632
+<particle_color> 39 -14978816
+<particle_color> 40 -14848000
+<particle_color> 41 -14717184
+<particle_color> 42 -14586368
+<particle_color> 43 -14455552
+<particle_color> 44 -14324736
+<particle_color> 45 -14193920
+<particle_color> 46 -14063104
+<particle_color> 47 -13932288
+<particle_color> 48 -13801472
+<particle_color> 49 -13670656
+<particle_color> 50 -13539840
+<particle_color> 51 -13409024
+<particle_color> 52 -13278208
+<particle_color> 53 -13147392
+<particle_color> 54 -13016576
+<particle_color> 55 -12885760
+<particle_color> 56 -12754944
+<particle_color> 57 -12624128
+<particle_color> 58 -12493312
+<particle_color> 59 -12362496
+<particle_color> 60 -12231680
+<particle_color> 61 -12100864
+<particle_color> 62 -11970048
+<particle_color> 63 -11839232
+<particle_color> 64 -11708416
+<particle_color> 65 -11577600
+<particle_color> 66 -11446784
+<particle_color> 67 -11315968
+<color_key> 67
+<particle_color> 68 -11513344
+<particle_color> 69 -11710720
+<particle_color> 70 -11842304
+<particle_color> 71 -12039680
+<particle_color> 72 -12171520
+<particle_color> 73 -12368640
+<particle_color> 74 -12566016
+<particle_color> 75 -12697856
+<particle_color> 76 -12894976
+<particle_color> 77 -13026816
+<particle_color> 78 -13224192
+<particle_color> 79 -13421312
+<particle_color> 80 -13553152
+<particle_color> 81 -13750528
+<particle_color> 82 -13882112
+<particle_color> 83 -14079488
+<particle_color> 84 -14276864
+<particle_color> 85 -14408448
+<particle_color> 86 -14605824
+<particle_color> 87 -14737664
+<particle_color> 88 -14934784
+<particle_color> 89 -15132160
+<particle_color> 90 -15264000
+<particle_color> 91 -15461120
+<particle_color> 92 -15592960
+<particle_color> 93 -15790336
+<particle_color> 94 -15987456
+<particle_color> 95 -16119296
+<particle_color> 96 -16316672
+<particle_color> 97 -16448256
+<particle_color> 98 -16645632
+<particle_color> 99 -16777216
+<color_key> 99
+<shape_name> 
+<shape_fps> 0.0000
+<shape_apply> false
+<Directional> false
+<land> false
+<collsion> false
+<end>

@@ -1,0 +1,131 @@
+<N3FXPART>
+<type> mesh
+<shape_name> fx\shape\obj\jongnam_dg1_etc_bloodmash.n3shape
+<texture_move> DOWN 0.1000
+<scale_velocity> 0.0000 0.0000 0.0000
+<scale> 1.0000 1.0000 1.0000
+<scale_accelerate> 0.0000 0.0000 0.0000
+<tex_fps> 0.0000
+<tex_loop> true
+<alpha> true
+<on_ground> false
+<doubleside> false
+<light> false
+<zbuffer> false
+<zwrite> false
+<mesh_fps> 30.0000
+<acceleration> 0.0000 0.0000 0.0000
+<position0> 0.0000 0.0000 0.0000
+<velocity> 0.0000 0.0000 0.0000
+<rot_velocity> 0.0000 0.0000 0.0000
+<life> 0.0000
+<fadeout> 0.0000
+<fadein> 0.0000
+<src_blend> SRCALPHA
+<dest_blend> INVSRCALPHA
+<change_color> true
+<mesh_color> 0 -16777216
+<color_key> 0
+<mesh_color> 1 -16711680
+<mesh_color> 2 -16646144
+<mesh_color> 3 -16580608
+<mesh_color> 4 -16449536
+<mesh_color> 5 -16384000
+<mesh_color> 6 -16318464
+<mesh_color> 7 -16187392
+<mesh_color> 8 -16121856
+<mesh_color> 9 -16056320
+<mesh_color> 10 -15990784
+<mesh_color> 11 -15859712
+<mesh_color> 12 -15794176
+<mesh_color> 13 -15728640
+<mesh_color> 14 -15597568
+<mesh_color> 15 -15532032
+<mesh_color> 16 -15466496
+<mesh_color> 17 -15400960
+<mesh_color> 18 -15269888
+<mesh_color> 19 -15204352
+<mesh_color> 20 -15138816
+<mesh_color> 21 -15007744
+<mesh_color> 22 -14942208
+<mesh_color> 23 -14876672
+<mesh_color> 24 -14745600
+<mesh_color> 25 -14680064
+<mesh_color> 26 -14614528
+<mesh_color> 27 -14548992
+<mesh_color> 28 -14417920
+<mesh_color> 29 -14352384
+<mesh_color> 30 -14286848
+<mesh_color> 31 -14155776
+<mesh_color> 32 -14090240
+<mesh_color> 33 -14024704
+<mesh_color> 34 -13959168
+<mesh_color> 35 -13828096
+<mesh_color> 36 -13762560
+<mesh_color> 37 -13697024
+<mesh_color> 38 -13565952
+<mesh_color> 39 -13500416
+<mesh_color> 40 -13434880
+<mesh_color> 41 -13303808
+<mesh_color> 42 -13238272
+<mesh_color> 43 -13172736
+<mesh_color> 44 -13107200
+<mesh_color> 45 -12976128
+<mesh_color> 46 -12910592
+<mesh_color> 47 -12845056
+<mesh_color> 48 -12713984
+<mesh_color> 49 -12648448
+<mesh_color> 50 -12582912
+<mesh_color> 51 -12517376
+<mesh_color> 52 -12386304
+<mesh_color> 53 -12320768
+<mesh_color> 54 -12255232
+<mesh_color> 55 -12124160
+<mesh_color> 56 -12058624
+<mesh_color> 57 -11993088
+<mesh_color> 58 -11927552
+<mesh_color> 59 -11796480
+<mesh_color> 60 -11730944
+<mesh_color> 61 -11665408
+<mesh_color> 62 -11534336
+<mesh_color> 63 -11468800
+<mesh_color> 64 -11403264
+<mesh_color> 65 -11272192
+<mesh_color> 66 -11206656
+<mesh_color> 67 -11141120
+<mesh_color> 68 -11075584
+<mesh_color> 69 -10944512
+<mesh_color> 70 -10878976
+<mesh_color> 71 -10813440
+<mesh_color> 72 -10682368
+<mesh_color> 73 -10616832
+<mesh_color> 74 -10551296
+<mesh_color> 75 -10485760
+<mesh_color> 76 -10354688
+<mesh_color> 77 -10289152
+<mesh_color> 78 -10223616
+<mesh_color> 79 -10092544
+<mesh_color> 80 -10027008
+<mesh_color> 81 -9961472
+<mesh_color> 82 -9830400
+<mesh_color> 83 -9764864
+<mesh_color> 84 -9699328
+<mesh_color> 85 -9633792
+<mesh_color> 86 -9502720
+<mesh_color> 87 -9437184
+<mesh_color> 88 -9371648
+<mesh_color> 89 -9240576
+<mesh_color> 90 -9175040
+<mesh_color> 91 -9109504
+<mesh_color> 92 -9043968
+<mesh_color> 93 -8912896
+<mesh_color> 94 -8847360
+<mesh_color> 95 -8781824
+<mesh_color> 96 -8650752
+<mesh_color> 97 -8585216
+<mesh_color> 98 -8519680
+<mesh_color> 99 -8388608
+<color_key> 99
+<land> false
+<collsion> false
+<end>

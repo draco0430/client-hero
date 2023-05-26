@@ -1,0 +1,145 @@
+<N3FXPART>
+<type> particle
+<texture> fx\particle\star5_.dxt 1
+<life> 0.0000
+<texture_animation_speed> 0.0000
+<position0> 0.0000 0.0000 -0.0800
+<velocity> 0.0000 0.0000 0.0000
+<acceleration> 0.0000 0.0000 0.0000
+<alpha> true
+<doubleside> true
+<light> false
+<zbuffer> false
+<zwrite> false
+<on_ground> false
+<src_blend> SRCALPHA
+<dest_blend> ONE
+<fadeout> 0.0000
+<fadein> 0.0000
+<particle_count> 30
+<particle_size_range> 0.0500 0.0750
+<particle_life> 1.5000 1.7500
+<start_range_min> 0.1000 0.1500 0.1000
+<start_range_max> 0.1000 -0.1500 0.1000
+<create_count> 1
+<create_delay> 0.2500
+<emit_type> spread 180.0000
+<particle_direction> 0.1000 0.1000 0.0000
+<particle_velocity> 0.1000
+<particle_acceleration> 0.0000
+<particle_rotation_velocity> 0.0000
+<particle_gravity> 0.0000
+<change_color> true
+<particle_color> 0 16639639
+<color_key> 0
+<alpha_key> 0
+<particle_color> 1 201189015
+<particle_color> 2 385738391
+<particle_color> 3 570287767
+<particle_color> 4 754837143
+<particle_color> 5 939386519
+<particle_color> 6 1123935895
+<particle_color> 7 1308485271
+<particle_color> 8 1493034647
+<particle_color> 9 1677584023
+<particle_color> 10 1862133399
+<particle_color> 11 2046682775
+<particle_color> 12 -2046957929
+<particle_color> 13 -1862408553
+<particle_color> 14 -1677859177
+<particle_color> 15 -1493309801
+<particle_color> 16 -1308760425
+<particle_color> 17 -1124211049
+<particle_color> 18 -939661673
+<particle_color> 19 -755112297
+<particle_color> 20 -570562921
+<particle_color> 21 -386013545
+<particle_color> 22 -201464169
+<particle_color> 23 -137577
+<alpha_key> 23
+<particle_color> 24 -137577
+<particle_color> 25 -137577
+<particle_color> 26 -137577
+<particle_color> 27 -137577
+<particle_color> 28 -137577
+<particle_color> 29 -137577
+<particle_color> 30 -137577
+<particle_color> 31 -137577
+<particle_color> 32 -137577
+<particle_color> 33 -137577
+<particle_color> 34 -137577
+<particle_color> 35 -137577
+<particle_color> 36 -137577
+<particle_color> 37 -137577
+<particle_color> 38 -137577
+<particle_color> 39 -137577
+<particle_color> 40 -137577
+<particle_color> 41 -137577
+<particle_color> 42 -137577
+<particle_color> 43 -137577
+<particle_color> 44 -137577
+<particle_color> 45 -137577
+<particle_color> 46 -137577
+<particle_color> 47 -137577
+<particle_color> 48 -137577
+<particle_color> 49 -137577
+<particle_color> 50 -137577
+<particle_color> 51 -137577
+<alpha_key> 51
+<particle_color> 52 -100800873
+<particle_color> 53 -184686953
+<particle_color> 54 -268573033
+<particle_color> 55 -369236329
+<particle_color> 56 -453122409
+<particle_color> 57 -537008489
+<particle_color> 58 -637671785
+<particle_color> 59 -721557865
+<particle_color> 60 -805443945
+<particle_color> 61 -906107241
+<particle_color> 62 -989993321
+<particle_color> 63 -1073879401
+<particle_color> 64 -1174542697
+<particle_color> 65 -1258428777
+<particle_color> 66 -1342314857
+<particle_color> 67 -1426200937
+<particle_color> 68 -1526864233
+<particle_color> 69 -1610750313
+<particle_color> 70 -1694636393
+<particle_color> 71 -1795299689
+<particle_color> 72 -1879185769
+<particle_color> 73 -1963071849
+<particle_color> 74 -2063735145
+<particle_color> 75 2147346071
+<particle_color> 76 2063459991
+<particle_color> 77 1962796695
+<particle_color> 78 1878910615
+<particle_color> 79 1795024535
+<particle_color> 80 1694361239
+<particle_color> 81 1610475159
+<particle_color> 82 1526589079
+<particle_color> 83 1442702999
+<particle_color> 84 1342039703
+<particle_color> 85 1258153623
+<particle_color> 86 1174267543
+<particle_color> 87 1073604247
+<particle_color> 88 989718167
+<particle_color> 89 905832087
+<particle_color> 90 805168791
+<particle_color> 91 721282711
+<particle_color> 92 637396631
+<particle_color> 93 536733335
+<particle_color> 94 452847255
+<particle_color> 95 368961175
+<particle_color> 96 268297879
+<particle_color> 97 184411799
+<particle_color> 98 100525719
+<particle_color> 99 16639639
+<color_key> 99
+<alpha_key> 99
+<shape_name> 
+<shape_fps> 0.0000
+<shape_apply> false
+<Directional> false
+<land> false
+<collsion> false
+<end>

@@ -1,0 +1,7 @@
+<N3FXBUNDLE>
+<PART> fx/con_stun_mesh.n3fxpart 0.00
+<PART> fx/con_stun_mesh2.n3fxpart 0.50
+<PART> fx/con_stun_particle.n3fxpart 0.00
+<Depend_Scale> false
+<Static_Pos> false
+<Velocity> 0.0000

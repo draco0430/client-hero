@@ -1,0 +1,17 @@
+<N3FXBUNDLE>
+<PART> fx/mob_dm_gaze01_mesh01.n3fxpart 0.00
+<PART> fx/mob_dm_gaze01_mesh02.n3fxpart 0.00
+<PART> fx/mob_dm_gaze01_part00.n3fxpart 0.00
+<PART> fx/mob_dm_gaze01_mesh03.n3fxpart 0.00
+<PART> fx/mob_dm_gaze01_mesh04.n3fxpart 0.00
+<PART> fx/mob_dm_gaze01_bill00.n3fxpart 0.00
+<PART> fx/mob_dm_gaze01_bill01.n3fxpart 0.00
+<PART> fx/mob_dm_gaze01_bill02.n3fxpart 0.20
+<PART> fx/mob_dm_gaze01_part01.n3fxpart 0.40
+<PART> fx/mob_dm_gaze01_bill03.n3fxpart 0.00
+<PART> fx/mob_dm_gaze01_bill05.n3fxpart 0.00
+<PART> fx/mob_dm_gaze01_bill06.n3fxpart 0.00
+<PART> fx/mob_dm_gaze01_bill04.n3fxpart 0.15
+<Depend_Scale> false
+<Static_Pos> false
+<Velocity> 0.0000

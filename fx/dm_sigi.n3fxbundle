@@ -1,0 +1,6 @@
+<N3FXBUNDLE>
+<PART> fx/bluemute_skill_pct_1.n3fxpart 0.00
+<PART> fx/bluemute_gather_line.n3fxpart 0.00
+<Depend_Scale> false
+<Static_Pos> false
+<Velocity> 0.0000

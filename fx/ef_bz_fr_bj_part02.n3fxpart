@@ -1,0 +1,147 @@
+<N3FXPART>
+<type> particle
+<texture> fx\particle\redcore_.dxt 1
+<life> 1.0000
+<texture_animation_speed> 0.0000
+<position0> 0.0000 0.0000 0.0000
+<velocity> 0.0000 0.0000 0.0000
+<acceleration> 0.0000 0.0000 0.0000
+<alpha> true
+<doubleside> false
+<light> false
+<zbuffer> false
+<zwrite> false
+<on_ground> false
+<src_blend> SRCALPHA
+<dest_blend> ONE
+<fadeout> 0.0000
+<fadein> 0.0000
+<particle_count> 14
+<particle_size_range> 0.2000 0.1000
+<particle_life> 2.0000 1.0000
+<start_range_min> 8.0000 5.0000 8.0000
+<start_range_max> -8.0000 0.0000 -8.0000
+<create_count> 14
+<create_delay> 3.0000
+<emit_type> spread 120.0000
+<particle_direction> 0.0000 1.0000 0.0000
+<particle_velocity> 15.0000
+<particle_acceleration> 0.0000
+<particle_rotation_velocity> 12.0000
+<particle_gravity> 0.0000
+<change_color> true
+<particle_color> 0 -1
+<color_key> 0
+<particle_color> 1 -1
+<particle_color> 2 -1
+<particle_color> 3 -1
+<particle_color> 4 -1
+<particle_color> 5 -1
+<color_key> 5
+<particle_color> 6 -1710619
+<particle_color> 7 -3355444
+<particle_color> 8 -5066062
+<particle_color> 9 -6710887
+<particle_color> 10 -8421505
+<particle_color> 11 -10066330
+<particle_color> 12 -11776948
+<particle_color> 13 -13421773
+<particle_color> 14 -15132391
+<particle_color> 15 -16777216
+<color_key> 15
+<particle_color> 16 -16777216
+<color_key> 16
+<particle_color> 17 -16777216
+<particle_color> 18 -16777216
+<particle_color> 19 -16777216
+<particle_color> 20 -16777216
+<particle_color> 21 -16777216
+<particle_color> 22 -16777216
+<particle_color> 23 -16777216
+<particle_color> 24 -16777216
+<color_key> 24
+<particle_color> 25 -16777216
+<particle_color> 26 -16777216
+<particle_color> 27 -16777216
+<particle_color> 28 -16777216
+<particle_color> 29 -16777216
+<particle_color> 30 -16777216
+<particle_color> 31 -16777216
+<particle_color> 32 -16777216
+<particle_color> 33 -16777216
+<particle_color> 34 -16777216
+<color_key> 34
+<particle_color> 35 -16777216
+<particle_color> 36 -16777216
+<particle_color> 37 -16777216
+<particle_color> 38 -16777216
+<particle_color> 39 -16777216
+<particle_color> 40 -16777216
+<particle_color> 41 -16777216
+<particle_color> 42 -16777216
+<particle_color> 43 -16777216
+<particle_color> 44 -16777216
+<particle_color> 45 -16777216
+<color_key> 45
+<particle_color> 46 -16777216
+<particle_color> 47 -16777216
+<particle_color> 48 -16777216
+<particle_color> 49 -16777216
+<particle_color> 50 -16777216
+<particle_color> 51 -16777216
+<particle_color> 52 -16777216
+<particle_color> 53 -16777216
+<particle_color> 54 -16777216
+<particle_color> 55 -16777216
+<particle_color> 56 -16777216
+<particle_color> 57 -16777216
+<particle_color> 58 -16777216
+<particle_color> 59 -16777216
+<particle_color> 60 -16777216
+<particle_color> 61 -16777216
+<particle_color> 62 -16777216
+<particle_color> 63 -16777216
+<particle_color> 64 -16777216
+<particle_color> 65 -16777216
+<particle_color> 66 -16777216
+<particle_color> 67 -16777216
+<particle_color> 68 -16777216
+<particle_color> 69 -16777216
+<particle_color> 70 -16777216
+<particle_color> 71 -16777216
+<particle_color> 72 -16777216
+<particle_color> 73 -16777216
+<particle_color> 74 -16777216
+<particle_color> 75 -16777216
+<particle_color> 76 -16777216
+<particle_color> 77 -16777216
+<particle_color> 78 -16777216
+<particle_color> 79 -16777216
+<particle_color> 80 -16777216
+<particle_color> 81 -16777216
+<particle_color> 82 -16777216
+<particle_color> 83 -16777216
+<particle_color> 84 -16777216
+<particle_color> 85 -16777216
+<particle_color> 86 -16777216
+<particle_color> 87 -16777216
+<particle_color> 88 -16777216
+<particle_color> 89 -16777216
+<particle_color> 90 -16777216
+<particle_color> 91 -16777216
+<particle_color> 92 -16777216
+<particle_color> 93 -16777216
+<particle_color> 94 -16777216
+<particle_color> 95 -16777216
+<particle_color> 96 -16777216
+<particle_color> 97 -16777216
+<particle_color> 98 -16777216
+<particle_color> 99 -16777216
+<color_key> 99
+<shape_name> 
+<shape_fps> 0.0000
+<shape_apply> false
+<Directional> false
+<land> false
+<collsion> false
+<end>

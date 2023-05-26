@@ -1,0 +1,142 @@
+<N3FXPART>
+<type> particle
+<texture> fx\particle\b_parti_tail_.dxt 1
+<life> 0.3000
+<texture_animation_speed> 0.0000
+<position0> 0.0000 0.0000 0.0000
+<velocity> 0.0000 0.0000 0.0000
+<acceleration> 0.0000 0.0000 0.0000
+<alpha> true
+<doubleside> false
+<light> false
+<zbuffer> false
+<zwrite> false
+<on_ground> false
+<src_blend> ONE
+<dest_blend> ONE
+<fadeout> 0.0000
+<fadein> 0.0000
+<particle_count> 40
+<particle_size_range> 0.2000 0.0500
+<particle_life> 0.3000 0.2000
+<start_range_min> 1.5000 1.5000 1.5000
+<start_range_max> -1.5000 -1.5000 -1.5000
+<create_count> 3
+<create_delay> 0.0000
+<emit_type> gather 0.0000 0.0000 0.0000 19013048
+<particle_direction> 0.0000 0.0000 1.0000
+<particle_velocity> 4.0000
+<particle_acceleration> 0.0000
+<particle_rotation_velocity> 0.0000
+<particle_gravity> 0.0000
+<change_color> false
+<particle_color> 0 -16776961
+<color_key> 0
+<particle_color> 1 -16775681
+<particle_color> 2 -16774145
+<particle_color> 3 -16772609
+<particle_color> 4 -16771329
+<particle_color> 5 -16769793
+<particle_color> 6 -16768257
+<particle_color> 7 -16766977
+<particle_color> 8 -16765441
+<particle_color> 9 -16763905
+<particle_color> 10 -16762625
+<particle_color> 11 -16761089
+<particle_color> 12 -16759553
+<particle_color> 13 -16758273
+<particle_color> 14 -16756737
+<particle_color> 15 -16755201
+<particle_color> 16 -16753921
+<particle_color> 17 -16752385
+<particle_color> 18 -16750849
+<particle_color> 19 -16749569
+<particle_color> 20 -16748033
+<particle_color> 21 -16746497
+<particle_color> 22 -16745217
+<particle_color> 23 -16743681
+<particle_color> 24 -16742145
+<particle_color> 25 -16740865
+<particle_color> 26 -16739329
+<particle_color> 27 -16737793
+<particle_color> 28 -16736513
+<particle_color> 29 -16734977
+<particle_color> 30 -16733441
+<particle_color> 31 -16732161
+<particle_color> 32 -16730625
+<particle_color> 33 -16729089
+<particle_color> 34 -16727809
+<particle_color> 35 -16726273
+<particle_color> 36 -16724737
+<particle_color> 37 -16723457
+<particle_color> 38 -16721921
+<particle_color> 39 -16720385
+<particle_color> 40 -16719105
+<particle_color> 41 -16717569
+<particle_color> 42 -16716033
+<particle_color> 43 -16714753
+<particle_color> 44 -16713217
+<particle_color> 45 -16711681
+<color_key> 45
+<particle_color> 46 -16581889
+<particle_color> 47 -16452097
+<particle_color> 48 -16256769
+<particle_color> 49 -16126721
+<particle_color> 50 -15996929
+<particle_color> 51 -15801601
+<particle_color> 52 -15671809
+<particle_color> 53 -15541761
+<particle_color> 54 -15346433
+<particle_color> 55 -15216641
+<particle_color> 56 -15021057
+<particle_color> 57 -14891265
+<particle_color> 58 -14761473
+<particle_color> 59 -14566145
+<particle_color> 60 -14436097
+<particle_color> 61 -14306305
+<particle_color> 62 -14110977
+<particle_color> 63 -13980929
+<particle_color> 64 -13785601
+<particle_color> 65 -13655809
+<particle_color> 66 -13526017
+<particle_color> 67 -13330433
+<particle_color> 68 -13200641
+<particle_color> 69 -13070849
+<particle_color> 70 -12875521
+<particle_color> 71 -12745473
+<particle_color> 72 -12550145
+<particle_color> 73 -12420353
+<particle_color> 74 -12290305
+<particle_color> 75 -12094977
+<particle_color> 76 -11965185
+<particle_color> 77 -11835393
+<particle_color> 78 -11639809
+<particle_color> 79 -11510017
+<particle_color> 80 -11380225
+<particle_color> 81 -11184641
+<particle_color> 82 -11054849
+<particle_color> 83 -10859521
+<particle_color> 84 -10729729
+<particle_color> 85 -10599681
+<particle_color> 86 -10404353
+<particle_color> 87 -10274561
+<particle_color> 88 -10144769
+<particle_color> 89 -9949185
+<particle_color> 90 -9819393
+<particle_color> 91 -9624065
+<particle_color> 92 -9494017
+<particle_color> 93 -9364225
+<particle_color> 94 -9168897
+<particle_color> 95 -9039105
+<particle_color> 96 -8909057
+<particle_color> 97 -8713729
+<particle_color> 98 -8583937
+<particle_color> 99 -8388353
+<color_key> 99
+<shape_name> 
+<shape_fps> 0.0000
+<shape_apply> false
+<Directional> true
+<land> false
+<collsion> false
+<end>

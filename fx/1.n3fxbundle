@@ -1,0 +1,12 @@
+<N3FXBUNDLE>
+<PART> fx/1.n3fxpart 0.00
+<PART> fx/2.n3fxpart 0.20
+<PART> fx/3.n3fxpart 0.00
+<PART> fx/4.n3fxpart 0.30
+<PART> fx/5.n3fxpart 0.00
+<PART> fx/6.n3fxpart 0.20
+<PART> fx/7.n3fxpart 0.00
+<PART> fx/8.n3fxpart 0.30
+<Depend_Scale> false
+<Static_Pos> false
+<Velocity> 0.0000

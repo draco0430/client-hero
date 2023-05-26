@@ -1,0 +1,130 @@
+<N3FXPART>
+<type> Line
+<texture> fx\particle\thundera.dxt 1
+<life> 1.5000
+<texture_animation_speed> 0.0000
+<delay> 0.1000
+<vibrate_radius> 2.0000
+<reachtime> 0.0000
+<thick> 1.0000 3.0000
+<refrect> 1 2
+<src_min_pos> 1.5000 13.5000 1.5000
+<src_max_pos> -1.5000 13.5000 -1.5000
+<dest_min_pos> 4.0000 0.0000 4.0000
+<dest_max_pos> -4.0000 0.0000 -4.0000
+<ground> false
+<alpha> true
+<doubleside> false
+<light> true
+<zbuffer> true
+<zwrite> true
+<src_blend> ONE
+<dest_blend> ONE
+<tex_loop> false
+<change_color> false
+<line_color> 0 -8355712
+<color_key> 0
+<line_color> 1 -8355712
+<line_color> 2 -8355712
+<line_color> 3 -8355712
+<line_color> 4 -8355712
+<line_color> 5 -8355712
+<line_color> 6 -8355712
+<line_color> 7 -8355712
+<line_color> 8 -8355712
+<line_color> 9 -8355712
+<line_color> 10 -8355712
+<line_color> 11 -8355712
+<line_color> 12 -8355712
+<line_color> 13 -8355712
+<line_color> 14 -8355712
+<line_color> 15 -8355712
+<line_color> 16 -8355712
+<line_color> 17 -8355712
+<line_color> 18 -8355712
+<line_color> 19 -8355712
+<line_color> 20 -8355712
+<line_color> 21 -8355712
+<line_color> 22 -8355712
+<line_color> 23 -8355712
+<line_color> 24 -8355712
+<line_color> 25 -8355712
+<line_color> 26 -8355712
+<line_color> 27 -8355712
+<line_color> 28 -8355712
+<line_color> 29 -8355712
+<line_color> 30 -8355712
+<line_color> 31 -8355712
+<line_color> 32 -8355712
+<line_color> 33 -8355712
+<line_color> 34 -8355712
+<line_color> 35 -8355712
+<line_color> 36 -8355712
+<line_color> 37 -8355712
+<line_color> 38 -8355712
+<line_color> 39 -8355712
+<line_color> 40 -8355712
+<line_color> 41 -8355712
+<line_color> 42 -8355712
+<line_color> 43 -8355712
+<line_color> 44 -8355712
+<line_color> 45 -8355712
+<line_color> 46 -8355712
+<line_color> 47 -8355712
+<line_color> 48 -8355712
+<line_color> 49 -8355712
+<line_color> 50 -8355712
+<line_color> 51 -8355712
+<line_color> 52 -8355712
+<line_color> 53 -8355712
+<line_color> 54 -8355712
+<line_color> 55 -8355712
+<line_color> 56 -8355712
+<line_color> 57 -8355712
+<line_color> 58 -8355712
+<line_color> 59 -8355712
+<line_color> 60 -8355712
+<line_color> 61 -8355712
+<line_color> 62 -8355712
+<line_color> 63 -8355712
+<line_color> 64 -8355712
+<line_color> 65 -8355712
+<line_color> 66 -8355712
+<line_color> 67 -8355712
+<line_color> 68 -8355712
+<line_color> 69 -8355712
+<line_color> 70 -8355712
+<line_color> 71 -8355712
+<line_color> 72 -8355712
+<line_color> 73 -8355712
+<line_color> 74 -8355712
+<line_color> 75 -8355712
+<line_color> 76 -8355712
+<line_color> 77 -8355712
+<line_color> 78 -8355712
+<line_color> 79 -8355712
+<line_color> 80 -8355712
+<line_color> 81 -8355712
+<line_color> 82 -8355712
+<line_color> 83 -8355712
+<line_color> 84 -8355712
+<line_color> 85 -8355712
+<line_color> 86 -8355712
+<line_color> 87 -8355712
+<line_color> 88 -8355712
+<line_color> 89 -8355712
+<line_color> 90 -8355712
+<line_color> 91 -8355712
+<line_color> 92 -8355712
+<line_color> 93 -8355712
+<line_color> 94 -8355712
+<line_color> 95 -8355712
+<line_color> 96 -8355712
+<line_color> 97 -8355712
+<line_color> 98 -8355712
+<line_color> 99 -8355712
+<color_key> 99
+<land> true
+<collision> true
+<collisionradius> 
+<end>

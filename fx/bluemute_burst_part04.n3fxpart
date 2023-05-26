@@ -1,0 +1,141 @@
+<N3FXPART>
+<type> particle
+<texture> fx\particle\blucore_.dxt 1
+<life> 0.5000
+<texture_animation_speed> 0.0000
+<position0> 0.0000 0.0000 0.0000
+<velocity> 0.0000 0.0000 0.0000
+<acceleration> 0.0000 0.0000 0.0000
+<alpha> true
+<doubleside> true
+<light> true
+<zbuffer> false
+<zwrite> false
+<on_ground> false
+<src_blend> ONE
+<dest_blend> ONE
+<fadeout> 0.0000
+<fadein> 0.0000
+<particle_count> 30
+<particle_size_range> 0.0500 0.2000
+<particle_life> 0.1000 0.3000
+<start_range_min> 9.0000 9.0000 9.0000
+<start_range_max> -9.0000 -9.0000 -9.0000
+<create_count> 10
+<create_delay> 0.0000
+<emit_type> gather 0.0000 0.0000 0.0000 38920112
+<particle_direction> 0.0000 1.0000 0.0000
+<particle_velocity> 20.0000
+<particle_acceleration> -19.0000
+<particle_rotation_velocity> 0.0000
+<particle_gravity> 0.0000
+<change_color> true
+<particle_color> 0 -1
+<particle_color> 1 -6
+<particle_color> 2 -11
+<particle_color> 3 -15
+<particle_color> 4 -20
+<particle_color> 5 -24
+<particle_color> 6 -29
+<particle_color> 7 -33
+<particle_color> 8 -38
+<particle_color> 9 -42
+<particle_color> 10 -47
+<particle_color> 11 -51
+<particle_color> 12 -56
+<particle_color> 13 -60
+<particle_color> 14 -65
+<particle_color> 15 -70
+<particle_color> 16 -74
+<particle_color> 17 -79
+<particle_color> 18 -83
+<particle_color> 19 -88
+<particle_color> 20 -92
+<particle_color> 21 -97
+<particle_color> 22 -101
+<particle_color> 23 -106
+<particle_color> 24 -110
+<particle_color> 25 -115
+<particle_color> 26 -119
+<particle_color> 27 -124
+<particle_color> 28 -128
+<color_key> 28
+<particle_color> 29 -263298
+<particle_color> 30 -526468
+<particle_color> 31 -723846
+<particle_color> 32 -987016
+<particle_color> 33 -1184394
+<particle_color> 34 -1447563
+<particle_color> 35 -1710733
+<particle_color> 36 -1908111
+<particle_color> 37 -2171281
+<particle_color> 38 -2368659
+<particle_color> 39 -2631828
+<particle_color> 40 -2894998
+<particle_color> 41 -3092376
+<particle_color> 42 -3355546
+<particle_color> 43 -3552924
+<particle_color> 44 -3816093
+<particle_color> 45 -4079263
+<particle_color> 46 -4276641
+<particle_color> 47 -4539811
+<particle_color> 48 -4737189
+<particle_color> 49 -5000358
+<particle_color> 50 -5263528
+<particle_color> 51 -5460906
+<particle_color> 52 -5724076
+<particle_color> 53 -5921454
+<particle_color> 54 -6184623
+<particle_color> 55 -6382001
+<particle_color> 56 -6645171
+<particle_color> 57 -6908341
+<particle_color> 58 -7105719
+<particle_color> 59 -7368888
+<particle_color> 60 -7566266
+<particle_color> 61 -7829436
+<particle_color> 62 -8092606
+<particle_color> 63 -8289984
+<particle_color> 64 -8553153
+<particle_color> 65 -8750531
+<particle_color> 66 -9013701
+<particle_color> 67 -9276871
+<particle_color> 68 -9474249
+<particle_color> 69 -9737418
+<particle_color> 70 -9934796
+<particle_color> 71 -10197966
+<particle_color> 72 -10461136
+<particle_color> 73 -10658514
+<particle_color> 74 -10921683
+<particle_color> 75 -11119061
+<particle_color> 76 -11382231
+<particle_color> 77 -11579609
+<particle_color> 78 -11842779
+<particle_color> 79 -12105948
+<particle_color> 80 -12303326
+<particle_color> 81 -12566496
+<particle_color> 82 -12763874
+<particle_color> 83 -13027044
+<particle_color> 84 -13290213
+<particle_color> 85 -13487591
+<particle_color> 86 -13750761
+<particle_color> 87 -13948139
+<particle_color> 88 -14211309
+<particle_color> 89 -14474478
+<particle_color> 90 -14671856
+<particle_color> 91 -14935026
+<particle_color> 92 -15132404
+<particle_color> 93 -15395574
+<particle_color> 94 -15658743
+<particle_color> 95 -15856121
+<particle_color> 96 -16119291
+<particle_color> 97 -16316669
+<particle_color> 98 -16579839
+<particle_color> 99 -16777216
+<color_key> 99
+<shape_name> 
+<shape_fps> 0.0000
+<shape_apply> false
+<Directional> false
+<land> false
+<collsion> false
+<end>
