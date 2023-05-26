@@ -1,0 +1,132 @@
+<N3FXPART>
+<type> board
+<texture> fx\particle\smoke_spark_2_.dxt 1
+<life> 0.0000
+<texture_animation_speed> 0.0000
+<position0> 0.0000 0.0000 -0.4000
+<distance> 0.0000
+<velocity> 0.0000 0.0000 0.0000
+<rot_velocity> 0.0000 0 0
+<acceleration> 0.0000 0.0000 0.0000
+<on_ground> false
+<alpha> true
+<doubleside> false
+<light> false
+<zbuffer> false
+<zwrite> false
+<src_blend> SRCALPHA
+<dest_blend> INVSRCALPHA
+<fadeout> 0.0000
+<fadein> 0.0000
+<billboard_count> 1
+<billboard_size> 2.0000 2.0000
+<tex_loop> false
+<Rotate_only_y> false
+<billboard_scale_velocity> 0.0000 0.0000
+<billboard_scale_acceleration> 0.0000 0.0000
+<change_color> true
+<bill_color> 0 -128
+<color_key> 0
+<bill_color> 1 -128
+<bill_color> 2 -128
+<bill_color> 3 -128
+<bill_color> 4 -128
+<bill_color> 5 -128
+<bill_color> 6 -128
+<bill_color> 7 -128
+<bill_color> 8 -128
+<bill_color> 9 -128
+<bill_color> 10 -128
+<bill_color> 11 -128
+<bill_color> 12 -128
+<bill_color> 13 -128
+<bill_color> 14 -128
+<bill_color> 15 -128
+<bill_color> 16 -128
+<bill_color> 17 -128
+<bill_color> 18 -128
+<bill_color> 19 -128
+<bill_color> 20 -128
+<bill_color> 21 -128
+<bill_color> 22 -128
+<bill_color> 23 -128
+<bill_color> 24 -128
+<bill_color> 25 -128
+<bill_color> 26 -128
+<bill_color> 27 -128
+<bill_color> 28 -128
+<bill_color> 29 -128
+<bill_color> 30 -128
+<bill_color> 31 -128
+<bill_color> 32 -128
+<bill_color> 33 -128
+<bill_color> 34 -128
+<bill_color> 35 -128
+<bill_color> 36 -128
+<bill_color> 37 -128
+<bill_color> 38 -128
+<bill_color> 39 -128
+<bill_color> 40 -128
+<bill_color> 41 -128
+<bill_color> 42 -128
+<bill_color> 43 -128
+<bill_color> 44 -128
+<bill_color> 45 -128
+<bill_color> 46 -128
+<bill_color> 47 -128
+<bill_color> 48 -128
+<bill_color> 49 -128
+<bill_color> 50 -128
+<bill_color> 51 -128
+<bill_color> 52 -128
+<bill_color> 53 -128
+<bill_color> 54 -128
+<bill_color> 55 -128
+<bill_color> 56 -128
+<bill_color> 57 -128
+<bill_color> 58 -128
+<bill_color> 59 -128
+<bill_color> 60 -128
+<bill_color> 61 -128
+<bill_color> 62 -128
+<bill_color> 63 -128
+<bill_color> 64 -128
+<bill_color> 65 -128
+<bill_color> 66 -128
+<bill_color> 67 -128
+<bill_color> 68 -128
+<bill_color> 69 -128
+<bill_color> 70 -128
+<bill_color> 71 -128
+<bill_color> 72 -128
+<bill_color> 73 -128
+<bill_color> 74 -128
+<bill_color> 75 -128
+<bill_color> 76 -128
+<bill_color> 77 -128
+<bill_color> 78 -128
+<bill_color> 79 -128
+<bill_color> 80 -128
+<bill_color> 81 -128
+<bill_color> 82 -128
+<bill_color> 83 -128
+<bill_color> 84 -128
+<bill_color> 85 -128
+<bill_color> 86 -128
+<bill_color> 87 -128
+<bill_color> 88 -128
+<bill_color> 89 -128
+<bill_color> 90 -128
+<bill_color> 91 -128
+<bill_color> 92 -128
+<bill_color> 93 -128
+<bill_color> 94 -128
+<bill_color> 95 -128
+<bill_color> 96 -128
+<bill_color> 97 -128
+<bill_color> 98 -128
+<bill_color> 99 -128
+<color_key> 99
+<land> false
+<collsion> false
+<end>

@@ -1,0 +1,13 @@
+function msinfo_705()
+    group(getstring(1))
+    title(getstring(10705)) 
+    scenario(getstring(207050))
+    requestitem(17505160, 20)
+    rewardexp(0,283590)
+    rewarditem(1, 17701057, 1)
+    rewarditem(2, 171, 3)
+    rewarditem(3, 17505125, 50)
+    rewarditem(4, 17505126, 50)
+    rewarditem(5, 17505155, 1)
+    rewarditem(6, 17505155, 1)
+end

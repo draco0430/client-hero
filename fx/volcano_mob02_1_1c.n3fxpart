@@ -1,0 +1,132 @@
+<N3FXPART>
+<type> board
+<texture> fx\particle\broken005_a_.dxt 1
+<life> 0.0000
+<texture_animation_speed> 0.0000
+<position0> 0.0000 0.0000 0.0000
+<distance> 0.0000
+<velocity> 0.0000 0.0000 0.0000
+<rot_velocity> 0.5000 0 0
+<acceleration> 0.0000 0.0000 0.0000
+<on_ground> false
+<alpha> true
+<doubleside> true
+<light> false
+<zbuffer> false
+<zwrite> false
+<src_blend> SRCALPHA
+<dest_blend> INVSRCALPHA
+<fadeout> 0.0000
+<fadein> 0.0000
+<billboard_count> 1
+<billboard_size> 1.0000 1.0000
+<tex_loop> false
+<Rotate_only_y> false
+<billboard_scale_velocity> 0.0000 0.0000
+<billboard_scale_acceleration> 0.0000 0.0000
+<change_color> true
+<bill_color> 0 -2312061
+<color_key> 0
+<bill_color> 1 -2312318
+<bill_color> 2 -2312318
+<bill_color> 3 -2312318
+<bill_color> 4 -2312319
+<bill_color> 5 -2312319
+<bill_color> 6 -2312319
+<bill_color> 7 -2312320
+<bill_color> 8 -2312320
+<bill_color> 9 -2312320
+<bill_color> 10 -2312321
+<bill_color> 11 -2312321
+<bill_color> 12 -2312321
+<bill_color> 13 -2312577
+<bill_color> 14 -2312578
+<bill_color> 15 -2312578
+<bill_color> 16 -2312578
+<bill_color> 17 -2312579
+<bill_color> 18 -2312579
+<bill_color> 19 -2312579
+<bill_color> 20 -2312580
+<bill_color> 21 -2312580
+<bill_color> 22 -2312580
+<bill_color> 23 -2312580
+<bill_color> 24 -2312581
+<bill_color> 25 -2312837
+<bill_color> 26 -2312837
+<bill_color> 27 -2312838
+<bill_color> 28 -2312838
+<bill_color> 29 -2312838
+<bill_color> 30 -2312839
+<bill_color> 31 -2312839
+<bill_color> 32 -2312839
+<bill_color> 33 -2312839
+<bill_color> 34 -2312840
+<bill_color> 35 -2312840
+<bill_color> 36 -2312840
+<bill_color> 37 -2312841
+<bill_color> 38 -2313097
+<bill_color> 39 -2313097
+<bill_color> 40 -2313098
+<bill_color> 41 -2313098
+<bill_color> 42 -2313098
+<bill_color> 43 -2313099
+<bill_color> 44 -2313099
+<bill_color> 45 -2313099
+<bill_color> 46 -2313099
+<bill_color> 47 -2313100
+<bill_color> 48 -2313100
+<bill_color> 49 -2313100
+<bill_color> 50 -2247821
+<bill_color> 51 -2247821
+<bill_color> 52 -2247821
+<bill_color> 53 -2247822
+<bill_color> 54 -2247822
+<bill_color> 55 -2247822
+<bill_color> 56 -2247822
+<bill_color> 57 -2247823
+<bill_color> 58 -2247823
+<bill_color> 59 -2247823
+<bill_color> 60 -2247824
+<bill_color> 61 -2247824
+<bill_color> 62 -2248080
+<bill_color> 63 -2248081
+<bill_color> 64 -2248081
+<bill_color> 65 -2248081
+<bill_color> 66 -2248081
+<bill_color> 67 -2248082
+<bill_color> 68 -2248082
+<bill_color> 69 -2248082
+<bill_color> 70 -2248083
+<bill_color> 71 -2248083
+<bill_color> 72 -2248083
+<bill_color> 73 -2248084
+<bill_color> 74 -2248084
+<bill_color> 75 -2248340
+<bill_color> 76 -2248341
+<bill_color> 77 -2248341
+<bill_color> 78 -2248341
+<bill_color> 79 -2248341
+<bill_color> 80 -2248342
+<bill_color> 81 -2248342
+<bill_color> 82 -2248342
+<bill_color> 83 -2248343
+<bill_color> 84 -2248343
+<bill_color> 85 -2248343
+<bill_color> 86 -2248344
+<bill_color> 87 -2248600
+<bill_color> 88 -2248600
+<bill_color> 89 -2248600
+<bill_color> 90 -2248601
+<bill_color> 91 -2248601
+<bill_color> 92 -2248601
+<bill_color> 93 -2248602
+<bill_color> 94 -2248602
+<bill_color> 95 -2248602
+<bill_color> 96 -2248603
+<bill_color> 97 -2248603
+<bill_color> 98 -2248603
+<bill_color> 99 -2183067
+<color_key> 99
+<land> false
+<collsion> false
+<end>

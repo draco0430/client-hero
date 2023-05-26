@@ -1,0 +1,7 @@
+<N3FXBUNDLE>
+<PART> fx/wutaishan_npc01_7.n3fxpart 0.00
+<PART> fx/wutaishan_npc01_7a.n3fxpart 0.00
+<PART> fx/wutaishan_npc01_7b.n3fxpart 0.00
+<Depend_Scale> false
+<Static_Pos> false
+<Velocity> 0.0000

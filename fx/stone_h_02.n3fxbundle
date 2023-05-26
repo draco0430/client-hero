@@ -1,0 +1,20 @@
+<N3FXBUNDLE>
+<PART> fx/stone_h_02_grou00.n3fxpart 0.20
+<PART> fx/stone_h_02_grou01.n3fxpart 0.50
+<PART> fx/stone_h_02_grou00.n3fxpart 2.00
+<PART> fx/stone_h_02_mesh01.n3fxpart 0.00
+<PART> fx/stone_h_02_mesh02.n3fxpart 0.10
+<PART> fx/stone_h_02_mesh03.n3fxpart 0.10
+<PART> fx/stone_h_02_grou02.n3fxpart 0.00
+<PART> fx/stone_h_02_mesh03.n3fxpart 0.20
+<PART> fx/stone_h_02_mesh03.n3fxpart 0.30
+<PART> fx/stone_h_02_bill00.n3fxpart 0.20
+<PART> fx/stone_h_02_bill01.n3fxpart 0.20
+<PART> fx/stone_h_02_part00.n3fxpart 0.00
+<PART> fx/stone_h_02_grou03.n3fxpart 0.00
+<PART> fx/stone_h_02_line00.n3fxpart 0.20
+<PART> fx/stone_h_02_part01.n3fxpart 0.20
+<PART> fx/stone_h_02_bill02.n3fxpart 2.00
+<Depend_Scale> false
+<Static_Pos> false
+<Velocity> 0.0000

@@ -1,0 +1,132 @@
+<N3FXPART>
+<type> ground
+<texture> fx\shape\txtr\magdec_stone_.dxt 1
+<life> 0.0000
+<texture_animation_speed> 0.0000
+<position0> 0.0000 0.0000 0.0000
+<velocity> 0.0000 0.0000 0.0000
+<acceleration> 0.0000 0.0000 0.0000
+<rot_velocity> 0.0000 -0.1000 0.0000
+<alpha> true
+<doubleside> false
+<light> false
+<zbuffer> true
+<zwrite> true
+<src_blend> ONE
+<dest_blend> ONE
+<fadeout> 0.5000
+<fadein> 0.1000
+<ground_size> 3.0000 3.0000
+<tex_loop> false
+<ground_scale_velocity> 0.0000 0.0000
+<ground_scale_acceleration> 0.0000 0.0000
+<ground_gap> 0.1000
+<change_color> true
+<ground_color> 0 -16777216
+<color_key> 0
+<ground_color> 1 -15987712
+<ground_color> 2 -15132416
+<ground_color> 3 -14277120
+<ground_color> 4 -13421824
+<ground_color> 5 -12632320
+<ground_color> 6 -11777024
+<ground_color> 7 -10921728
+<ground_color> 8 -10066432
+<ground_color> 9 -9276928
+<ground_color> 10 -8421632
+<ground_color> 11 -7566336
+<ground_color> 12 -6711040
+<ground_color> 13 -5921536
+<ground_color> 14 -5066240
+<ground_color> 15 -4210944
+<ground_color> 16 -3355648
+<ground_color> 17 -2566144
+<ground_color> 18 -1710848
+<ground_color> 19 -855552
+<ground_color> 20 -256
+<color_key> 20
+<ground_color> 21 -256
+<ground_color> 22 -256
+<ground_color> 23 -256
+<ground_color> 24 -256
+<ground_color> 25 -256
+<ground_color> 26 -256
+<ground_color> 27 -256
+<ground_color> 28 -256
+<ground_color> 29 -256
+<ground_color> 30 -256
+<ground_color> 31 -256
+<ground_color> 32 -256
+<ground_color> 33 -256
+<ground_color> 34 -256
+<ground_color> 35 -256
+<ground_color> 36 -256
+<ground_color> 37 -256
+<ground_color> 38 -256
+<ground_color> 39 -256
+<ground_color> 40 -256
+<ground_color> 41 -256
+<ground_color> 42 -256
+<ground_color> 43 -256
+<color_key> 43
+<ground_color> 44 -256
+<ground_color> 45 -256
+<ground_color> 46 -256
+<ground_color> 47 -256
+<ground_color> 48 -256
+<ground_color> 49 -256
+<ground_color> 50 -256
+<ground_color> 51 -256
+<ground_color> 52 -256
+<ground_color> 53 -256
+<ground_color> 54 -256
+<ground_color> 55 -256
+<ground_color> 56 -256
+<ground_color> 57 -256
+<ground_color> 58 -256
+<ground_color> 59 -256
+<ground_color> 60 -256
+<ground_color> 61 -256
+<ground_color> 62 -256
+<ground_color> 63 -256
+<ground_color> 64 -256
+<ground_color> 65 -256
+<ground_color> 66 -256
+<ground_color> 67 -256
+<ground_color> 68 -256
+<ground_color> 69 -256
+<ground_color> 70 -256
+<ground_color> 71 -256
+<color_key> 71
+<ground_color> 72 -658176
+<ground_color> 73 -1250304
+<ground_color> 74 -1842432
+<ground_color> 75 -2434560
+<ground_color> 76 -3026688
+<ground_color> 77 -3618816
+<ground_color> 78 -4210944
+<ground_color> 79 -4803072
+<ground_color> 80 -5395200
+<ground_color> 81 -6053120
+<ground_color> 82 -6645248
+<ground_color> 83 -7237376
+<ground_color> 84 -7829504
+<ground_color> 85 -8421632
+<ground_color> 86 -9013760
+<ground_color> 87 -9605888
+<ground_color> 88 -10198016
+<ground_color> 89 -10790144
+<ground_color> 90 -11448064
+<ground_color> 91 -12040192
+<ground_color> 92 -12632320
+<ground_color> 93 -13224448
+<ground_color> 94 -13816576
+<ground_color> 95 -14408704
+<ground_color> 96 -15000832
+<ground_color> 97 -15592960
+<ground_color> 98 -16185088
+<ground_color> 99 -16777216
+<color_key> 99
+<land> true
+<collision> false
+<end>

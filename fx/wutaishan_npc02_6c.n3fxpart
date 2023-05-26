@@ -1,0 +1,133 @@
+<N3FXPART>
+<type> ground
+<texture> fx\particle\water_ripple_.dxt 1
+<life> 0.8000
+<texture_animation_speed> 0.0000
+<position0> 0.0000 0.0000 0.0000
+<velocity> 0.0000 0.0000 0.0000
+<acceleration> 0.0000 0.0000 0.0000
+<rot_velocity> 0.0000 1.0000 0.0000
+<alpha> true
+<doubleside> true
+<light> false
+<zbuffer> false
+<zwrite> false
+<src_blend> SRCALPHA
+<dest_blend> ONE
+<fadeout> 0.0000
+<fadein> 0.0000
+<ground_size> 0.7500 0.7500
+<tex_loop> false
+<ground_scale_velocity> 5.0000 5.0000
+<ground_scale_acceleration> 0.0000 0.0000
+<ground_gap> 0.0000
+<change_color> true
+<ground_color> 0 -32513
+<color_key> 0
+<alpha_key> 0
+<ground_color> 1 -229121
+<ground_color> 2 -425729
+<ground_color> 3 -556801
+<ground_color> 4 -753409
+<ground_color> 5 -884481
+<ground_color> 6 -1081089
+<ground_color> 7 -1277697
+<ground_color> 8 -1408769
+<ground_color> 9 -1605377
+<ground_color> 10 -1736449
+<ground_color> 11 -1933057
+<ground_color> 12 -2064129
+<ground_color> 13 -2260737
+<ground_color> 14 -2457345
+<ground_color> 15 -2588417
+<ground_color> 16 -2785025
+<ground_color> 17 -2916097
+<ground_color> 18 -3112705
+<ground_color> 19 -3243777
+<ground_color> 20 -3440385
+<ground_color> 21 -3636993
+<ground_color> 22 -3768065
+<ground_color> 23 -3964673
+<ground_color> 24 -4095745
+<ground_color> 25 -4292353
+<ground_color> 26 -4423425
+<ground_color> 27 -4620033
+<ground_color> 28 -4816641
+<ground_color> 29 -4947713
+<ground_color> 30 -5144321
+<ground_color> 31 -5275393
+<ground_color> 32 -5472001
+<ground_color> 33 -5603073
+<ground_color> 34 -5799681
+<ground_color> 35 -5996289
+<ground_color> 36 -6127361
+<ground_color> 37 -6323969
+<ground_color> 38 -6455041
+<ground_color> 39 -6651649
+<ground_color> 40 -6848257
+<ground_color> 41 -6979329
+<ground_color> 42 -7175937
+<ground_color> 43 -7307009
+<ground_color> 44 -7503617
+<ground_color> 45 -7634689
+<ground_color> 46 -7831297
+<ground_color> 47 -8027905
+<ground_color> 48 -8158977
+<ground_color> 49 -8355585
+<ground_color> 50 -8486657
+<ground_color> 51 -8683265
+<ground_color> 52 -8814337
+<ground_color> 53 -9010945
+<ground_color> 54 -9207553
+<ground_color> 55 -9338625
+<ground_color> 56 -9535233
+<ground_color> 57 -9666305
+<ground_color> 58 -9862913
+<ground_color> 59 -9993985
+<ground_color> 60 -10190593
+<ground_color> 61 -10387201
+<ground_color> 62 -10518273
+<ground_color> 63 -10714881
+<ground_color> 64 -10845953
+<ground_color> 65 -11042561
+<ground_color> 66 -11173633
+<ground_color> 67 -11370241
+<ground_color> 68 -11566849
+<ground_color> 69 -11697921
+<ground_color> 70 -11894529
+<ground_color> 71 -12025601
+<ground_color> 72 -12222209
+<ground_color> 73 -12418817
+<ground_color> 74 -12549889
+<ground_color> 75 -12746497
+<ground_color> 76 -12877569
+<ground_color> 77 -13074177
+<alpha_key> 77
+<ground_color> 78 -214531841
+<ground_color> 79 -416055041
+<ground_color> 80 -600801025
+<ground_color> 81 -802258689
+<ground_color> 82 -987004673
+<ground_color> 83 -1188462337
+<ground_color> 84 -1389985537
+<ground_color> 85 -1574665985
+<ground_color> 86 -1776189185
+<ground_color> 87 -1960935169
+<ground_color> 88 2132574463
+<ground_color> 89 1931051263
+<ground_color> 90 1746370815
+<ground_color> 91 1544847615
+<ground_color> 92 1360167167
+<ground_color> 93 1158643967
+<ground_color> 94 957120767
+<ground_color> 95 772440319
+<ground_color> 96 570917119
+<ground_color> 97 386236671
+<ground_color> 98 184713471
+<ground_color> 99 33023
+<color_key> 99
+<alpha_key> 99
+<land> false
+<collision> false
+<loop> false
+<end>

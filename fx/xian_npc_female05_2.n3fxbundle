@@ -1,0 +1,10 @@
+<N3FXBUNDLE>
+<PART> fx/xian_npc_female05_2a.n3fxpart 0.00
+<PART> fx/xian_npc_female05_2b.n3fxpart 0.00
+<PART> fx/xian_npc_female05_2c.n3fxpart 0.00
+<PART> fx/xian_npc_female05_2d.n3fxpart 0.00
+<PART> fx/xian_npc_female05_2e.n3fxpart 0.00
+<PART> fx/xian_npc_female05_2f.n3fxpart 0.00
+<Depend_Scale> false
+<Static_Pos> false
+<Velocity> 0.0000

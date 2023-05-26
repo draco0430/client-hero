@@ -1,0 +1,145 @@
+<N3FXPART>
+<type> particle
+<texture> fx\particle\lf-ez-quantum5-2_.dxt 1
+<life> 0.0000
+<texture_animation_speed> 0.0000
+<position0> 0.0000 0.0000 0.0000
+<velocity> 0.0000 0.0000 0.0000
+<acceleration> 0.0000 0.0000 0.0000
+<alpha> true
+<doubleside> true
+<light> false
+<zbuffer> false
+<zwrite> false
+<on_ground> false
+<src_blend> SRCALPHA
+<dest_blend> ONE
+<fadeout> 0.0000
+<fadein> 0.0000
+<particle_count> 30
+<particle_size_range> 0.0750 0.1250
+<particle_life> 0.3000 0.4000
+<start_range_min> 0.2000 0.1200 0.2000
+<start_range_max> -0.2000 -0.1200 -0.2000
+<create_count> 5
+<create_delay> 0.2500
+<emit_type> spread 30.0000
+<particle_direction> 0.0000 0.0000 0.0000
+<particle_velocity> -2.0000
+<particle_acceleration> 0.0000
+<particle_rotation_velocity> 0.0000
+<particle_gravity> 0.0000
+<change_color> true
+<particle_color> 0 16744640
+<color_key> 0
+<alpha_key> 0
+<particle_color> 1 318603712
+<particle_color> 2 620528321
+<particle_color> 3 922452929
+<particle_color> 4 1224312258
+<particle_color> 5 1543014083
+<particle_color> 6 1844938691
+<particle_color> 7 2146863300
+<particle_color> 8 -1846244667
+<particle_color> 9 -1544320059
+<particle_color> 10 -1225618234
+<particle_color> 11 -923758906
+<particle_color> 12 -621834297
+<particle_color> 13 -319909688
+<particle_color> 14 -1207864
+<alpha_key> 14
+<particle_color> 15 -1338423
+<particle_color> 16 -1403702
+<particle_color> 17 -1468982
+<particle_color> 18 -1599541
+<particle_color> 19 -1664820
+<particle_color> 20 -1730100
+<particle_color> 21 -1795379
+<particle_color> 22 -1925939
+<particle_color> 23 -1991218
+<particle_color> 24 -2056497
+<particle_color> 25 -2187057
+<particle_color> 26 -2252336
+<particle_color> 27 -2317615
+<particle_color> 28 -2382895
+<particle_color> 29 -2513454
+<particle_color> 30 -2578733
+<particle_color> 31 -2644013
+<particle_color> 32 -2774572
+<particle_color> 33 -2839852
+<particle_color> 34 -2905131
+<particle_color> 35 -2970410
+<particle_color> 36 -3100970
+<particle_color> 37 -3166249
+<particle_color> 38 -3231528
+<particle_color> 39 -3362088
+<particle_color> 40 -3427367
+<particle_color> 41 -3492646
+<particle_color> 42 -3557926
+<particle_color> 43 -3688485
+<particle_color> 44 -3753765
+<particle_color> 45 -3819044
+<particle_color> 46 -3949603
+<particle_color> 47 -4014883
+<particle_color> 48 -4080162
+<particle_color> 49 -4145441
+<particle_color> 50 -4276001
+<particle_color> 51 -4341280
+<particle_color> 52 -4406559
+<particle_color> 53 -4471839
+<particle_color> 54 -4602398
+<particle_color> 55 -4667678
+<particle_color> 56 -4732957
+<particle_color> 57 -4863516
+<particle_color> 58 -4928796
+<particle_color> 59 -4994075
+<alpha_key> 59
+<particle_color> 60 -122499866
+<particle_color> 61 -223293722
+<particle_color> 62 -340799513
+<particle_color> 63 -441528088
+<particle_color> 64 -542321944
+<particle_color> 65 -659827735
+<particle_color> 66 -760556311
+<particle_color> 67 -861284886
+<particle_color> 68 -978855957
+<particle_color> 69 -1079584533
+<particle_color> 70 -1197090324
+<particle_color> 71 -1297884179
+<particle_color> 72 -1398612755
+<particle_color> 73 -1516118546
+<particle_color> 74 -1616847121
+<particle_color> 75 -1717640977
+<particle_color> 76 -1835146768
+<particle_color> 77 -1935875344
+<particle_color> 78 -2053446415
+<particle_color> 79 2140792306
+<particle_color> 80 2040063730
+<particle_color> 81 1922557939
+<particle_color> 82 1821764084
+<particle_color> 83 1721035508
+<particle_color> 84 1603529717
+<particle_color> 85 1502735862
+<particle_color> 86 1385230070
+<particle_color> 87 1284501495
+<particle_color> 88 1183772919
+<particle_color> 89 1066201848
+<particle_color> 90 965473273
+<particle_color> 91 864744697
+<particle_color> 92 747173626
+<particle_color> 93 646445051
+<particle_color> 94 528939259
+<particle_color> 95 428210684
+<particle_color> 96 327416829
+<particle_color> 97 209911037
+<particle_color> 98 109182462
+<particle_color> 99 8454143
+<color_key> 99
+<alpha_key> 99
+<shape_name> 
+<shape_fps> 0.0000
+<shape_apply> false
+<Directional> false
+<land> false
+<collsion> false
+<end>

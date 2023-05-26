@@ -1,0 +1,145 @@
+<N3FXPART>
+<type> particle
+<texture> fx\particle\energy_wave_003_bright_.dxt 1
+<life> 0.0000
+<texture_animation_speed> 0.0000
+<position0> 0.1000 0.1000 0.1000
+<velocity> 0.0000 0.0000 0.0000
+<acceleration> 0.0000 0.0000 0.0000
+<alpha> true
+<doubleside> true
+<light> false
+<zbuffer> false
+<zwrite> false
+<on_ground> false
+<src_blend> SRCALPHA
+<dest_blend> INVSRCALPHA
+<fadeout> 0.0000
+<fadein> 0.0000
+<particle_count> 20
+<particle_size_range> 0.7500 1.0000
+<particle_life> 0.5000 0.6600
+<start_range_min> 0.0000 0.0000 0.0000
+<start_range_max> 0.0000 0.0000 0.0000
+<create_count> 1
+<create_delay> 0.1000
+<emit_type> spread 360.0000
+<particle_direction> 0.0000 0.0000 0.0000
+<particle_velocity> 0.5500
+<particle_acceleration> 0.0000
+<particle_rotation_velocity> 0.0000
+<particle_gravity> 0.0000
+<change_color> true
+<particle_color> 0 8405056
+<color_key> 0
+<alpha_key> 0
+<particle_color> 1 260063295
+<particle_color> 2 511721534
+<particle_color> 3 763379774
+<particle_color> 4 1015038013
+<particle_color> 5 1266696252
+<particle_color> 6 1518354492
+<particle_color> 7 1770012731
+<particle_color> 8 2021670970
+<particle_color> 9 -2021638086
+<particle_color> 10 -1769979847
+<particle_color> 11 -1518321608
+<particle_color> 12 -1266663368
+<particle_color> 13 -1015005129
+<particle_color> 14 -763346890
+<particle_color> 15 -511688650
+<particle_color> 16 -260030411
+<particle_color> 17 -8372171
+<alpha_key> 17
+<particle_color> 18 -8372172
+<particle_color> 19 -8372173
+<particle_color> 20 -8372173
+<particle_color> 21 -8372174
+<particle_color> 22 -8372175
+<particle_color> 23 -8372175
+<particle_color> 24 -8372176
+<particle_color> 25 -8372177
+<particle_color> 26 -8372177
+<particle_color> 27 -8372178
+<particle_color> 28 -8372179
+<particle_color> 29 -8372179
+<particle_color> 30 -8372180
+<particle_color> 31 -8372181
+<particle_color> 32 -8372181
+<particle_color> 33 -8372182
+<particle_color> 34 -8372182
+<particle_color> 35 -8372183
+<particle_color> 36 -8372184
+<particle_color> 37 -8372184
+<particle_color> 38 -8372185
+<particle_color> 39 -8372186
+<particle_color> 40 -8372186
+<particle_color> 41 -8372187
+<particle_color> 42 -8372188
+<alpha_key> 42
+<particle_color> 43 -92258268
+<particle_color> 44 -159367133
+<particle_color> 45 -243253214
+<particle_color> 46 -310362078
+<particle_color> 47 -394248159
+<particle_color> 48 -461357024
+<particle_color> 49 -545243104
+<particle_color> 50 -612351969
+<particle_color> 51 -696238049
+<particle_color> 52 -763346914
+<particle_color> 53 -847232995
+<particle_color> 54 -914341859
+<particle_color> 55 -998227940
+<particle_color> 56 -1065336805
+<particle_color> 57 -1149222885
+<particle_color> 58 -1216331750
+<particle_color> 59 -1300217831
+<particle_color> 60 -1367326695
+<particle_color> 61 -1434435560
+<particle_color> 62 -1518321641
+<particle_color> 63 -1585430505
+<particle_color> 64 -1669316586
+<particle_color> 65 -1736425451
+<particle_color> 66 -1820311531
+<particle_color> 67 -1887420396
+<particle_color> 68 -1971306476
+<particle_color> 69 -2038415341
+<particle_color> 70 -2122301422
+<particle_color> 71 2105557010
+<particle_color> 72 2021670929
+<particle_color> 73 1954562064
+<particle_color> 74 1870675984
+<particle_color> 75 1803567119
+<particle_color> 76 1719681038
+<particle_color> 77 1652572174
+<particle_color> 78 1568686093
+<particle_color> 79 1501577228
+<particle_color> 80 1434468364
+<particle_color> 81 1350582283
+<particle_color> 82 1283473418
+<particle_color> 83 1199587338
+<particle_color> 84 1132478473
+<particle_color> 85 1048592393
+<particle_color> 86 981483528
+<particle_color> 87 897597447
+<particle_color> 88 830488583
+<particle_color> 89 746602502
+<particle_color> 90 679493637
+<particle_color> 91 595607557
+<particle_color> 92 528498692
+<particle_color> 93 444612611
+<particle_color> 94 377503747
+<particle_color> 95 293617666
+<particle_color> 96 226508801
+<particle_color> 97 142622721
+<particle_color> 98 75513856
+<particle_color> 99 8404992
+<color_key> 99
+<alpha_key> 99
+<shape_name> 
+<shape_fps> 0.0000
+<shape_apply> false
+<Directional> false
+<land> false
+<collsion> false
+<end>

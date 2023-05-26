@@ -1,0 +1,9 @@
+<N3FXBUNDLE>
+<PART> fx/wind_h_01_mesh00.n3fxpart 0.10
+<PART> fx/wind_h_01_bill00.n3fxpart 0.20
+<PART> fx/wind_h_01_mesh00.n3fxpart 0.10
+<PART> fx/wind_h_01_bill01.n3fxpart 0.30
+<PART> fx/wind_h_01_part00.n3fxpart 0.00
+<Depend_Scale> false
+<Static_Pos> false
+<Velocity> 0.0000

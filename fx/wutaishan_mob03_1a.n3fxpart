@@ -1,0 +1,131 @@
+<N3FXPART>
+<type> vamesh
+<vamesh_name> fx\shape\obj\wutaishan_mob01_1.vams
+<life> 0.2222
+<scale_velocity> 0.0000 -0.2500 -0.2500
+<scale> 1.0000 1.0000 1.0000
+<scale_accelerate> 0.0000 0.0000 0.0000
+<loop> false
+<alpha> true
+<doubleside> true
+<light> false
+<zbuffer> false
+<zwrite> false
+<mesh_fps> 450.0000
+<acceleration> 0.0000 0.0000 0.0000
+<position0> 0.0000 0.0000 0.0000
+<velocity> 0.0000 0.0000 -1.5000
+<rot_velocity> -15.0000 0.0000 0.0000
+<rotate> 0.7854 0.0000 0.0000
+<life> 0.2222
+<fadeout> 0.0000
+<fadein> 0.0000
+<src_blend> SRCALPHA
+<dest_blend> INVSRCALPHA
+<change_color> true
+<mesh_color> 0 -8388608
+<color_key> 0
+<mesh_color> 1 -8388608
+<mesh_color> 2 -8388608
+<mesh_color> 3 -8388608
+<mesh_color> 4 -8388608
+<mesh_color> 5 -8388608
+<mesh_color> 6 -8388608
+<mesh_color> 7 -8388608
+<mesh_color> 8 -8388608
+<mesh_color> 9 -8388608
+<mesh_color> 10 -8388608
+<mesh_color> 11 -8388608
+<mesh_color> 12 -8388608
+<mesh_color> 13 -8388608
+<mesh_color> 14 -8388608
+<mesh_color> 15 -8388608
+<mesh_color> 16 -8388608
+<mesh_color> 17 -8388608
+<mesh_color> 18 -8388608
+<mesh_color> 19 -8388608
+<mesh_color> 20 -8388608
+<mesh_color> 21 -8388608
+<mesh_color> 22 -8388608
+<mesh_color> 23 -8388608
+<mesh_color> 24 -8388608
+<mesh_color> 25 -8388608
+<mesh_color> 26 -8388608
+<mesh_color> 27 -8388608
+<mesh_color> 28 -8388608
+<mesh_color> 29 -8388608
+<mesh_color> 30 -8388608
+<mesh_color> 31 -8388608
+<mesh_color> 32 -8388608
+<mesh_color> 33 -8388608
+<mesh_color> 34 -8388608
+<mesh_color> 35 -8388608
+<mesh_color> 36 -8388608
+<mesh_color> 37 -8388608
+<mesh_color> 38 -8388608
+<mesh_color> 39 -8388608
+<mesh_color> 40 -8388608
+<mesh_color> 41 -8388608
+<mesh_color> 42 -8388608
+<mesh_color> 43 -8388608
+<mesh_color> 44 -8388608
+<mesh_color> 45 -8388608
+<mesh_color> 46 -8388608
+<mesh_color> 47 -8388608
+<mesh_color> 48 -8388608
+<mesh_color> 49 -8388608
+<mesh_color> 50 -8388608
+<mesh_color> 51 -8388608
+<mesh_color> 52 -8388608
+<mesh_color> 53 -8388608
+<mesh_color> 54 -8388608
+<mesh_color> 55 -8388608
+<mesh_color> 56 -8388608
+<mesh_color> 57 -8388608
+<mesh_color> 58 -8388608
+<mesh_color> 59 -8388608
+<mesh_color> 60 -8388608
+<mesh_color> 61 -8388608
+<mesh_color> 62 -8388608
+<mesh_color> 63 -8388608
+<mesh_color> 64 -8388608
+<mesh_color> 65 -8388608
+<mesh_color> 66 -8388608
+<mesh_color> 67 -8388608
+<mesh_color> 68 -8388608
+<mesh_color> 69 -8388608
+<mesh_color> 70 -8388608
+<mesh_color> 71 -8388608
+<mesh_color> 72 -8388608
+<mesh_color> 73 -8388608
+<mesh_color> 74 -8388608
+<mesh_color> 75 -8388608
+<mesh_color> 76 -8388608
+<mesh_color> 77 -8388608
+<mesh_color> 78 -8388608
+<mesh_color> 79 -8388608
+<mesh_color> 80 -8388608
+<mesh_color> 81 -8388608
+<mesh_color> 82 -8388608
+<mesh_color> 83 -8388608
+<mesh_color> 84 -8388608
+<mesh_color> 85 -8388608
+<mesh_color> 86 -8388608
+<mesh_color> 87 -8388608
+<mesh_color> 88 -8388608
+<mesh_color> 89 -8388608
+<mesh_color> 90 -8388608
+<mesh_color> 91 -8388608
+<mesh_color> 92 -8388608
+<mesh_color> 93 -8388608
+<mesh_color> 94 -8388608
+<mesh_color> 95 -8388608
+<mesh_color> 96 -8388608
+<mesh_color> 97 -8388608
+<mesh_color> 98 -8388608
+<mesh_color> 99 -8388608
+<color_key> 99
+<WholeFrm> 100
+<land> false
+<collsion> false
+<end>

@@ -1,0 +1,8 @@
+<N3FXBUNDLE>
+<PART> fx/volcano_mob02_1_4a.n3fxpart 0.00
+<PART> fx/volcano_mob02_1_4b.n3fxpart 0.00
+<PART> fx/volcano_mob02_1_4c.n3fxpart 0.00
+<PART> fx/volcano_mob02_1_4d.n3fxpart 0.10
+<Depend_Scale> false
+<Static_Pos> false
+<Velocity> 0.0000

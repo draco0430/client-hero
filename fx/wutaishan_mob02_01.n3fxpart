@@ -1,0 +1,134 @@
+<N3FXPART>
+<type> ground
+<texture> fx\particle\mud_wreckage011_.dxt 1
+<life> 0.5000
+<texture_animation_speed> 0.0000
+<position0> 0.0000 0.0000 0.0000
+<velocity> 0.0000 0.0000 0.0000
+<acceleration> 0.0000 0.0000 0.0000
+<rot_velocity> 0.0000 0.0000 0.0000
+<alpha> true
+<doubleside> true
+<light> false
+<zbuffer> true
+<zwrite> false
+<src_blend> SRCALPHA
+<dest_blend> INVSRCALPHA
+<fadeout> 0.0000
+<fadein> 0.0000
+<ground_size> 3.1500 3.1500
+<tex_loop> false
+<ground_scale_velocity> 0.4000 0.4000
+<ground_scale_acceleration> 0.0000 0.0000
+<ground_gap> 0.0000
+<change_color> true
+<ground_color> 0 11068247
+<color_key> 0
+<alpha_key> 0
+<ground_color> 1 195617623
+<ground_color> 2 380166999
+<ground_color> 3 564716375
+<ground_color> 4 749265751
+<ground_color> 5 933815127
+<ground_color> 6 1118364503
+<ground_color> 7 1302913879
+<ground_color> 8 1487463255
+<ground_color> 9 1672012631
+<ground_color> 10 1856562007
+<ground_color> 11 2041111383
+<ground_color> 12 -2052529321
+<ground_color> 13 -1867979945
+<ground_color> 14 -1683430569
+<ground_color> 15 -1498881193
+<ground_color> 16 -1314331817
+<ground_color> 17 -1129782441
+<ground_color> 18 -945233065
+<ground_color> 19 -760683689
+<ground_color> 20 -576134313
+<ground_color> 21 -391584937
+<ground_color> 22 -207035561
+<ground_color> 23 -5708969
+<alpha_key> 23
+<ground_color> 24 -5708969
+<ground_color> 25 -5708969
+<ground_color> 26 -5708969
+<ground_color> 27 -5708969
+<ground_color> 28 -5708969
+<ground_color> 29 -5708969
+<ground_color> 30 -5708969
+<ground_color> 31 -5708969
+<ground_color> 32 -5708969
+<ground_color> 33 -5708969
+<ground_color> 34 -5708969
+<ground_color> 35 -5708969
+<ground_color> 36 -5708969
+<ground_color> 37 -5708969
+<ground_color> 38 -5708969
+<ground_color> 39 -5708969
+<ground_color> 40 -5708969
+<ground_color> 41 -5708969
+<ground_color> 42 -5708969
+<ground_color> 43 -5708969
+<ground_color> 44 -5708969
+<ground_color> 45 -5708969
+<ground_color> 46 -5708969
+<ground_color> 47 -5708969
+<ground_color> 48 -5708969
+<ground_color> 49 -5708969
+<ground_color> 50 -5708969
+<ground_color> 51 -5708969
+<ground_color> 52 -5708969
+<ground_color> 53 -5708969
+<ground_color> 54 -5708969
+<ground_color> 55 -5708969
+<ground_color> 56 -5708969
+<ground_color> 57 -5708969
+<ground_color> 58 -5708969
+<ground_color> 59 -5708969
+<ground_color> 60 -5708969
+<ground_color> 61 -5708969
+<ground_color> 62 -5708969
+<ground_color> 63 -5708969
+<ground_color> 64 -5708969
+<ground_color> 65 -5708969
+<ground_color> 66 -5708969
+<ground_color> 67 -5708969
+<ground_color> 68 -5708969
+<ground_color> 69 -5708969
+<ground_color> 70 -5708969
+<ground_color> 71 -5708969
+<ground_color> 72 -5708969
+<ground_color> 73 -5708969
+<ground_color> 74 -5708969
+<ground_color> 75 -5708969
+<ground_color> 76 -5708969
+<ground_color> 77 -5708969
+<ground_color> 78 -5708969
+<ground_color> 79 -5708969
+<ground_color> 80 -5708969
+<ground_color> 81 -5708969
+<ground_color> 82 -5708969
+<ground_color> 83 -5708969
+<ground_color> 84 -5708969
+<alpha_key> 84
+<ground_color> 85 -290921641
+<ground_color> 86 -576134313
+<ground_color> 87 -861346985
+<ground_color> 88 -1146559657
+<ground_color> 89 -1431772329
+<ground_color> 90 -1716985001
+<ground_color> 91 -2002197673
+<ground_color> 92 2007556951
+<ground_color> 93 1722344279
+<ground_color> 94 1437131607
+<ground_color> 95 1151918935
+<ground_color> 96 866706263
+<ground_color> 97 581493591
+<ground_color> 98 296280919
+<ground_color> 99 11068247
+<color_key> 99
+<alpha_key> 99
+<land> false
+<collision> false
+<loop> true
+<end>

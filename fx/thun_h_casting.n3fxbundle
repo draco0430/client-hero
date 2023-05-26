@@ -1,0 +1,12 @@
+<N3FXBUNDLE>
+<PART> fx/thun_h_cast_part00.n3fxpart 0.00
+<PART> fx/thun_h_cast_line00.n3fxpart 0.00
+<PART> fx/thun_h_cast_bill00.n3fxpart 0.00
+<PART> fx/thun_h_cast_part02.n3fxpart 0.00
+<PART> fx/thun_h_cast_bill01.n3fxpart 0.00
+<PART> fx/thun_h_casting_part00.n3fxpart 0.00
+<PART> fx/thun_h_casting_line00.n3fxpart 0.00
+<PART> fx/thun_h_casting_part01.n3fxpart 0.00
+<Depend_Scale> false
+<Static_Pos> true
+<Velocity> 0.0000

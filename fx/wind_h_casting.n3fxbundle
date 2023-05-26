@@ -1,0 +1,12 @@
+<N3FXBUNDLE>
+<PART> fx/wind_casting_mesh00.n3fxpart 0.00
+<PART> fx/wind_casting_mesh00.n3fxpart 0.50
+<PART> fx/wind_casting_part00.n3fxpart 0.00
+<PART> fx/wind_cast_smoke00.n3fxpart 0.00
+<PART> fx/test_ready08.n3fxpart 0.00
+<PART> fx/test_ready09.n3fxpart 0.00
+<PART> fx/test_ready07.n3fxpart 0.00
+<PART> fx/wind_casting_grou00.n3fxpart 0.00
+<Depend_Scale> false
+<Static_Pos> false
+<Velocity> 0.0000
