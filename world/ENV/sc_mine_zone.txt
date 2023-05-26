@@ -1,0 +1,36 @@
+Moon : world\env\phases.tga
+Sun : world\env\sundisk.bmp
+Sun : world\env\sunglow.bmp
+Sun : world\env\sunflare.bmp
+Cloud : WORLD\ENV\wisps.tga
+Cloud : WORLD\ENV\puffs.tga
+Cloud : WORLD\ENV\tatters.tga
+Cloud : WORLD\streaks.tga
+Cloud : WORLD\ENV\dense.tga
+Cloud : WORLD\ENV\overcast.tga
+DayChange Count : 12
+Noon - SkyColor
+Type : [0], Time : [32400], Color1 : [-16777216], Color2 : [-16767392], color3 : [0], Parameter1 : [0], Parameter2 : [0], Elapse : [2160.000000]
+Noon - FogColor
+Type : [1], Time : [32400], Color1 : [-9240576], Color2 : [-8816263], color3 : [0], Parameter1 : [0], Parameter2 : [0], Elapse : [2160.000000]
+Noon - StarCount
+Type : [2], Time : [32400], Color1 : [0], Color2 : [0], color3 : [0], Parameter1 : [0], Parameter2 : [0], Elapse : [3600.000000]
+Noon - SunColor
+Type : [4], Time : [32400], Color1 : [-16777216], Color2 : [0], color3 : [0], Parameter1 : [100], Parameter2 : [0], Elapse : [1800.000000]
+Noon - GlowColor
+Type : [5], Time : [32400], Color1 : [-8388608], Color2 : [0], color3 : [0], Parameter1 : [120], Parameter2 : [0], Elapse : [1800.000000]
+Noon - FlareColor
+Type : [6], Time : [32400], Color1 : [-8388608], Color2 : [0], color3 : [0], Parameter1 : [0], Parameter2 : [150], Elapse : [1800.000000]
+Noon - Cloud1Color
+Type : [7], Time : [32400], Color1 : [-16777216], Color2 : [0], color3 : [0], Parameter1 : [0], Parameter2 : [0], Elapse : [1800.000000]
+Noon - Cloud2Color
+Type : [8], Time : [32400], Color1 : [-16777216], Color2 : [0], color3 : [0], Parameter1 : [0], Parameter2 : [0], Elapse : [1800.000000]
+Noon - Light0
+Type : [10], Time : [32400], Color1 : [-7663600], Color2 : [-9997239], color3 : [-16777216], Parameter1 : [0], Parameter2 : [0], Elapse : [1800.000000]
+Noon - Light1
+Type : [11], Time : [32400], Color1 : [-8388608], Color2 : [-10396104], color3 : [0], Parameter1 : [0], Parameter2 : [0], Elapse : [1800.000000]
+Noon - Light2
+Type : [12], Time : [32400], Color1 : [-8388608], Color2 : [0], color3 : [0], Parameter1 : [4], Parameter2 : [0], Elapse : [1800.000000]
+Noon - MoonPhase
+Type : [3], Time : [43200], Color1 : [-8388608], Color2 : [0], color3 : [0], Parameter1 : [0], Parameter2 : [0], Elapse : [0.000000]
+Is Fixed Sun? 0

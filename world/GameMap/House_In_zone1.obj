@@ -1,0 +1,10 @@
+Object Post Count : 8
+FileName[ obj_falls_01.n3object ] Position[ 11.472222 13.990883 171.641357] Rotation[ -0.034616 -0.477473 -0.008878 8.779243e-001 ] Scale[ 1.818628 2.114468 6.730093 ] MustShow[ 1 ]
+FileName[ sc_mine_obj_08.n3object ] Position[ 77.898354 -1.121727 116.663834] Rotation[ 0.000000 0.000000 0.000000 1.000000e+000 ] Scale[ 1.000000 1.000000 1.000000 ] MustShow[ 0 ]
+FileName[ pu_sea_waves_01.n3object ] Position[ 75.062958 -6.706700 110.783012] Rotation[ -0.009830 0.909426 0.022230 4.151624e-001 ] Scale[ 0.215517 1.305958 0.486403 ] MustShow[ 0 ]
+FileName[ obj_falls_01.n3object ] Position[ 38.015427 6.652602 164.297028] Rotation[ -0.035405 -0.110327 0.004861 9.932580e-001 ] Scale[ 1.818628 1.027076 5.040228 ] MustShow[ 1 ]
+FileName[ obj_falls_01.n3object ] Position[ 32.695122 1.064962 143.415421] Rotation[ -0.033040 -0.595313 -0.013621 8.027104e-001 ] Scale[ 1.818628 0.739206 3.968684 ] MustShow[ 1 ]
+FileName[ pu_sea_waves_01.n3object ] Position[ 69.498291 -6.674763 108.179619] Rotation[ -0.007411 0.981854 0.000501 1.895289e-001 ] Scale[ 0.215517 1.305958 0.486403 ] MustShow[ 0 ]
+FileName[ pu_sea_waves_01.n3object ] Position[ 58.343140 -6.713169 107.398926] Rotation[ 0.007290 0.970087 0.021285 -2.417240e-001 ] Scale[ 0.215517 1.305958 0.486403 ] MustShow[ 0 ]
+FileName[ pu_sea_waves_01.n3object ] Position[ 76.456375 -6.580336 125.990952] Rotation[ -0.019403 0.430352 0.011389 9.023860e-001 ] Scale[ 0.215517 1.305958 0.486403 ] MustShow[ 0 ]
+Char Count : 0

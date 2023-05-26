@@ -1,0 +1,32 @@
+Moon : world\env\phases.tga
+Sun : world\env\sundisk.bmp
+Sun : world\env\sunglow.bmp
+Sun : world\env\sunflare.bmp
+Cloud : WORLD\ENV\wisps.tga
+Cloud : WORLD\ENV\puffs.tga
+Cloud : WORLD\ENV\tatters.tga
+Cloud : WORLD\streaks.tga
+Cloud : WORLD\ENV\dense.tga
+Cloud : WORLD\ENV\overcast.tga
+DayChange Count : 10
+SunSet - SkyColor
+Type : [0], Time : [79200], Color1 : [-8257517], Color2 : [0], color3 : [0], Parameter1 : [0], Parameter2 : [0], Elapse : [2160.000000], bWeather_Percentage : [0]
+SunSet - FogColor
+Type : [1], Time : [79200], Color1 : [-10547696], Color2 : [-15198184], color3 : [0], Parameter1 : [0], Parameter2 : [0], Elapse : [2160.000000], bWeather_Percentage : [0]
+SunSet - SunColor
+Type : [4], Time : [79200], Color1 : [-3439531], Color2 : [0], color3 : [0], Parameter1 : [100], Parameter2 : [0], Elapse : [1800.000000], bWeather_Percentage : [0]
+SunSet - GlowColor
+Type : [5], Time : [79200], Color1 : [-1], Color2 : [0], color3 : [0], Parameter1 : [120], Parameter2 : [0], Elapse : [1800.000000], bWeather_Percentage : [0]
+SunSet - FlareColor
+Type : [6], Time : [79200], Color1 : [-3375064], Color2 : [0], color3 : [0], Parameter1 : [150], Parameter2 : [0], Elapse : [1800.000000], bWeather_Percentage : [0]
+SunSet - Cloud1Color
+Type : [7], Time : [79200], Color1 : [-32510], Color2 : [0], color3 : [0], Parameter1 : [0], Parameter2 : [0], Elapse : [1800.000000], bWeather_Percentage : [0]
+SunSet - Cloud2Color
+Type : [8], Time : [79200], Color1 : [-4366592], Color2 : [0], color3 : [0], Parameter1 : [0], Parameter2 : [0], Elapse : [1800.000000], bWeather_Percentage : [0]
+SunSet - Light0
+Type : [10], Time : [79200], Color1 : [-20619], Color2 : [-3506688], color3 : [0], Parameter1 : [0], Parameter2 : [0], Elapse : [1800.000000], bWeather_Percentage : [0]
+SunSet - Light1
+Type : [11], Time : [79200], Color1 : [-3512821], Color2 : [0], color3 : [0], Parameter1 : [0], Parameter2 : [0], Elapse : [1800.000000], bWeather_Percentage : [0]
+SunSet - Light2
+Type : [12], Time : [79200], Color1 : [-7204080], Color2 : [0], color3 : [0], Parameter1 : [0], Parameter2 : [0], Elapse : [1800.000000], bWeather_Percentage : [0]
+Is Fixed Sun? 0

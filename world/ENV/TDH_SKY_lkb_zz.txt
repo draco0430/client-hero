@@ -1,0 +1,98 @@
+Moon : world\env\phases.tga
+Sun : world\env\sundisk.bmp
+Sun : world\env\sunglow.bmp
+Sun : world\env\sunflare.bmp
+Cloud : WORLD\ENV\wisps.tga
+Cloud : WORLD\ENV\puffs.tga
+Cloud : WORLD\ENV\tatters.tga
+Cloud : WORLD\streaks.tga
+Cloud : WORLD\ENV\dense.tga
+Cloud : WORLD\ENV\overcast.tga
+DayChange Count : 43
+SunRise - SkyColor
+Type : [0], Time : [18000], Parameter1 : [-137262], Parameter2 : [0], Elapse : [180.000000]
+SunRise - FogColor
+Type : [1], Time : [18000], Parameter1 : [-1267595], Parameter2 : [0], Elapse : [180.000000]
+SunRise - SunColor
+Type : [4], Time : [18000], Parameter1 : [-5152951], Parameter2 : [0], Elapse : [150.000000]
+SunRise - GlowColor
+Type : [5], Time : [18000], Parameter1 : [-5932434], Parameter2 : [0], Elapse : [150.000000]
+SunRise - FlareColor
+Type : [6], Time : [18000], Parameter1 : [-8761294], Parameter2 : [0], Elapse : [150.000000]
+SunRise - Cloud1Color
+Type : [7], Time : [18000], Parameter1 : [-5934251], Parameter2 : [0], Elapse : [150.000000]
+SunRise - Cloud2Color
+Type : [8], Time : [18000], Parameter1 : [-5934251], Parameter2 : [0], Elapse : [150.000000]
+SunRise - Light0
+Type : [10], Time : [18000], Parameter1 : [-5934251], Parameter2 : [0], Elapse : [150.000000]
+SunRise - Light1
+Type : [11], Time : [18000], Parameter1 : [-9220037], Parameter2 : [0], Elapse : [150.000000]
+SunRise - Light2
+Type : [12], Time : [18000], Parameter1 : [-5934251], Parameter2 : [0], Elapse : [150.000000]
+Noon - StarCount
+Type : [2], Time : [21600], Parameter1 : [0], Parameter2 : [0], Elapse : [300.000000]
+Noon - SkyColor
+Type : [0], Time : [21600], Parameter1 : [-10378498], Parameter2 : [-16777216], Elapse : [180.000000]
+Noon - FogColor
+Type : [1], Time : [21600], Parameter1 : [-1510913], Parameter2 : [0], Elapse : [180.000000]
+Noon - SunColor
+Type : [4], Time : [21600], Parameter1 : [-1], Parameter2 : [0], Elapse : [150.000000]
+Noon - GlowColor
+Type : [5], Time : [21600], Parameter1 : [-2039616], Parameter2 : [0], Elapse : [150.000000]
+Noon - FlareColor
+Type : [6], Time : [21600], Parameter1 : [-10461088], Parameter2 : [0], Elapse : [150.000000]
+Noon - Cloud1Color
+Type : [7], Time : [21600], Parameter1 : [-1], Parameter2 : [0], Elapse : [150.000000]
+Noon - Cloud2Color
+Type : [8], Time : [21600], Parameter1 : [-1], Parameter2 : [0], Elapse : [150.000000]
+Noon - Light0
+Type : [10], Time : [21600], Parameter1 : [-1], Parameter2 : [0], Elapse : [150.000000]
+Noon - Light1
+Type : [11], Time : [21600], Parameter1 : [-8355712], Parameter2 : [0], Elapse : [150.000000]
+Noon - Light2
+Type : [12], Time : [21600], Parameter1 : [-1], Parameter2 : [0], Elapse : [150.000000]
+Noon - MoonPhase
+Type : [3], Time : [43200], Parameter1 : [0], Parameter2 : [0], Elapse : [0.000000]
+SunSet - SkyColor
+Type : [0], Time : [72000], Parameter1 : [-89522], Parameter2 : [0], Elapse : [180.000000]
+SunSet - FogColor
+Type : [1], Time : [72000], Parameter1 : [-14275783], Parameter2 : [0], Elapse : [180.000000]
+SunSet - SunColor
+Type : [4], Time : [72000], Parameter1 : [-2990001], Parameter2 : [0], Elapse : [150.000000]
+SunSet - GlowColor
+Type : [5], Time : [72000], Parameter1 : [-4161408], Parameter2 : [0], Elapse : [150.000000]
+SunSet - FlareColor
+Type : [6], Time : [72000], Parameter1 : [-3375064], Parameter2 : [0], Elapse : [150.000000]
+SunSet - Cloud1Color
+Type : [7], Time : [72000], Parameter1 : [-4810636], Parameter2 : [0], Elapse : [150.000000]
+SunSet - Cloud2Color
+Type : [8], Time : [72000], Parameter1 : [-6123157], Parameter2 : [0], Elapse : [150.000000]
+SunSet - Light0
+Type : [10], Time : [72000], Parameter1 : [-7888225], Parameter2 : [0], Elapse : [150.000000]
+SunSet - Light1
+Type : [11], Time : [72000], Parameter1 : [-10587793], Parameter2 : [0], Elapse : [150.000000]
+SunSet - Light2
+Type : [12], Time : [72000], Parameter1 : [-7888225], Parameter2 : [0], Elapse : [150.000000]
+MidNight - SkyColor
+Type : [0], Time : [75600], Parameter1 : [-15259851], Parameter2 : [0], Elapse : [180.000000]
+MidNight - FogColor
+Type : [1], Time : [75600], Parameter1 : [-15000541], Parameter2 : [0], Elapse : [180.000000]
+MidNight - StarCount
+Type : [2], Time : [75600], Parameter1 : [200], Parameter2 : [0], Elapse : [300.000000]
+MidNight - SunColor
+Type : [4], Time : [75600], Parameter1 : [-14801835], Parameter2 : [0], Elapse : [150.000000]
+MidNight - GlowColor
+Type : [5], Time : [75600], Parameter1 : [-15789519], Parameter2 : [0], Elapse : [150.000000]
+MidNight - FlareColor
+Type : [6], Time : [75600], Parameter1 : [-15789519], Parameter2 : [0], Elapse : [150.000000]
+MidNight - Cloud1Color
+Type : [7], Time : [75600], Parameter1 : [-6844256], Parameter2 : [0], Elapse : [150.000000]
+MidNight - Cloud2Color
+Type : [8], Time : [75600], Parameter1 : [-11579812], Parameter2 : [0], Elapse : [150.000000]
+MidNight - Light0
+Type : [10], Time : [75600], Parameter1 : [-15789519], Parameter2 : [0], Elapse : [150.000000]
+MidNight - Light1
+Type : [11], Time : [75600], Parameter1 : [-15789519], Parameter2 : [0], Elapse : [150.000000]
+MidNight - Light2
+Type : [12], Time : [75600], Parameter1 : [-15789519], Parameter2 : [0], Elapse : [150.000000]
+Is Fixed Sun? 0

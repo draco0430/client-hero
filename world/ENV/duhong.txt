@@ -1,0 +1,34 @@
+Moon : world\env\phases.tga
+Sun : world\env\sundisk.bmp
+Sun : world\env\sunglow.bmp
+Sun : world\env\sunflare.bmp
+Cloud : WORLD\ENV\wisps.tga
+Cloud : WORLD\ENV\puffs.tga
+Cloud : WORLD\ENV\tatters.tga
+Cloud : WORLD\streaks.tga
+Cloud : WORLD\ENV\dense.tga
+Cloud : WORLD\ENV\overcast.tga
+DayChange Count : 11
+MidNight - SkyColor
+Type : [0], Time : [82800], Color1 : [-13349518], Color2 : [-12829636], color3 : [-4144960], Parameter1 : [0], Parameter2 : [0], Elapse : [2160.000000]
+MidNight - FogColor
+Type : [1], Time : [82800], Color1 : [-15060892], Color2 : [0], color3 : [0], Parameter1 : [0], Parameter2 : [0], Elapse : [2160.000000]
+MidNight - StarCount
+Type : [2], Time : [82800], Color1 : [0], Color2 : [0], color3 : [0], Parameter1 : [2000], Parameter2 : [2000], Elapse : [300.000000]
+MidNight - SunColor
+Type : [4], Time : [82800], Color1 : [-1], Color2 : [0], color3 : [0], Parameter1 : [100], Parameter2 : [0], Elapse : [1800.000000]
+MidNight - GlowColor
+Type : [5], Time : [82800], Color1 : [-4863491], Color2 : [0], color3 : [0], Parameter1 : [120], Parameter2 : [0], Elapse : [1800.000000]
+MidNight - FlareColor
+Type : [6], Time : [82800], Color1 : [-15789519], Color2 : [0], color3 : [0], Parameter1 : [150], Parameter2 : [0], Elapse : [1800.000000]
+MidNight - Cloud1Color
+Type : [7], Time : [82800], Color1 : [-6705970], Color2 : [0], color3 : [0], Parameter1 : [0], Parameter2 : [0], Elapse : [1800.000000]
+MidNight - Cloud2Color
+Type : [8], Time : [82800], Color1 : [-8545821], Color2 : [0], color3 : [0], Parameter1 : [0], Parameter2 : [0], Elapse : [1800.000000]
+MidNight - Light0
+Type : [10], Time : [82800], Color1 : [-4378], Color2 : [-12303292], color3 : [-16777216], Parameter1 : [0], Parameter2 : [0], Elapse : [1800.000000]
+MidNight - Light1
+Type : [11], Time : [82800], Color1 : [-11046748], Color2 : [-16774880], color3 : [0], Parameter1 : [0], Parameter2 : [0], Elapse : [1800.000000]
+MidNight - Light2
+Type : [12], Time : [82800], Color1 : [-6909260], Color2 : [0], color3 : [-14803441], Parameter1 : [4], Parameter2 : [0], Elapse : [1800.000000]
+Is Fixed Sun? 0

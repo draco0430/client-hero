@@ -1,0 +1,36 @@
+Moon : world\env\phases.tga
+Sun : world\env\sundisk.bmp
+Sun : world\env\sunglow.bmp
+Sun : world\env\sunflare.bmp
+Cloud : WORLD\ENV\wisps.tga
+Cloud : WORLD\ENV\puffs.tga
+Cloud : WORLD\ENV\tatters.tga
+Cloud : WORLD\streaks.tga
+Cloud : WORLD\ENV\dense.tga
+Cloud : WORLD\ENV\overcast.tga
+DayChange Count : 12
+Noon - SkyColor
+Type : [0], Time : [32400], Color1 : [-9004953], Color2 : [-16767392], color3 : [0], Parameter1 : [0], Parameter2 : [0], Elapse : [2160.000000], bWeather_Percentage : [0]
+Noon - FogColor
+Type : [1], Time : [32400], Color1 : [-10720961], Color2 : [-8816263], color3 : [0], Parameter1 : [0], Parameter2 : [0], Elapse : [2160.000000], bWeather_Percentage : [0]
+Noon - StarCount
+Type : [2], Time : [32400], Color1 : [0], Color2 : [0], color3 : [0], Parameter1 : [0], Parameter2 : [0], Elapse : [3600.000000], bWeather_Percentage : [0]
+Noon - SunColor
+Type : [4], Time : [32400], Color1 : [-1], Color2 : [0], color3 : [0], Parameter1 : [100], Parameter2 : [0], Elapse : [1800.000000], bWeather_Percentage : [0]
+Noon - GlowColor
+Type : [5], Time : [32400], Color1 : [-5512194], Color2 : [0], color3 : [0], Parameter1 : [120], Parameter2 : [0], Elapse : [1800.000000], bWeather_Percentage : [0]
+Noon - FlareColor
+Type : [6], Time : [32400], Color1 : [-10461088], Color2 : [0], color3 : [0], Parameter1 : [0], Parameter2 : [150], Elapse : [1800.000000], bWeather_Percentage : [0]
+Noon - Cloud1Color
+Type : [7], Time : [32400], Color1 : [-13945303], Color2 : [0], color3 : [0], Parameter1 : [0], Parameter2 : [0], Elapse : [1800.000000], bWeather_Percentage : [0]
+Noon - Cloud2Color
+Type : [8], Time : [32400], Color1 : [-14867430], Color2 : [0], color3 : [0], Parameter1 : [0], Parameter2 : [0], Elapse : [1800.000000], bWeather_Percentage : [0]
+Noon - Light0
+Type : [10], Time : [32400], Color1 : [-5128558], Color2 : [-9734861], color3 : [-16777216], Parameter1 : [0], Parameter2 : [0], Elapse : [1800.000000], bWeather_Percentage : [0]
+Noon - Light1
+Type : [11], Time : [32400], Color1 : [-10063794], Color2 : [-9744108], color3 : [0], Parameter1 : [0], Parameter2 : [0], Elapse : [1800.000000], bWeather_Percentage : [0]
+Noon - Light2
+Type : [12], Time : [32400], Color1 : [-10459325], Color2 : [0], color3 : [0], Parameter1 : [4], Parameter2 : [0], Elapse : [1800.000000], bWeather_Percentage : [0]
+Noon - MoonPhase
+Type : [3], Time : [43200], Color1 : [-1], Color2 : [0], color3 : [0], Parameter1 : [0], Parameter2 : [0], Elapse : [0.000000], bWeather_Percentage : [0]
+Is Fixed Sun? 0
