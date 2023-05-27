@@ -1,0 +1,137 @@
+---------------------------------------------------------------------------
+// 로그 파일 기록 시작 [05월 28일 00시 25분]
+실행경로 : C:\Users\IanJayloG\Desktop\GolangFiles\Jaylo\HeroOnlineClassic\HeroOnlineClassic
+    [00시 25분 57초] =================================================
+    [00시 25분 57초] [시스템정보]
+    [00시 25분 57초] -운영 체제			: Windows 11 Pro for Workstations 64-bit (6.2, Build 9200) (22000.co_release.210604-1628)
+    [00시 25분 57초] -시스템 제조업체		: LENOVO
+    [00시 25분 57초] -시스템 모델		: 20TAS0AC00
+    [00시 25분 57초] -BIOS			: R1EET47W(1.47 )
+    [00시 25분 57초] -프로세서			: 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz (8 CPUs), ~2.8GHz
+    [00시 25분 57초] -메모리			: 16384MB RAM
+    [00시 25분 57초] =================================================
+    [00시 25분 58초] =================================================
+    [00시 25분 58초] [디스플레이 정보]
+    [00시 25분 58초] -이름	: Intel(R) Iris(R) Xe Graphics
+    [00시 25분 58초] -제조업체	: Intel Corporation
+    [00시 25분 58초] -칩종류	: Intel(R) Iris(R) Xe Graphics Family
+    [00시 25분 58초] -메모리	: 4095 MB
+    [00시 25분 58초] -드라이버	: C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_c782574e7f94da68\igdumdim64.dll,C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_c782574e7f94da68\igd10iumd64.dll,C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_c782574e7f94da68\igd10iumd64.dll,C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_c782574e7f94da68\igd12umd64.dll
+    [00시 25분 58초] -드라이버버전	: 31.00.0101.3413
+    [00시 25분 58초] -드라이버모델	: WDDM 3.0
+    [00시 25분 58초] -DDraw가속	: Enabled
+    [00시 25분 58초] -D3D가속	: Enabled
+    [00시 25분 58초] -AGP가속	: Enabled
+    [00시 25분 58초] =================================================
+    [00시 26분 04초] SendMgameLoginMD()
+    [00시 26분 07초] Send Server Select!!
+    [00시 26분 13초] SendSelectCharacter()
+    [00시 26분 15초] new CUILoadingDlg()
+    [00시 26분 15초] CGameProcMain::Init()
+    [00시 26분 15초] new CUILoadingDlg()
+    [00시 26분 15초] Light and Sound Release()
+    [00시 26분 15초] LoadZone Start 62
+    [00시 26분 18초] Load End 62
+    [00시 26분 18초] CGameProcMain::Init() END
+    [00시 26분 18초] CUIMyStateNew , bg_3 / Load Fail
+    [00시 26분 18초] CUIMyStateNew , image_pk / Load Fail
+    [00시 26분 19초] CUIPremiumItemDraw , Image_SmallTortoise / Load Fail
+    [00시 26분 19초] CUIPremiumItemDraw , Image_SmallWhitetiger / Load Fail
+    [00시 26분 19초] CUIPremiumItemDraw , Image_Younho / Load Fail
+    [00시 26분 19초] CUIPremiumItemDraw , Image_Samu / Load Fail
+    [00시 26분 19초]       ^^^^^^^^^  GameProcMain Release Start  ^^^^^^^^^^^ 
+    [00시 26분 19초] 			s_pFX (0.0)
+    [00시 26분 19초] 			m_pShapes (0.0)
+    [00시 26분 19초] 			m_pSky (0.0)
+    [00시 26분 19초] 			m_pGlobalEffectMgr (0.0)
+    [00시 26분 19초] 			m_pxTerrain (0.0)
+    [00시 26분 19초] 			m_pDecalMgr (0.0)
+    [00시 26분 19초] 			m_pBgmMgr (0.0)
+    [00시 26분 19초] 			m_pWaterFallMgr (0.0)
+    [00시 26분 19초] 			m_pMissileMgr (0.0)
+    [00시 26분 19초] 			m_pMapDynLightMgr (0.0)
+    [00시 26분 19초] 			m_pProjectShadow (0.0)
+    [00시 26분 19초] 			m_pGrassMng (0.0)
+    [00시 26분 19초] 			m_pDropedItemMgr (0.0)
+    [00시 26분 19초] 			m_pSKillEntityMgr (0.0)
+    [00시 26분 19초] 			m_pBoomObjectMgr (0.0)
+    [00시 26분 19초] 			m_pPond (0.0)
+    [00시 26분 19초] 			CGameProcMain End (0.0)
+    [00시 26분 19초] CGameProcMain::Init()
+    [00시 26분 19초] new CUILoadingDlg()
+    [00시 26분 19초] Light and Sound Release()
+    [00시 26분 19초] LoadZone Start 1
+    [00시 26분 21초] Load End 1
+    [00시 26분 21초] CGameProcMain::Init() END
+    [00시 26분 21초] 무공서의 스킬아이디가 서버랑 틀리네 서버ID : 969563648 클라ID : 0
+    [00시 26분 21초] 무공서의 스킬아이디가 서버랑 틀리네 서버ID : -2013020416 클라ID : 0
+    [00시 26분 21초] 무공서의 스킬아이디가 서버랑 틀리네 서버ID : 1220521700 클라ID : 0
+    [00시 26분 21초] 무공서의 스킬아이디가 서버랑 틀리네 서버ID : -640139133 클라ID : 0
+    [00시 26분 21초] 무공서의 스킬아이디가 서버랑 틀리네 서버ID : -1360781633 클라ID : 0
+    [00시 26분 21초] 무공서의 스킬아이디가 서버랑 틀리네 서버ID : 1082363208 클라ID : 0
+    [00시 26분 21초] 무공서의 스킬아이디가 서버랑 틀리네 서버ID : 515851225 클라ID : 0
+    [01시 53분 02초] Game Exit
+    [01시 53분 04초]  ~~~~~~~~~~~ Socket closed1..
+
+    [01시 53분 04초]       pGameTime (0.0)
+    [01시 53분 04초]       g_PartResManager (0.0)
+    [01시 53분 04초]       g_PlugsResManager (0.0)
+    [01시 53분 04초]       g_UISEntityResManager (0.0)
+    [01시 53분 04초]       g_UISBoardResManager (0.0)
+    [01시 53분 04초]       g_ChrResManager (0.0)
+    [01시 53분 04초]       g_FXResManager (0.2)
+    [01시 53분 04초]       CDamageNumeral (0.2)
+    [01시 53분 04초]       AntiRelease (0.2)
+    [01시 53분 04초]  ##########  Release Start ########## 
+    [01시 53분 04초]       ToolTip (0.0)
+    [01시 53분 04초]       s_pProcCredits (0.0)
+    [01시 53분 04초]       ^^^^^^^^^  GameProcMain Release Start  ^^^^^^^^^^^ 
+    [01시 53분 04초] 			s_pFX (0.0)
+    [01시 53분 04초] 			m_pShapes (0.0)
+    [01시 53분 04초] 			m_pSky (0.0)
+    [01시 53분 04초] 			m_pGlobalEffectMgr (0.0)
+    [01시 53분 04초] 			m_pxTerrain (0.0)
+    [01시 53분 04초] 			m_pDecalMgr (0.0)
+    [01시 53분 04초] 			m_pBgmMgr (0.0)
+    [01시 53분 04초] 			m_pWaterFallMgr (0.0)
+    [01시 53분 04초] 			m_pMissileMgr (0.0)
+    [01시 53분 04초] 			m_pMapDynLightMgr (0.0)
+    [01시 53분 04초] 			m_pProjectShadow (0.0)
+    [01시 53분 04초] 			m_pGrassMng (0.0)
+    [01시 53분 04초] 			m_pDropedItemMgr (0.0)
+    [01시 53분 04초] 			m_pSKillEntityMgr (0.0)
+    [01시 53분 04초] 			m_pBoomObjectMgr (0.0)
+    [01시 53분 04초] 			m_pPacketHandler (0.0)
+    [01시 53분 04초]  kill UIHandler complete 
+    [01시 53분 04초] 			m_pUIHandler (0.1)
+    [01시 53분 04초] 			m_pRegionMgr (0.1)
+    [01시 53분 04초] 			m_pLifeEntityMgr (0.1)
+    [01시 53분 04초] 			m_pMyPlayer (0.1)
+    [01시 53분 04초] CMunpaDataMgr::Save( HANDLE hFile )
+    [01시 53분 04초] 			m_pMunpaDataMgr (0.1)
+    [01시 53분 04초] 			m_pPond (0.1)
+    [01시 53분 04초] 			CGameProcMain End (0.2)
+    [01시 53분 04초]       Current Scene (0.2)
+    [01시 53분 04초]       s_pProcMain (0.2)
+    [01시 53분 04초]       s_pMsgBox (0.2)
+    [01시 53분 04초]       s_pTableMgr (0.2)
+    [01시 53분 04초]       s_pMsgMgr (0.2)
+    [01시 53분 04초]       s_pUIMgr (0.2)
+    [01시 53분 04초]       s_pFX (0.2)
+    [01시 53분 04초]       s_pProcOption (0.2)
+    [01시 53분 04초]       s_pLocalInput (0.2)
+    [01시 53분 04초]       s_pCursorMgr (0.2)
+    [01시 53분 04초]       s_pSocket (0.2)
+    [01시 53분 04초]       s_pIrc (0.2)
+    [01시 53분 04초]       s_pWCManager (0.2)
+    [01시 53분 04초]       s_pModelCharactor (0.2)
+    [01시 53분 04초]       s_pDissolve (0.2)
+    [01시 53분 04초]       m_pThread (0.0)
+    [01시 53분 04초]       m_pPacketThread (0.0)
+    [01시 53분 04초]       g_ThreadBuffer (0.0)
+    [01시 53분 04초]       g_PacketBuffer (0.0)
+    [01시 53분 04초]       g_ItmeBuffer (0.0)
+    [01시 53분 04초]       m_Cameras (0.0)
+    [01시 53분 04초]       itLgt (0.0)
+// 로그 파일 기록 끝 [05월 28일 01시 53분]
+---------------------------------------------------------------------------
