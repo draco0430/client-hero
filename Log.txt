@@ -1,0 +1,84 @@
+---------------------------------------------------------------------------
+// 로그 파일 기록 시작 [12월 29일 14시 37분]
+실행경로 : D:\client-hero
+    [14시 37분 19초] =================================================
+    [14시 37분 19초] [시스템정보]
+    [14시 37분 19초] -운영 체제			: Windows 11 Pro 64-bit (6.2, Build 9200) (22621.ni_release.220506-1250)
+    [14시 37분 19초] -시스템 제조업체		: Gigabyte Technology Co., Ltd.
+    [14시 37분 19초] -시스템 모델		: B365M DS3H
+    [14시 37분 19초] -BIOS			: F5
+    [14시 37분 19초] -프로세서			: Intel(R) Core(TM) i3-9100F CPU @ 3.60GHz (4 CPUs), ~3.6GHz
+    [14시 37분 19초] -메모리			: 16384MB RAM
+    [14시 37분 19초] =================================================
+    [14시 37분 21초] =================================================
+    [14시 37분 21초] [디스플레이 정보]
+    [14시 37분 21초] -이름	: NVIDIA GeForce GTX 1660 SUPER
+    [14시 37분 21초] -제조업체	: NVIDIA
+    [14시 37분 21초] -칩종류	: NVIDIA GeForce GTX 1660 SUPER
+    [14시 37분 21초] -메모리	: 4095 MB
+    [14시 37분 21초] -드라이버	: C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_1fea8972dc2f0a69\nvldumdx.dll,C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_1fea8972dc2f0a69\nvldumdx.dll,C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_1fea8972dc2f0a69\nvldumdx.dll,C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_1fea8972dc2f0a69\nvldumdx.dll
+    [14시 37분 21초] -드라이버버전	: 31.00.0015.4617
+    [14시 37분 21초] -드라이버모델	: WDDM 3.1
+    [14시 37분 21초] -DDraw가속	: Enabled
+    [14시 37분 21초] -D3D가속	: Enabled
+    [14시 37분 21초] -AGP가속	: Enabled
+    [14시 37분 21초] =================================================
+    [14시 37분 25초]       pGameTime (0.0)
+    [14시 37분 25초]       g_PartResManager (0.0)
+    [14시 37분 25초]       g_PlugsResManager (0.0)
+    [14시 37분 25초]       g_UISEntityResManager (0.0)
+    [14시 37분 25초]       g_UISBoardResManager (0.0)
+    [14시 37분 25초]       g_ChrResManager (0.0)
+    [14시 37분 25초]       g_FXResManager (0.0)
+    [14시 37분 25초]       CDamageNumeral (0.0)
+    [14시 37분 25초]       AntiRelease (0.0)
+    [14시 37분 25초]  ##########  Release Start ########## 
+    [14시 37분 25초]       ToolTip (0.0)
+    [14시 37분 25초]       s_pProcCredits (0.0)
+    [14시 37분 25초]       Current Scene (0.0)
+    [14시 37분 25초]       ^^^^^^^^^  GameProcMain Release Start  ^^^^^^^^^^^ 
+    [14시 37분 25초] 			s_pFX (0.0)
+    [14시 37분 25초] 			m_pShapes (0.0)
+    [14시 37분 25초] 			m_pSky (0.0)
+    [14시 37분 25초] 			m_pGlobalEffectMgr (0.0)
+    [14시 37분 25초] 			m_pxTerrain (0.0)
+    [14시 37분 25초] 			m_pDecalMgr (0.0)
+    [14시 37분 25초] 			m_pBgmMgr (0.0)
+    [14시 37분 25초] 			m_pWaterFallMgr (0.0)
+    [14시 37분 25초] 			m_pMissileMgr (0.0)
+    [14시 37분 25초] 			m_pMapDynLightMgr (0.0)
+    [14시 37분 25초] 			m_pProjectShadow (0.0)
+    [14시 37분 25초] 			m_pGrassMng (0.0)
+    [14시 37분 25초] 			m_pDropedItemMgr (0.0)
+    [14시 37분 25초] 			m_pSKillEntityMgr (0.0)
+    [14시 37분 25초] 			m_pBoomObjectMgr (0.0)
+    [14시 37분 25초] 			m_pPacketHandler (0.0)
+    [14시 37분 25초] 			m_pUIHandler (0.0)
+    [14시 37분 25초] 			m_pRegionMgr (0.0)
+    [14시 37분 25초] 			m_pLifeEntityMgr (0.0)
+    [14시 37분 25초] 			m_pMyPlayer (0.0)
+    [14시 37분 25초] 			m_pMunpaDataMgr (0.0)
+    [14시 37분 25초] 			CGameProcMain End (0.0)
+    [14시 37분 25초]       s_pProcMain (0.0)
+    [14시 37분 25초]       s_pMsgBox (0.0)
+    [14시 37분 25초]       s_pTableMgr (0.0)
+    [14시 37분 25초]       s_pMsgMgr (0.0)
+    [14시 37분 25초]       s_pUIMgr (0.0)
+    [14시 37분 25초]       s_pFX (0.0)
+    [14시 37분 25초]       s_pProcOption (0.0)
+    [14시 37분 25초]       s_pLocalInput (0.0)
+    [14시 37분 25초]       s_pCursorMgr (0.0)
+    [14시 37분 25초]       s_pSocket (0.0)
+    [14시 37분 25초]       s_pIrc (0.0)
+    [14시 37분 25초]       s_pWCManager (0.0)
+    [14시 37분 25초]       s_pModelCharactor (0.0)
+    [14시 37분 25초]       s_pDissolve (0.0)
+    [14시 37분 25초]       m_pThread (0.0)
+    [14시 37분 25초]       m_pPacketThread (0.0)
+    [14시 37분 25초]       g_ThreadBuffer (0.0)
+    [14시 37분 25초]       g_PacketBuffer (0.0)
+    [14시 37분 25초]       g_ItmeBuffer (0.0)
+    [14시 37분 25초]       m_Cameras (0.0)
+    [14시 37분 25초]       itLgt (0.0)
+// 로그 파일 기록 끝 [12월 29일 14시 37분]
+---------------------------------------------------------------------------
