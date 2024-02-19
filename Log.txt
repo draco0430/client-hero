@@ -1,4 +1,5 @@
 ---------------------------------------------------------------------------
+<<<<<<< HEAD
 // 로그 파일 기록 시작 [02월 19일 23시 44분]
 실행경로 : D:\Hero Online\client-hero
     [23시 44분 26초] =================================================
@@ -81,4 +82,135 @@
     [23시 44분 54초]       m_Cameras (0.0)
     [23시 44분 54초]       itLgt (0.0)
 // 로그 파일 기록 끝 [02월 19일 23시 44분]
+=======
+// 로그 파일 기록 시작 [02월 01일 19시 16분]
+실행경로 : D:\client-hero
+    [19시 16분 40초] =================================================
+    [19시 16분 40초] [시스템정보]
+    [19시 16분 40초] -운영 체제			: Windows 11 Pro 64-bit (6.2, Build 9200) (22621.ni_release.220506-1250)
+    [19시 16분 40초] -시스템 제조업체		: Gigabyte Technology Co., Ltd.
+    [19시 16분 40초] -시스템 모델		: B365M DS3H
+    [19시 16분 40초] -BIOS			: F5
+    [19시 16분 40초] -프로세서			: Intel(R) Core(TM) i3-9100F CPU @ 3.60GHz (4 CPUs), ~3.6GHz
+    [19시 16분 40초] -메모리			: 16384MB RAM
+    [19시 16분 40초] =================================================
+    [19시 16분 40초] =================================================
+    [19시 16분 40초] [디스플레이 정보]
+    [19시 16분 40초] -이름	: NVIDIA GeForce GTX 1660 SUPER
+    [19시 16분 40초] -제조업체	: NVIDIA
+    [19시 16분 40초] -칩종류	: NVIDIA GeForce GTX 1660 SUPER
+    [19시 16분 40초] -메모리	: 4095 MB
+    [19시 16분 40초] -드라이버	: C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_1fea8972dc2f0a69\nvldumdx.dll,C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_1fea8972dc2f0a69\nvldumdx.dll,C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_1fea8972dc2f0a69\nvldumdx.dll,C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_1fea8972dc2f0a69\nvldumdx.dll
+    [19시 16분 40초] -드라이버버전	: 31.00.0015.4617
+    [19시 16분 40초] -드라이버모델	: WDDM 3.1
+    [19시 16분 40초] -DDraw가속	: Enabled
+    [19시 16분 40초] -D3D가속	: Enabled
+    [19시 16분 40초] -AGP가속	: Enabled
+    [19시 16분 40초] =================================================
+    [19시 16분 46초] SendMgameLoginMD()
+    [19시 16분 58초] SendMgameLoginMD()
+    [19시 17분 00초] Send Server Select!!
+    [19시 17분 02초] SendSelectCharacter()
+    [19시 17분 05초] new CUILoadingDlg()
+    [19시 17분 05초] CGameProcMain::Init()
+    [19시 17분 05초] new CUILoadingDlg()
+    [19시 17분 05초] Light and Sound Release()
+    [19시 17분 05초] LoadZone Start 62
+    [19시 17분 06초] Load End 62
+    [19시 17분 06초] CGameProcMain::Init() END
+    [19시 17분 06초] CUIMyStateNew , bg_3 / Load Fail
+    [19시 17분 06초] CUIMyStateNew , image_pk / Load Fail
+    [19시 17분 06초] CUIPremiumItemDraw , Image_SmallTortoise / Load Fail
+    [19시 17분 06초] CUIPremiumItemDraw , Image_SmallWhitetiger / Load Fail
+    [19시 17분 06초] CUIPremiumItemDraw , Image_Younho / Load Fail
+    [19시 17분 06초] CUIPremiumItemDraw , Image_Samu / Load Fail
+    [19시 17분 06초]       ^^^^^^^^^  GameProcMain Release Start  ^^^^^^^^^^^ 
+    [19시 17분 06초] 			s_pFX (0.0)
+    [19시 17분 06초] 			m_pShapes (0.0)
+    [19시 17분 06초] 			m_pSky (0.0)
+    [19시 17분 06초] 			m_pGlobalEffectMgr (0.0)
+    [19시 17분 06초] 			m_pxTerrain (0.0)
+    [19시 17분 06초] 			m_pDecalMgr (0.0)
+    [19시 17분 06초] 			m_pBgmMgr (0.0)
+    [19시 17분 06초] 			m_pWaterFallMgr (0.0)
+    [19시 17분 06초] 			m_pMissileMgr (0.0)
+    [19시 17분 06초] 			m_pMapDynLightMgr (0.0)
+    [19시 17분 06초] 			m_pProjectShadow (0.0)
+    [19시 17분 06초] 			m_pGrassMng (0.0)
+    [19시 17분 06초] 			m_pDropedItemMgr (0.0)
+    [19시 17분 06초] 			m_pSKillEntityMgr (0.0)
+    [19시 17분 06초] 			m_pBoomObjectMgr (0.0)
+    [19시 17분 06초] 			m_pPond (0.0)
+    [19시 17분 06초] 			CGameProcMain End (0.0)
+    [19시 17분 06초] CGameProcMain::Init()
+    [19시 17분 06초] new CUILoadingDlg()
+    [19시 17분 06초] Light and Sound Release()
+    [19시 17분 06초] LoadZone Start 1
+    [19시 17분 07초] Load End 1
+    [19시 17분 07초] CGameProcMain::Init() END
+    [19시 17분 17초] Game Exit
+    [19시 17분 19초]  ~~~~~~~~~~~ Socket closed1..
+
+    [19시 17분 19초]       pGameTime (0.0)
+    [19시 17분 19초]       g_PartResManager (0.0)
+    [19시 17분 19초]       g_PlugsResManager (0.0)
+    [19시 17분 19초]       g_UISEntityResManager (0.0)
+    [19시 17분 19초]       g_UISBoardResManager (0.0)
+    [19시 17분 19초]       g_ChrResManager (0.0)
+    [19시 17분 19초]       g_FXResManager (0.0)
+    [19시 17분 19초]       CDamageNumeral (0.0)
+    [19시 17분 19초]       AntiRelease (0.0)
+    [19시 17분 19초]  ##########  Release Start ########## 
+    [19시 17분 19초]       ToolTip (0.0)
+    [19시 17분 19초]       s_pProcCredits (0.0)
+    [19시 17분 19초]       ^^^^^^^^^  GameProcMain Release Start  ^^^^^^^^^^^ 
+    [19시 17분 19초] 			s_pFX (0.0)
+    [19시 17분 19초] 			m_pShapes (0.0)
+    [19시 17분 19초] 			m_pSky (0.0)
+    [19시 17분 19초] 			m_pGlobalEffectMgr (0.0)
+    [19시 17분 19초] 			m_pxTerrain (0.0)
+    [19시 17분 19초] 			m_pDecalMgr (0.0)
+    [19시 17분 19초] 			m_pBgmMgr (0.0)
+    [19시 17분 19초] 			m_pWaterFallMgr (0.0)
+    [19시 17분 19초] 			m_pMissileMgr (0.0)
+    [19시 17분 19초] 			m_pMapDynLightMgr (0.0)
+    [19시 17분 19초] 			m_pProjectShadow (0.0)
+    [19시 17분 19초] 			m_pGrassMng (0.0)
+    [19시 17분 19초] 			m_pDropedItemMgr (0.0)
+    [19시 17분 19초] 			m_pSKillEntityMgr (0.0)
+    [19시 17분 19초] 			m_pBoomObjectMgr (0.0)
+    [19시 17분 19초] 			m_pPacketHandler (0.0)
+    [19시 17분 19초]  kill UIHandler complete 
+    [19시 17분 19초] 			m_pUIHandler (0.0)
+    [19시 17분 19초] 			m_pRegionMgr (0.0)
+    [19시 17분 19초] 			m_pLifeEntityMgr (0.0)
+    [19시 17분 19초] 			m_pMyPlayer (0.0)
+    [19시 17분 19초] CMunpaDataMgr::Save( HANDLE hFile )
+    [19시 17분 19초] 			m_pMunpaDataMgr (0.0)
+    [19시 17분 19초] 			m_pPond (0.0)
+    [19시 17분 19초] 			CGameProcMain End (0.1)
+    [19시 17분 19초]       Current Scene (0.1)
+    [19시 17분 19초]       s_pProcMain (0.1)
+    [19시 17분 19초]       s_pMsgBox (0.1)
+    [19시 17분 19초]       s_pTableMgr (0.1)
+    [19시 17분 19초]       s_pMsgMgr (0.1)
+    [19시 17분 19초]       s_pUIMgr (0.1)
+    [19시 17분 19초]       s_pFX (0.1)
+    [19시 17분 19초]       s_pProcOption (0.1)
+    [19시 17분 19초]       s_pLocalInput (0.1)
+    [19시 17분 19초]       s_pCursorMgr (0.1)
+    [19시 17분 19초]       s_pSocket (0.1)
+    [19시 17분 19초]       s_pIrc (0.1)
+    [19시 17분 19초]       s_pWCManager (0.1)
+    [19시 17분 19초]       s_pModelCharactor (0.1)
+    [19시 17분 19초]       s_pDissolve (0.1)
+    [19시 17분 19초]       m_pThread (0.0)
+    [19시 17분 19초]       m_pPacketThread (0.0)
+    [19시 17분 19초]       g_ThreadBuffer (0.0)
+    [19시 17분 19초]       g_PacketBuffer (0.0)
+    [19시 17분 19초]       g_ItmeBuffer (0.0)
+    [19시 17분 19초]       m_Cameras (0.0)
+    [19시 17분 19초]       itLgt (0.0)
+// 로그 파일 기록 끝 [02월 01일 19시 17분]
+>>>>>>> a44f9288f726722f64e74b931f2badffc2693bf9
 ---------------------------------------------------------------------------
